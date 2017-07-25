@@ -20,7 +20,7 @@
 
 - May 18, 1999 - Commuter tax repealed
   - Was 0.45 of 1% income tax on commuters in the state who work in New York City
-  - Would reduce city revenue by $210m (or up to $360m, if courts rule tax now discriminates against out-of-state commuters (apparently this remained))
+  - Would reduce city revenue by $210m (or up to $360m, if courts rule tax now discriminates against out-of-state commuters (apparently this remained at the time, NEED SOURCE FOR RESULT OF THIS))
   - Mayor Giuliani opposed, Gov. Pataki signed, week before special election for State Senate seat in Rockland/Orange counties (NW of NYC)
   - City enjoyed $2b surplus at the time, Republicans intended measure to lighten tax burder on suburban residents
   - "The Mayor asserted that the city had a right to ask commuters to contribute to the costs of police, fire and other services."

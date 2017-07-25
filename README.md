@@ -13,6 +13,7 @@ This document accompanies my goal to learn the complete financial history of the
 - [APTA](http://www.apta.com/) - American Public Transportation Association
 - [PCAC](http://www.pcac.org/) - Permanent Citizen's Advisory Committee to the MTA
 - [NYT](http://www.nytimes.com/) - New York Times
+- [NYG](https://www.govenor.ny.gov/) - New York Governor's Office
 
 ## 2000s
 - 2004 - MTA Bus Company created
@@ -30,7 +31,7 @@ This document accompanies my goal to learn the complete financial history of the
   - Cuomo requests federal funds for high speed rail
   - $295 million for MTA to construct Harold Interlocking (flyover for Amtrak NEC which currently must wait for LIRR)
   - It was approved (according the “The Road Back”) WAS THIS EVER BUILT???  
-  - Source: [NY Govenor's Office](https://www.governor.ny.gov/news/governor-cuomo-seeks-federal-funds-high-speed-rail-projects)
+  - Source: [NYG](https://www.governor.ny.gov/news/governor-cuomo-seeks-federal-funds-high-speed-rail-projects)
 
 ## Sweeping Histories
 

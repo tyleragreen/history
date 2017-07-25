@@ -1,5 +1,10 @@
 # New York City Financial History
 
+## Table of Contents
+
+- [1970s](#1970s)
+- [1990s](#1990s)
+
 ## Acronyms
 
 - UCSB - University of California, Santa Barbara
@@ -10,3 +15,13 @@
 
 - 1978 - New York City Loan Guarantee Act
   - Source: [NYCM](http://www.nyc.gov/html/records/pdf/executive_orders/1978EO026.PDF) [CUNY](http://www.baruch.cuny.edu/library/alumni/online_exhibits/amfl/mac/pdf_files/Legislation_Federal/1977-78-1.pdf) [UCSB](http://www.presidency.ucsb.edu/ws/?pid=31164)
+
+## 1990s
+
+- May 18, 1999 - Commuter tax repealed
+  - Was 0.45 of 1% income tax on commuters in the state who work in New York City
+  - Would reduce city revenue by $210m (or up to $360m, if courts rule tax now discriminates against out-of-state commuters (apparently this remained))
+  - Mayor Giuliani opposed, Gov. Pataki signed, week before special election for State Senate seat in Rockland/Orange counties (NW of NYC)
+  - City enjoyed $2b surplus at the time, Republicans intended measure to lighten tax burder on suburban residents
+  - "The Mayor asserted that the city had a right to ask commuters to contribute to the costs of police, fire and other services."
+  - Source: [NYT](http://www.nytimes.com/1999/05/18/nyregion/legislature-acts-quickly-to-repeal-commuter-tax.html)

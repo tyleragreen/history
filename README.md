@@ -14,6 +14,8 @@ This document accompanies my goal to learn the complete financial history of the
 - [PCAC](http://www.pcac.org/) - Permanent Citizen's Advisory Committee to the MTA
 - [NYT](http://www.nytimes.com/) - New York Times
 - [NYG](https://www.govenor.ny.gov/) - New York Governor's Office
+- NEC - Northeast Corridor, Amtrak route
+- LIRR - Long Island Rail Road
 
 ## 2000s
 - 2004 - MTA Bus Company created

@@ -13,8 +13,13 @@
 
 ## 1970s
 
+- 1975 - New York City Seasonal Financing Act
+  - Source: [Ford Library Museum](https://www.fordlibrarymuseum.gov/library/document/0055/1669138.pdf)
+- March 16, 1978 - Jacob Javits pleads for federal load guarantees for New York City
+  - Cites Congressional Research Service report on existing large and varied federal loan guarantees
+  - Source: [CUNY](http://www.baruch.cuny.edu/library/alumni/online_exhibits/amfl/mac/pdf_files/Legislation_Federal/1977-78-1.pdf)
 - 1978 - New York City Loan Guarantee Act
-  - Source: [NYCM](http://www.nyc.gov/html/records/pdf/executive_orders/1978EO026.PDF) [CUNY](http://www.baruch.cuny.edu/library/alumni/online_exhibits/amfl/mac/pdf_files/Legislation_Federal/1977-78-1.pdf) [UCSB](http://www.presidency.ucsb.edu/ws/?pid=31164)
+  - Source: [NYCM](http://www.nyc.gov/html/records/pdf/executive_orders/1978EO026.PDF) [UCSB](http://www.presidency.ucsb.edu/ws/?pid=31164)
 
 ## 1990s
 

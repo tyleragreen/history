@@ -8,16 +8,20 @@ This document accompanies my goal to learn the complete financial history of the
 - [2000s](#2000s)
 - [Sweeping Histories](#sweeping-histories)
 - [Sources to Explore Deeper](#sources-to-explore-deeper)
+- [Other](#other)
 
 ## Acronyms
+
 - [APTA](http://www.apta.com/) - American Public Transportation Association
 - [PCAC](http://www.pcac.org/) - Permanent Citizen's Advisory Committee to the MTA
 - [NYT](http://www.nytimes.com/) - New York Times
 - [NYG](https://www.govenor.ny.gov/) - New York Governor's Office
 - NEC - Northeast Corridor, Amtrak route
 - LIRR - Long Island Rail Road
+- MNR - Metro-North Railroad
 
 ## 2000s
+
 - 2004 - MTA Bus Company created
   - Source: [APTA](http://www.apta.com/passengertransport/Documents/archive_434.htm)
 - 2005 - New York State Transportation Bond Act
@@ -41,4 +45,14 @@ This document accompanies my goal to learn the complete financial history of the
   - Source: [PCAC](http://www.pcac.org/wp-content/uploads/2014/09/The-Road-Back.pdf)
 
 ## Sources To Explore Deeper
+
 - [Program for Action](https://en.wikipedia.org/wiki/Program_for_Action)
+
+## Other
+### This section is for other MTA notes. Could be turned into a (non-financial) history document.
+
+- Joseph Giulietti - President of MNR
+  - Announced January 9, 2014
+    - Source: [MTA](http://www.mta.info/press-release/metro-north/mta-announces-new-president-metro-north-railroad)
+  - Credited with rebuilding positive narrative surrounding MNR after Spuyten-Duyvil derailment which killed 4 in December 2013
+    - Source: (missing, heard during July 26, 2017 MTA board meeting)

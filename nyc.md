@@ -4,6 +4,7 @@
 
 - [1970s](#1970s)
 - [1990s](#1990s)
+- [Sources to Explore Deeper](#sources-to-explore-deeper)
 
 ## Acronyms
 
@@ -14,12 +15,11 @@
 ## 1970s
 
 - 1975 - New York City Seasonal Financing Act
-  - Source: [Ford Library Museum](https://www.fordlibrarymuseum.gov/library/document/0055/1669138.pdf)
 - March 16, 1978 - Jacob Javits pleads for federal load guarantees for New York City
   - Cites Congressional Research Service report on existing large and varied federal loan guarantees
   - Source: [CUNY](http://www.baruch.cuny.edu/library/alumni/online_exhibits/amfl/mac/pdf_files/Legislation_Federal/1977-78-1.pdf)
 - 1978 - New York City Loan Guarantee Act
-  - Source: [NYCM](http://www.nyc.gov/html/records/pdf/executive_orders/1978EO026.PDF) [UCSB](http://www.presidency.ucsb.edu/ws/?pid=31164)
+  - Source: [NYCM](http://www.nyc.gov/html/records/pdf/executive_orders/1978EO026.PDF)
 
 ## 1990s
 
@@ -30,3 +30,8 @@
   - City enjoyed $2b surplus at the time, Republicans intended measure to lighten tax burder on suburban residents
   - "The Mayor asserted that the city had a right to ask commuters to contribute to the costs of police, fire and other services."
   - Source: [NYT](http://www.nytimes.com/1999/05/18/nyregion/legislature-acts-quickly-to-repeal-commuter-tax.html)
+
+## Sources to Explore Deeper
+
+- [Ford Library Museum](https://www.fordlibrarymuseum.gov/library/document/0055/1669138.pdf) - New York City Seasonal Financing Act of 1975
+- [UCSB](http://www.presidency.ucsb.edu/ws/?pid=31164) - Jimmy Carter speech on New York City Loan Guarantee Act of 1978

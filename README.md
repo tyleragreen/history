@@ -1,6 +1,6 @@
-# MTA Financial History
+# MTA History
 
-This document accompanies my goal to learn the complete financial history of the New York [Metropolitan Transportation Authority](http://www.mta.info).
+This document accompanies my goal to learn the complete history of the New York [Metropolitan Transportation Authority](http://www.mta.info), with an emphasis on financial policy and decisions.
 
 ## Table of Contents
 
@@ -23,6 +23,7 @@ This document accompanies my goal to learn the complete financial history of the
 ## 2000s
 
 - 2004 - MTA Bus Company created
+  - NEEDS EXPANDING - funding came from LaGuardia connection?
   - Source: [APTA](http://www.apta.com/passengertransport/Documents/archive_434.htm)
 - 2005 - New York State Transportation Bond Act
   - Provided $1.45 billion towards 2005-2009 MTA capital program from state (state assumes debt service….I think)
@@ -41,15 +42,38 @@ This document accompanies my goal to learn the complete financial history of the
 
 ## Sweeping Histories
 
+- 2004 - From Rescue to Renaissance: The Achievements of the MTA Capital Program 1982 - 2004
+  - Source: [NYU Rudin](https://wagner.nyu.edu/files/news/rescue.pdf)
 - 2012 - The Road Back - History of MTA capital plan
   - Source: [PCAC](http://www.pcac.org/wp-content/uploads/2014/09/The-Road-Back.pdf)
+  
+## Sources to Find
+
+#### Let me know if you have access to one of these!
+
+- Bear, Stearns & Co. Metropolitan Transportation Authority, Finances of Mass Transit Services in New York City. New York: Bear Stearns, 1983.
+  - Source: [WorldCat](http://www.worldcat.org/title/metropolitan-transit-authority-finances-of-mass-transit-services-in-new-york-city/oclc/26468223&referer=brief_results)
+- James Lardner, “Painting the Elephant,” New Yorker magazine, June 25, 1984, 59–60.
+  - Stories from Ravitch-era capital plans
+- Crowell, William H. "Financing mass transit in New York City" 
+  - Source: [NYPL](https://browse.nypl.org/iii/encore/record/C__Rb10011309__SFinancing%20mass%20transit%20in%20New%20York%20City__Orightresult__U__X7?lang=eng&suite=def)
+- Ravitch, Richard. "Staff Report of Capital Revitalization for the 1980s and Beyond"
+  - Source: [WorldCat](http://www.worldcat.org/title/metropolitan-transportation-authority-staff-report-of-capital-revitalization-for-the-1980s-and-beyond/oclc/7073552)
+  
+## Topics to Explore
+
+- Fares
+  - John Hylan's Nickle Fare
+  - http://www.nytimes.com/1992/01/01/nyregion/token-price-rises-10-cents-to-1.25-in-new-york-city.html
+  - http://www.nytimes.com/1995/10/20/nyregion/1.50-subway-ride-overview-mta-vote-raises-fare-subways-buses-1.50.html?pagewanted=all
+  - http://www.nytimes.com/1997/07/04/nyregion/conducting-a-search-for-origins-of-one-fare.html
 
 ## Sources To Explore Deeper
 
 - [Program for Action](https://en.wikipedia.org/wiki/Program_for_Action)
 
 ## Other
-### This section is for other MTA notes. Could be turned into a (non-financial) history document.
+#### This section is for other MTA notes. Could be turned into a (non-financial) history document.
 
 - Joseph Giulietti - President of MNR
   - Announced January 9, 2014

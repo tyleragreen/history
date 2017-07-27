@@ -4,22 +4,15 @@ This document accompanies my goal to learn the complete history of the New York 
 
 ## Table of Contents
 
-- [Acronyms](#acronyms)
-- [1990s](#1990s)
-- [2000s](#2000s)
+- [Timeline](#timeline)
+  - [1990s](#1990s)
+  - [2000s](#2000s)
 - [Sweeping Histories](#sweeping-histories)
 - [Sources to Explore Deeper](#sources-to-explore-deeper)
 - [Other](#other)
+- [Acronyms](#acronyms)
 
-## Acronyms
-
-- [APTA](http://www.apta.com/) - American Public Transportation Association
-- [PCAC](http://www.pcac.org/) - Permanent Citizen's Advisory Committee to the MTA
-- [NYT](http://www.nytimes.com/) - New York Times
-- [NYG](https://www.govenor.ny.gov/) - New York Governor's Office
-- NEC - Northeast Corridor, Amtrak route
-- LIRR - Long Island Rail Road
-- MNR - Metro-North Railroad
+# Timeline
 
 ## 1990s
 
@@ -93,3 +86,14 @@ This document accompanies my goal to learn the complete history of the New York 
     - Source: [MTA](http://www.mta.info/press-release/metro-north/mta-announces-new-president-metro-north-railroad)
   - Credited with rebuilding positive narrative surrounding MNR after Spuyten-Duyvil derailment which killed 4 in December 2013
     - Source: (missing, heard during July 26, 2017 MTA board meeting)
+
+## Acronyms
+
+- [APTA](http://www.apta.com/) - American Public Transportation Association
+- [PCAC](http://www.pcac.org/) - Permanent Citizen's Advisory Committee to the MTA
+- [NYT](http://www.nytimes.com/) - New York Times
+- [NYG](https://www.govenor.ny.gov/) - New York Governor's Office
+- NEC - Northeast Corridor, Amtrak route
+- LIRR - Long Island Rail Road
+- MNR - Metro-North Railroad
+- [NYU Rudin](https://wagner.nyu.edu/rudincenter) - Rudin Center for Transportation Policy & Management, part of New York University's Wagner Graduate School of Public Service

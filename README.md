@@ -73,6 +73,9 @@ This document accompanies my goal to learn the complete history of the New York 
   - John Hylan's Nickle Fare
   - http://www.nytimes.com/1995/10/20/nyregion/1.50-subway-ride-overview-mta-vote-raises-fare-subways-buses-1.50.html?pagewanted=all
   - http://www.nytimes.com/1997/07/04/nyregion/conducting-a-search-for-origins-of-one-fare.html
+- Station Sponsoring
+  - Since 2009, Barclays pays MTA $200k a year to append the name Barclays Center to the Atlantic Avenue station
+    - Source: [Politico NY](http://www.politico.com/states/new-york/city-hall/story/2017/07/27/now-intent-on-the-subways-cuomo-revives-an-old-adopt-a-station-idea-113643?mc_cid=9ef7e98ed4&mc_eid=e8b6b98b09)
 
 ## Sources To Explore Deeper
 

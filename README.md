@@ -60,6 +60,11 @@ This document accompanies my goal to learn the complete history of the New York 
 
 ## Sweeping Histories
 
+- 1997 - Conducting a Search For Origins Of 'One Fare'
+  - Article ran on day of MetroCard's introduction (July 4, 1997)
+  - Peter Stangl (MTA chair in 1992) proposed "fare deal" to offset 25-cent fare hike with discounts and free transfers
+  - Richard Ravitch (MTA chair in 1982) considered automated turnstile to allow riders from outer boroughs to reach Manhattan on a single fare
+  - Source: [NYT](http://www.nytimes.com/1997/07/04/nyregion/conducting-a-search-for-origins-of-one-fare.html) [NYC](http://www.nyc.gov/html/misc/html/metro.html)
 - 2004 - From Rescue to Renaissance: The Achievements of the MTA Capital Program 1982 - 2004
   - Source: [NYU Rudin](https://wagner.nyu.edu/files/news/rescue.pdf)
 - 2012 - The Road Back - History of MTA capital plan
@@ -82,8 +87,6 @@ This document accompanies my goal to learn the complete history of the New York 
 
 - Fares
   - John Hylan's Nickle Fare
-  - http://www.nytimes.com/1995/10/20/nyregion/1.50-subway-ride-overview-mta-vote-raises-fare-subways-buses-1.50.html?pagewanted=all
-  - http://www.nytimes.com/1997/07/04/nyregion/conducting-a-search-for-origins-of-one-fare.html
 - Station Sponsoring
   - Since 2009, Barclays pays MTA $200k a year to append the name Barclays Center to the Atlantic Avenue station
     - Source: [Politico NY](http://www.politico.com/states/new-york/city-hall/story/2017/07/27/now-intent-on-the-subways-cuomo-revives-an-old-adopt-a-station-idea-113643?mc_cid=9ef7e98ed4&mc_eid=e8b6b98b09)
@@ -107,6 +110,7 @@ This document accompanies my goal to learn the complete history of the New York 
 - [PCAC](http://www.pcac.org/) - Permanent Citizen's Advisory Committee to the MTA
 - [NYT](http://www.nytimes.com/) - New York Times
 - [NYG](https://www.govenor.ny.gov/) - New York Governor's Office
+- [NYC](http://www1.nyc.gov/) - City of New York
 - NEC - Northeast Corridor, Amtrak route
 - LIRR - Long Island Rail Road
 - MNR - Metro-North Railroad

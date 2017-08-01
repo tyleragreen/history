@@ -2,9 +2,11 @@
 
 ## Table of Contents
 
-- [1970s](#1970s)
-- [1990s](#1990s)
-- [2000s](#2000s)
+- [Timeline](#timeline)
+  - [1970s](#1970s)
+  - [1990s](#1990s)
+  - [2000s](#2000s)
+- [People](#people)
 - [Sources to Explore Deeper](#sources-to-explore-deeper)
 
 ## Acronyms
@@ -12,6 +14,8 @@
 - UCSB - University of California, Santa Barbara
 - NYCM - New York City Mayor's Office
 - CUNY - City College of New York
+
+# Timeline
 
 ## 1970s
 
@@ -39,8 +43,16 @@
 
 - September 27, 2008 - MAC shut down
   - Source: [NYDN](http://www.nydailynews.com/news/money/municipal-assistance-corp-new-york-1975-savior-ya-article-1.325509)
+  
+# People
 
-## Sources to Explore Deeper
+- Edward Kresky - early MAC appointee
+  - Served as deputy under William Ronan both for Govenor Rockefeller and MTA
+  - Source: [NYT](http://www.nytimes.com/2013/01/31/nyregion/edward-m-kresky-88-calmed-fiscal-panic.html)
+- Mitchell Moss - "New Yorkologist"
+  - Source: [NYU Wagner](https://wagner.nyu.edu/community/faculty/mitchell-l-moss)
+
+# Sources to Explore Deeper
 
 - [Ford Library Museum](https://www.fordlibrarymuseum.gov/library/document/0055/1669138.pdf) - New York City Seasonal Financing Act of 1975
 - [UCSB](http://www.presidency.ucsb.edu/ws/?pid=31164) - Jimmy Carter speech on New York City Loan Guarantee Act of 1978

@@ -5,6 +5,7 @@ This document accompanies my goal to learn the complete history of the New York 
 ## Table of Contents
 
 - [Timeline](#timeline)
+  - [1980s](#1980s)
   - [1990s](#1990s)
   - [2000s](#2000s)
 - [Sweeping Histories](#sweeping-histories)
@@ -13,6 +14,11 @@ This document accompanies my goal to learn the complete history of the New York 
 - [Acronyms](#acronyms)
 
 # Timeline
+
+## 1980s
+
+- 1983 - MTA Office of the Inspector General created
+  - Source: [NY Public Authorities Law, §1279](https://www.nysenate.gov/legislation/laws/PBA/1279) [NY Senate](https://www.nysenate.gov/sites/default/files/IG_Consolidation_Report_FINAL_0.pdf)
 
 ## 1990s
 

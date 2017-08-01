@@ -4,6 +4,7 @@
 
 - [1970s](#1970s)
 - [1990s](#1990s)
+- [2000s](#2000s)
 - [Sources to Explore Deeper](#sources-to-explore-deeper)
 
 ## Acronyms
@@ -30,6 +31,11 @@
   - City enjoyed $2b surplus at the time, Republicans intended measure to lighten tax burder on suburban residents
   - "The Mayor asserted that the city had a right to ask commuters to contribute to the costs of police, fire and other services."
   - Source: [NYT](http://www.nytimes.com/1999/05/18/nyregion/legislature-acts-quickly-to-repeal-commuter-tax.html)
+  
+## 2000s
+
+- September 27, 2008 - MAC shut down
+  - Source: [NYDN](http://www.nydailynews.com/news/money/municipal-assistance-corp-new-york-1975-savior-ya-article-1.325509)
 
 ## Sources to Explore Deeper
 

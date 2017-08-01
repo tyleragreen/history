@@ -24,6 +24,9 @@
 
 ## 1990s
 
+- October 4, 1993 - Eugene Keilin appointed MAC chairman by Cuomo
+  - Succeeded Felix Rohatyn
+  - Source: [NYT](http://www.nytimes.com/1993/10/05/nyregion/cuomo-picks-investment-banker-for-municipal-assistance-post.html)
 - May 18, 1999 - Commuter tax repealed
   - Was 0.45 of 1% income tax on commuters in the state who work in New York City
   - Would reduce city revenue by $210m (or up to $360m, if courts rule tax now discriminates against out-of-state commuters (apparently this remained at the time, NEED SOURCE FOR RESULT OF THIS))

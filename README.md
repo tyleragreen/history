@@ -100,6 +100,7 @@ This document accompanies my goal to learn the complete history of the New York 
 - Metropolitan Transportation Authority Act (NY Public Authorities Law §1260)
   - Source: [MTA](http://web.mta.info/mta/compliance/pdf/MTA-Creation-Structure.pdf)
 - Transportation Systems Assistance and Financing Act of 1981
+  - "added to the TA Act and the MTA Act the provisions regarding transit projects, the capital program plans and the Capital Review Board." Source: [CUNY](http://www.baruch.cuny.edu/library/alumni/online_exhibits/amfl/mac/pdf_files/MAC2/1986.pdf) on MTA Control Mechanisms
   - NINETEEN EIGHTY ONE WAS A BIG YEAR
   - Source: [NYT](http://www.nytimes.com/1981/06/23/nyregion/assembly-passes-5.6-billion-plan-for-mta-aid.html)
 

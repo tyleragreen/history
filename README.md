@@ -106,6 +106,13 @@ This document accompanies my goal to learn the complete history of the New York 
 - Station Sponsoring
   - Since 2009, Barclays pays MTA $200k a year to append the name Barclays Center to the Atlantic Avenue station
     - Source: [Politico NY](http://www.politico.com/states/new-york/city-hall/story/2017/07/27/now-intent-on-the-subways-cuomo-revives-an-old-adopt-a-station-idea-113643?mc_cid=9ef7e98ed4&mc_eid=e8b6b98b09)
+- New York City Transportation Authority Act (NY Public Authorities Law §1200 (& 1201?))
+  - Source:[Justia](http://law.justia.com/codes/new-york/2015/pba/article-5/title-9/1201)
+- Metropolitan Transportation Authority Act (NY Public Authorities Law §1260)
+  - Source: [MTA](http://web.mta.info/mta/compliance/pdf/MTA-Creation-Structure.pdf)
+- Transportation Systems Assistance and Financing Act of 1981
+  - NINETEEN EIGHTY ONE WAS A BIG YEAR
+  - Source: [NYT](http://www.nytimes.com/1981/06/23/nyregion/assembly-passes-5.6-billion-plan-for-mta-aid.html)
 
 ## Sources To Explore Deeper
 

@@ -8,6 +8,7 @@ This document accompanies my goal to learn the complete history of the New York 
   - [1980s](#1980s)
   - [1990s](#1990s)
   - [2000s](#2000s)
+  - [2010s](#2010s)
 - [Sweeping Histories](#sweeping-histories)
 - [Topics to Explore](#topics-to-explore)
 - [Sources to Find](#sources-to-find)
@@ -70,6 +71,9 @@ This document accompanies my goal to learn the complete history of the New York 
 - December 4, 2008
   - Ravitch Commission unveils report on suggestions to close $1.2 billion deficit for 2009, after real estate transfer taxes and NYS corporate surcharge tax revenues dropped during the recession and Bloomberg’s congestion pricing plan failed in the state legislature
   - Source: [NYT](https://cityroom.blogs.nytimes.com/2008/12/04/ravitch-unveils-mta-rescue-plan/?_r=0) [PCAC](http://www.pcac.org/news/guide-ravitch-commission-report/)
+  
+## 2010s
+
 - March 24, 2010
   - MTA approves budget cuts that remove V and W trains
   - Source: [NYT](http://www.nytimes.com/2010/03/25/nyregion/25mta.html)
@@ -78,6 +82,13 @@ This document accompanies my goal to learn the complete history of the New York 
   - $295 million for MTA to construct Harold Interlocking (flyover for Amtrak NEC which currently must wait for LIRR)
   - It was approved (according the “The Road Back”) WAS THIS EVER BUILT???  
   - Source: [NYG](https://www.governor.ny.gov/news/governor-cuomo-seeks-federal-funds-high-speed-rail-projects)
+- August 7, 2017 - de Blasio pushes for "Millionaire's Tax"
+  - Would increase city income tax rate for those making over $500k from 3.9% to 4.4%
+  - Expected to be paid by 32,000 NYers
+  - Expected to raise $700-$800mil annually
+    - $500mil for capital costs, $250mil for half-price MetroCard program
+  - Must pass state legislature
+  - Source: [NYT](https://www.nytimes.com/2017/08/06/nyregion/bill-de-blasio-will-push-for-tax-on-wealthy-to-fix-subway.html)
 
 ## Sweeping Histories
 

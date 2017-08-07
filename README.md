@@ -63,6 +63,10 @@ This document accompanies my goal to learn the complete history of the New York 
 - 2005 - New York State Transportation Bond Act
   - Provided $1.45 billion towards 2005-2009 MTA capital program from state (state assumes debt service….I think)
   - Source: [MTA](http://web.mta.info/mta/bondact.htm) [NYT](http://www.nytimes.com/2005/11/09/nyregion/metrocampaigns/voters-approve-transit-bonds-for-29-billion.html?_r=0)
+- April 7, 2008 - Congestion pricing dies after failing to reach a vote in the State Assembly
+  - Would have created $8 fee to enter parts of Manhattan
+  - Would have raised $500mil annually and unlocked $354mil in immediate federal grants 
+  - Source: [NYT](https://cityroom.blogs.nytimes.com/2008/04/07/congestion-pricing-plan-is-dead-assembly-speaker-says/)
 - December 4, 2008
   - Ravitch Commission unveils report on suggestions to close $1.2 billion deficit for 2009, after real estate transfer taxes and NYS corporate surcharge tax revenues dropped during the recession and Bloomberg’s congestion pricing plan failed in the state legislature
   - Source: [NYT](https://cityroom.blogs.nytimes.com/2008/12/04/ravitch-unveils-mta-rescue-plan/?_r=0) [PCAC](http://www.pcac.org/news/guide-ravitch-commission-report/)

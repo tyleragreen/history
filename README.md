@@ -111,9 +111,11 @@ This document accompanies my goal to learn the complete history of the New York 
     - Source: [Politico NY](http://www.politico.com/states/new-york/city-hall/story/2017/07/27/now-intent-on-the-subways-cuomo-revives-an-old-adopt-a-station-idea-113643?mc_cid=9ef7e98ed4&mc_eid=e8b6b98b09)
 - [Program for Action](https://en.wikipedia.org/wiki/Program_for_Action)
 - New York City Transportation Authority Act
-  - Source:[NY Public Authorities Law §1200](http://law.justia.com/codes/new-york/2015/pba/article-5/title-9/1201)
+  - Source: [NY Public Authorities Law §1200](http://law.justia.com/codes/new-york/2015/pba/article-5/title-9/1201)
 - Metropolitan Transportation Authority Act (NY Public Authorities Law §1260)
   - Source: [MTA](http://web.mta.info/mta/compliance/pdf/MTA-Creation-Structure.pdf)
+- Transportation Law - if system runs a suprlus, it is required to be used to reduce fares or increase services
+  - Source: [NY Transportation Law §18-b](http://codes.findlaw.com/ny/transportation-law/tra-sect-18-b.html)
 - Transportation Systems Assistance and Financing Act of 1981
   - "added to the TA Act and the MTA Act the provisions regarding transit projects, the capital program plans and the Capital Review Board." Source: [CUNY](http://www.baruch.cuny.edu/library/alumni/online_exhibits/amfl/mac/pdf_files/MAC2/1986.pdf) on MTA Control Mechanisms
   - NINETEEN EIGHTY ONE WAS A BIG YEAR

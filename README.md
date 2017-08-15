@@ -5,6 +5,8 @@ This document accompanies my goal to learn the complete history of the New York 
 ## Table of Contents
 
 - [Timeline](#timeline)
+  - [1960s](#1960s)
+  - [1970s](#1970s)
   - [1980s](#1980s)
   - [1990s](#1990s)
   - [2000s](#2000s)
@@ -16,6 +18,14 @@ This document accompanies my goal to learn the complete history of the New York 
 - [Acronyms](#acronyms)
 
 # Timeline
+
+## 1960s
+
+- August 1969 - Regional Transportation Program
+  - Highlights expansions and improvements as part of Mayor John Lindsay's "Program for Action"
+  - Source: [MTA](https://ia800502.us.archive.org/14/items/regionaltranspor00newy/regionaltranspor00newy.pdf)
+
+## 1970s
 
 ## 1980s
 
@@ -109,7 +119,6 @@ This document accompanies my goal to learn the complete history of the New York 
 - Station Sponsoring
   - Since 2009, Barclays pays MTA $200k a year to append the name Barclays Center to the Atlantic Avenue station
     - Source: [Politico NY](http://www.politico.com/states/new-york/city-hall/story/2017/07/27/now-intent-on-the-subways-cuomo-revives-an-old-adopt-a-station-idea-113643?mc_cid=9ef7e98ed4&mc_eid=e8b6b98b09)
-- [Program for Action](https://en.wikipedia.org/wiki/Program_for_Action)
 - New York City Transportation Authority Act
   - Source: [NY Public Authorities Law §1200](http://law.justia.com/codes/new-york/2015/pba/article-5/title-9/1201)
 - Metropolitan Transportation Authority Act (NY Public Authorities Law §1260)

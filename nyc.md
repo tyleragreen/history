@@ -7,7 +7,7 @@
   - [1990s](#1990s)
   - [2000s](#2000s)
 - [People](#people)
-- [Sources to Explore Deeper](#sources-to-explore-deeper)
+- [To Explore Deeper](#to-explore-deeper)
 
 ## Acronyms
 
@@ -52,8 +52,9 @@
 - Mitchell Moss - "New Yorkologist"
   - Source: [NYU Wagner](https://wagner.nyu.edu/community/faculty/mitchell-l-moss)
 
-# Sources to Explore Deeper
+# To Explore Deeper
 
 - [Ford Library Museum](https://www.fordlibrarymuseum.gov/library/document/0055/1669138.pdf) - New York City Seasonal Financing Act of 1975
 - [UCSB](http://www.presidency.ucsb.edu/ws/?pid=31164) - Jimmy Carter speech on New York City Loan Guarantee Act of 1978
 - [CUNY MAC Archives](http://www.baruch.cuny.edu/library/alumni/online_exhibits/amfl/mac/S12_MAC.html)
+- [Board of Estimate](https://en.wikipedia.org/wiki/New_York_City_Board_of_Estimate)

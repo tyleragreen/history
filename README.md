@@ -23,6 +23,13 @@ This document accompanies my goal to learn the complete history of the New York 
 
 - 1964 - 63rd St Tunnel shifted location decided after switching from 61st St and 64 St
   - Source: [NYT](http://query.nytimes.com/gst/abstract.html?res=980CE1D71739E633A25755C1A9649D946591D6CF&legacy=true)
+- September 21, 1968 - Board of Estimate approves Second Avenue Subway and 11 other new routes
+  - Program cost of $1.26bil was to be split
+    - $600mil from state from bond issue ($2.5bil approved by voters in November 1967)
+    - $500mil from city, "borrowed through its capital-budget allocations"
+    - rest from federal
+  - Changed plan from four track to two tracks
+  - Source: [NYT](http://query.nytimes.com/gst/abstract.html?res=9B05E5DD1E31E034BC4951DFBF668383679EDE&legacy=true)
 - August 1969 - Regional Transportation Program
   - Highlights expansions and improvements as part of Mayor John Lindsay's "Program for Action"
   - Source: [MTA](https://ia800502.us.archive.org/14/items/regionaltranspor00newy/regionaltranspor00newy.pdf)
@@ -123,7 +130,7 @@ This document accompanies my goal to learn the complete history of the New York 
 ## Topics to Explore
 
 - Late 60s Stuff
-  - [NYT 1](http://query.nytimes.com/gst/abstract.html?res=9801E1DB1138E134BC4151DFB4668383679EDE&legacy=true) [NYT 2](http://query.nytimes.com/gst/abstract.html?res=9B05E5DD1E31E034BC4951DFBF668383679EDE&legacy=true)
+  - [NYT 1](http://query.nytimes.com/gst/abstract.html?res=9801E1DB1138E134BC4151DFB4668383679EDE&legacy=true)
 - [MTA Timeline](https://web.archive.org/web/20021019203759/http://www.mta.info/nyct/facts/ffhist.htm)
 - Fares
   - John Hylan's Nickle Fare

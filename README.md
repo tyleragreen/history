@@ -36,6 +36,16 @@ This document accompanies my goal to learn the complete history of the New York 
 
 ## 1970s
 
+- October 5, 1971 - Ronan pleads for 1971 state transportation bond issue
+  - It would fail at the ballot a month later
+  - $2.5bil issue would be split $1.35bil for transit and $1.15bil for highways
+    - A rarity to have transit amount greater than highways, and Ronan knew it
+  - Ronan said new bond would be used to improve existing systems, since riders complained that 1967 bond showed little tangible benefits (spent mostly on Second Avenue Subway?)
+  - Fare would go to 45 or 50 cents (from 30) if bond didn't pass
+    - *Isn't this mixing capital and operating expenses?*
+    - *Yes*, but some capital projects were already being paid out of farebox income
+    - *This was pre-capital program, so my details on all this are weak right now*
+  - Source: [NYT](http://www.nytimes.com/1971/10/05/archives/ronan-calls-bondissue-vote-key-to-stable-subway-fares.html)
 - April 29, 1973 - Third Avenue El closes in the Bronx
   - Last stretch to close was between Gun Hill Road and 149th St
   - Ran 12 blocks east of the IND Concourse Line
@@ -131,6 +141,7 @@ This document accompanies my goal to learn the complete history of the New York 
 
 - Late 60s Stuff
   - [NYT 1](http://query.nytimes.com/gst/abstract.html?res=9801E1DB1138E134BC4151DFB4668383679EDE&legacy=true)
+  - [NYT 2 - Rockefeller 1971](http://www.nytimes.com/1971/03/21/archives/rockefeller-asks-25billion-bonds-to-aid-transport-50-of-funds-from.html)
 - [MTA Timeline](https://web.archive.org/web/20021019203759/http://www.mta.info/nyct/facts/ffhist.htm)
 - Fares
   - John Hylan's Nickle Fare

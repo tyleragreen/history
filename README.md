@@ -170,6 +170,8 @@ This document accompanies my goal to learn the complete history of the New York 
     - Source: [MTA](http://www.mta.info/press-release/metro-north/mta-announces-new-president-metro-north-railroad)
   - Credited with rebuilding positive narrative surrounding MNR after Spuyten-Duyvil derailment which killed 4 in December 2013
     - Source: (missing, heard during July 26, 2017 MTA board meeting)
+- William J. Ronan - former MTA chair, died in 2014
+  - Source: [NYT](https://www.nytimes.com/2014/10/18/nyregion/william-j-ronan-architect-of-the-metropolitan-transportation-authority-dies-at-101.html?_r=0)
 
 ## Acronyms
 

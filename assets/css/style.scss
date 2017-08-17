@@ -2,8 +2,8 @@
 ---
 
 @import "{{ site.theme }}";
-ul {
-  margin:0;
+ul li ul {
+  margin-bottom:0;
 }
 a:hover {
   font-weight:normal;

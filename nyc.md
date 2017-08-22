@@ -51,6 +51,9 @@
   - Source: [NYT](http://www.nytimes.com/2013/01/31/nyregion/edward-m-kresky-88-calmed-fiscal-panic.html)
 - Mitchell Moss - "New Yorkologist"
   - Source: [NYU Wagner](https://wagner.nyu.edu/community/faculty/mitchell-l-moss)
+- Daniel Patrick Moynihan
+  - Let "accelerated depreciation" expire
+  - Source: [NYT on related Senate Finance Committee issue](http://www.nytimes.com/1984/03/19/business/senate-s-real-estate-tax-blow.html)
 
 # To Explore Deeper
 

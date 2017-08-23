@@ -181,6 +181,8 @@ This document accompanies my goal to learn the complete history of the New York 
   - Source: [NYPL](https://browse.nypl.org/iii/encore/record/C__Rb10011309__SFinancing%20mass%20transit%20in%20New%20York%20City__Orightresult__U__X7?lang=eng&suite=def)
 - Ravitch, Richard. "Staff Report of Capital Revitalization for the 1980s and Beyond"
   - Source: [WorldCat](http://www.worldcat.org/title/metropolitan-transportation-authority-staff-report-of-capital-revitalization-for-the-1980s-and-beyond/oclc/7073552)
+- Wagner Act - federal law that legitimized collective bargaining
+  - Son of sponsor was eventual NYC mayor
 
 ## Other
 #### This section is for other MTA notes. Could be turned into a (non-financial) history document.

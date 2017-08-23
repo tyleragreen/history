@@ -162,6 +162,8 @@ This document accompanies my goal to learn the complete history of the New York 
   - NINETEEN EIGHTY ONE WAS A BIG YEAR
   - Source: [NYT](http://www.nytimes.com/1981/06/23/nyregion/assembly-passes-5.6-billion-plan-for-mta-aid.html)
 - [New York Rapid Transit Law](http://codes.findlaw.com/ny/rapid-transit-law/)
+- [New York State Open Meetings Law](http://www.dmlp.org/legal-guide/open-meetings-laws-new-york)
+  - Ravitch says in "So Much to Do" this is why their board meetings on voting for fare increases were public
 
 ## Sources to Find
 

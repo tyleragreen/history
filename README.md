@@ -164,6 +164,10 @@ This document accompanies my goal to learn the complete history of the New York 
 - [New York Rapid Transit Law](http://codes.findlaw.com/ny/rapid-transit-law/)
 - [New York State Open Meetings Law](http://www.dmlp.org/legal-guide/open-meetings-laws-new-york)
   - Ravitch says in "So Much to Do" this is why their board meetings on voting for fare increases were public
+- Strikes
+  - 1982 Ravitch
+    - [NYT](http://www.nytimes.com/1982/02/22/nyregion/unions-and-city-hoping-to-avert-a-transit-strike.html) [Untapped Cities](http://untappedcities.com/2015/04/07/35-years-ago-this-week-the-mta-strikes-for-11-days-nyc-bringing-transit-to-a-halt/)
+- [Politico NY on Ravitch](http://www.politico.com/states/new-york/albany/story/2014/05/lessons-from-a-transit-savior-080025)
 
 ## Sources to Find
 

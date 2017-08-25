@@ -164,10 +164,13 @@ This document accompanies my goal to learn the complete history of the New York 
 - [New York Rapid Transit Law](http://codes.findlaw.com/ny/rapid-transit-law/)
 - [New York State Open Meetings Law](http://www.dmlp.org/legal-guide/open-meetings-laws-new-york)
   - Ravitch says in "So Much to Do" this is why their board meetings on voting for fare increases were public
+- Wagner Act - federal law that legitimized collective bargaining
+  - Son of sponsor was eventual NYC mayor
 - Strikes
   - 1982 Ravitch
     - [NYT](http://www.nytimes.com/1982/02/22/nyregion/unions-and-city-hoping-to-avert-a-transit-strike.html) [Untapped Cities](http://untappedcities.com/2015/04/07/35-years-ago-this-week-the-mta-strikes-for-11-days-nyc-bringing-transit-to-a-halt/)
 - [Politico NY on Ravitch](http://www.politico.com/states/new-york/albany/story/2014/05/lessons-from-a-transit-savior-080025)
+- [NY Mag on Ravitch](http://nymag.com/news/intelligencer/encounter/58184/)
 
 ## Sources to Find
 
@@ -181,8 +184,6 @@ This document accompanies my goal to learn the complete history of the New York 
   - Source: [NYPL](https://browse.nypl.org/iii/encore/record/C__Rb10011309__SFinancing%20mass%20transit%20in%20New%20York%20City__Orightresult__U__X7?lang=eng&suite=def)
 - Ravitch, Richard. "Staff Report of Capital Revitalization for the 1980s and Beyond"
   - Source: [WorldCat](http://www.worldcat.org/title/metropolitan-transportation-authority-staff-report-of-capital-revitalization-for-the-1980s-and-beyond/oclc/7073552)
-- Wagner Act - federal law that legitimized collective bargaining
-  - Son of sponsor was eventual NYC mayor
 
 ## Other
 #### This section is for other MTA notes. Could be turned into a (non-financial) history document.

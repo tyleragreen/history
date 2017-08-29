@@ -171,6 +171,7 @@ This document accompanies my goal to learn the complete history of the New York 
     - [NYT](http://www.nytimes.com/1982/02/22/nyregion/unions-and-city-hoping-to-avert-a-transit-strike.html) [Untapped Cities](http://untappedcities.com/2015/04/07/35-years-ago-this-week-the-mta-strikes-for-11-days-nyc-bringing-transit-to-a-halt/)
 - [Politico NY on Ravitch](http://www.politico.com/states/new-york/albany/story/2014/05/lessons-from-a-transit-savior-080025)
 - [NY Mag on Ravitch](http://nymag.com/news/intelligencer/encounter/58184/)
+- Investment Tax Credit - Enacted in 1962 by the IRS to stimulate private investment
 
 ## Sources to Find
 

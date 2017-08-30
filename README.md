@@ -176,6 +176,9 @@ This document accompanies my goal to learn the complete history of the New York 
   - Stories from Ravitch-era capital plans
   - Capital plan approved by NY state legislature, June 24, 1981
     - [NYT](http://www.nytimes.com/1981/06/24/nyregion/news-summary-wednesday-june-24-1981.html)
+  - 1981 tax plan would come up $250mil short, so the legislature passed a 2-year corporate franchise tax in 1982 to make up the difference
+    - This was after the long-lines tax on transportation companies was uncollectible
+      - State is not allowed to tax interstate commerce, but they attempted to tax, say, a plane ticket from Albany to Washington's New York state component - also prohibited by federal law - *which one?*
 
 ## Sources to Find
 

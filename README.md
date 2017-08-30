@@ -179,6 +179,9 @@ This document accompanies my goal to learn the complete history of the New York 
   - 1981 tax plan would come up $250mil short, so the legislature passed a 2-year corporate franchise tax in 1982 to make up the difference
     - This was after the long-lines tax on transportation companies was uncollectible
       - State is not allowed to tax interstate commerce, but they attempted to tax, say, a plane ticket from Albany to Washington's New York state component - also prohibited by federal law - *which one?*
+  - Pullman had scandal involving cracked undercarriages on R46s
+    - MTA won $72mil judgement from Pullman in December 1981
+  - Kawasaki and Bombardier deal led to R62s and R62As
 
 ## Sources to Find
 

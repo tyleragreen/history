@@ -172,6 +172,10 @@ This document accompanies my goal to learn the complete history of the New York 
 - [Politico NY on Ravitch](http://www.politico.com/states/new-york/albany/story/2014/05/lessons-from-a-transit-savior-080025)
 - [NY Mag on Ravitch](http://nymag.com/news/intelligencer/encounter/58184/)
 - Investment Tax Credit - Enacted in 1962 by the IRS to stimulate private investment
+- James Lardner, “Painting the Elephant,” New Yorker magazine, June 25, 1984, 42-71.
+  - Stories from Ravitch-era capital plans
+  - Capital plan approved by NY state legislature, June 24, 1981
+    - [NYT](http://www.nytimes.com/1981/06/24/nyregion/news-summary-wednesday-june-24-1981.html)
 
 ## Sources to Find
 
@@ -179,8 +183,6 @@ This document accompanies my goal to learn the complete history of the New York 
 
 - Bear, Stearns & Co. Metropolitan Transportation Authority, Finances of Mass Transit Services in New York City. New York: Bear Stearns, 1983.
   - Source: [WorldCat](http://www.worldcat.org/title/metropolitan-transit-authority-finances-of-mass-transit-services-in-new-york-city/oclc/26468223&referer=brief_results)
-- James Lardner, “Painting the Elephant,” New Yorker magazine, June 25, 1984, 59–60.
-  - Stories from Ravitch-era capital plans
 - Crowell, William H. "Financing mass transit in New York City" 
   - Source: [NYPL](https://browse.nypl.org/iii/encore/record/C__Rb10011309__SFinancing%20mass%20transit%20in%20New%20York%20City__Orightresult__U__X7?lang=eng&suite=def)
 - Ravitch, Richard. "Staff Report of Capital Revitalization for the 1980s and Beyond"

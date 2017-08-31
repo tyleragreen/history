@@ -199,7 +199,9 @@ This document accompanies my goal to learn the complete history of the New York 
     - Subway track was supposed to receive two walking inspections a week
   - City's water table had risen 10 feet over previous 30 years, sitting tunnels on water rather than ground
   - Bob Kiley appointed on October 5, 1984 <- *this is the wrong year*
-    - [New Yorker](http://www.newyorker.com/magazine/1983/10/31/robert-kiley)
+    - [New Yorker 1983](http://www.newyorker.com/magazine/1983/10/31/robert-kiley)
+    - [New Yorker 2004](http://www.newyorker.com/magazine/2004/02/09/underground-man-2)
+    - [NYT](http://www.nytimes.com/1983/10/08/nyregion/the-secret-courting-of-robert-kiley.html?mcubz=3)
 
 ## Sources to Find
 

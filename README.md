@@ -189,6 +189,8 @@ This document accompanies my goal to learn the complete history of the New York 
   - Congress passed measure giving MTA operating control of Harlem, Hudson, and New Haven commuter lines
     - Required $60mil transitional fund
   - First capital program increased from $7.2bil to $8.5bil after 1982 federal gas tax increase
+  - Around time of Ravitch's resignation, Cuomo attempted to reorganize the board so that the chairman would not longer serve 6 year terms, but at the govenor's behest
+    - *isn't it still this way?*
 
 ## Sources to Find
 

@@ -198,7 +198,8 @@ This document accompanies my goal to learn the complete history of the New York 
     - *what is speed limit in today's restricted areas?*
     - Subway track was supposed to receive two walking inspections a week
   - City's water table had risen 10 feet over previous 30 years, sitting tunnels on water rather than ground
-  - Bob Kiley appointed on October 5, 1984
+  - Bob Kiley appointed on October 5, 1984 <- *this is the wrong year*
+    - [New Yorker](http://www.newyorker.com/magazine/1983/10/31/robert-kiley)
 
 ## Sources to Find
 

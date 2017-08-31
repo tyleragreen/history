@@ -202,6 +202,10 @@ This document accompanies my goal to learn the complete history of the New York 
     - [New Yorker 1983](http://www.newyorker.com/magazine/1983/10/31/robert-kiley)
     - [New Yorker 2004](http://www.newyorker.com/magazine/2004/02/09/underground-man-2)
     - [NYT](http://www.nytimes.com/1983/10/08/nyregion/the-secret-courting-of-robert-kiley.html?mcubz=3)
+- Steve Polan
+  - [Google](https://www.google.com/search?q=steve+polan+mta&safe=off&ei=uzyoWebHKejdjwSfs6_YBg&start=0&sa=N&biw=1193&bih=1343) brings up a strong list
+  - [Columbia project](http://www.columbia.edu/~kyl2120/mtaproject/)
+  - [NY Mag](https://books.google.com/books?id=lOUCAAAAMBAJ&pg=PA47&lpg=PA47&dq=steve+polan+mta&source=bl&ots=RB6FgYsive&sig=n02YNe1e7-lqAjhwaypzjmf3QrI&hl=en&sa=X&ved=0ahUKEwim9cnB9IHWAhVk4IMKHR65BDwQ6AEIUjAJ#v=onepage&q=steve%20polan%20mta&f=false) on Coliseum
 
 ## Sources to Find
 

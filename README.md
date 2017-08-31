@@ -186,6 +186,9 @@ This document accompanies my goal to learn the complete history of the New York 
   - Fall 1981 - Metromedia lease
   - Dole's bill extended safe harbor leasing for transit to be delivered by 1987 (end of Bombardier bill)
   - Enactment of state law barring MTA from bankruptcy after comment from Robert Gerrard, managing director of Dillon Read
+  - Congress passed measure giving MTA operating control of Harlem, Hudson, and New Haven commuter lines
+    - Required $60mil transitional fund
+  - First capital program increased from $7.2bil to $8.5bil after 1982 federal gas tax increase
 
 ## Sources to Find
 

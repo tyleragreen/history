@@ -182,6 +182,10 @@ This document accompanies my goal to learn the complete history of the New York 
   - Pullman had scandal involving cracked undercarriages on R46s
     - MTA won $72mil judgement from Pullman in December 1981
   - Kawasaki and Bombardier deal led to R62s and R62As
+  - p65 - Cuomo wanted to reorganize MTA board after Bombardier deal - *look for source*
+  - Fall 1981 - Metromedia lease
+  - Dole's bill extended safe harbor leasing for transit to be delivered by 1987 (end of Bombardier bill)
+  - Enactment of state law barring MTA from bankruptcy after comment from Robert Gerrard, managing director of Dillon Read
 
 ## Sources to Find
 

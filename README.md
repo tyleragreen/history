@@ -201,6 +201,10 @@ This document accompanies my goal to learn the complete history of the New York 
   - Bob Kiley appointed on October 5, 1984 <- *this is the wrong year*
     - [New Yorker 1983](http://www.newyorker.com/magazine/1983/10/31/robert-kiley)
     - [New Yorker 2004](http://www.newyorker.com/magazine/2004/02/09/underground-man-2)
+      - Ran MBTA from 1975 to 1979 and unsuccessfully ran for mayor of Boston
+      - Peter Goldmark of the Port Authority suggested he come down to New York to talk to Governor Cuomo
+      - "The Reagan Administration doesn't seem to recognize its responsibilities. In Boston, in the mid-seventies, we were working with a two-to-three-billion-dollar capital budget, about eighty per cent of which was federal."
+      - MTA offices were at 347 Madison Avenue, near Grand Central
     - [NYT](http://www.nytimes.com/1983/10/08/nyregion/the-secret-courting-of-robert-kiley.html?mcubz=3)
 - Steve Polan
   - [Google](https://www.google.com/search?q=steve+polan+mta&safe=off&ei=uzyoWebHKejdjwSfs6_YBg&start=0&sa=N&biw=1193&bih=1343) brings up a strong list

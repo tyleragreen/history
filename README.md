@@ -2,9 +2,11 @@
 I'm studying urban history and these are my notes. Focus will be placed on all financial aspects, particularly those of New York City and the [Metropolitan Transportation Authority](http://www.mta.info).
 ## Timelines
 - [mta](timelines/mta.md)
+
 ## Tags
 - [mta](tags/mta.md)
 - [report](tags/report.md)
+
 ## Notes
 ### Governance Assessment of MTA Capital Program Mega Projects
 

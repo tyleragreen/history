@@ -215,6 +215,9 @@ This document accompanies my goal to learn the complete history of the New York 
       - Peter Goldmark of the Port Authority suggested he come down to New York to talk to Governor Cuomo
       - "The Reagan Administration doesn't seem to recognize its responsibilities. In Boston, in the mid-seventies, we were working with a two-to-three-billion-dollar capital budget, about eighty per cent of which was federal."
       - MTA offices were at 347 Madison Avenue, near Grand Central
+      - Britain's Labour party still (2004) gets most of its funding from unions
+      - Kiley wanted public bondds to finance Tube improvements, Blair and Treasury wanted to use PPPs, let to privatization of the Tube
+      - Tube control was transfered to TfL in July 2004
     - [NYT](http://www.nytimes.com/1983/10/08/nyregion/the-secret-courting-of-robert-kiley.html?mcubz=3)
 - Steve Polan
   - [Google](https://www.google.com/search?q=steve+polan+mta&safe=off&ei=uzyoWebHKejdjwSfs6_YBg&start=0&sa=N&biw=1193&bih=1343) brings up a strong list

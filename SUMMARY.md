@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* [Timeline](timeline.md)
+* [Timeline](timelines)
 

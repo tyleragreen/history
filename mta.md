@@ -66,6 +66,8 @@ This document accompanies my goal to learn the complete history of the New York 
   - Source: [NYT](http://www.nytimes.com/1981/07/10/nyregion/five-taxes-voted-in-albany-to-give-mass-transit-aid.html)
 - April 9, 1982 - Bob Dole denounces $100mil MTA leasing deal
   - Source: [NYT](http://www.nytimes.com/1982/04/09/nyregion/dole-sees-horror-story-in-mta-leasing-deal.html)
+- May 28, 1982 - Reagan Administration says MTA violated international trade agreements
+  - Source: [NYT](http://www.nytimes.com/1982/05/29/nyregion/us-sees-violation-of-trade-accords-in-mta-proposal.html)
 - 1983 - MTA Office of the Inspector General created
   - Source: [NY Public Authorities Law, §1279](https://www.nysenate.gov/legislation/laws/PBA/1279) [NY Senate](https://www.nysenate.gov/sites/default/files/IG_Consolidation_Report_FINAL_0.pdf)
 

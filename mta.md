@@ -141,7 +141,6 @@ This document accompanies my goal to learn the complete history of the New York 
   
 ## Topics to Explore
 
-- Ravitch in the [New York Magazine](https://books.google.com/books?id=fecCAAAAMBAJ&pg=PA22&lpg=PA22&dq=hrh+ravitch&source=bl&ots=di5YjQIL7g&sig=Ff4CMmdF4rvM3rEAsX_B7RLLp1c&hl=en&sa=X&ved=0ahUKEwj2z7-bq-jVAhXC1CYKHYueB9cQ6AEIXzAJ#v=onepage&q=hrh%20ravitch&f=false)
 - Late 60s Stuff
   - [NYT 1](http://query.nytimes.com/gst/abstract.html?res=9801E1DB1138E134BC4151DFB4668383679EDE&legacy=true)
   - [NYT 2 - Rockefeller 1971](http://www.nytimes.com/1971/03/21/archives/rockefeller-asks-25billion-bonds-to-aid-transport-50-of-funds-from.html)

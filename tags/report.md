@@ -3,7 +3,9 @@
 - [mta](../timelines/mta.md)
 
 ## Tags
+- [article](../tags/article.md)
 - [mta](../tags/mta.md)
+- [ravitch](../tags/ravitch.md)
 - [report](../tags/report.md)
 
 ## Notes

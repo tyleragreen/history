@@ -3,5 +3,7 @@
 - [Timelines](timelines/README.md)
   - [mta](timelines/mta.md)
 - [Tags](tags/README.md)
+  - [article](tags/article.md)
   - [mta](tags/mta.md)
+  - [ravitch](tags/ravitch.md)
   - [report](tags/report.md)

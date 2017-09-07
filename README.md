@@ -6,11 +6,17 @@ I'm studying urban history and these are my notes. Focus will be placed on all f
 ## Tags
 - [article](tags/article.md)
 - [capital-plan](tags/capital-plan.md)
+- [moses](tags/moses.md)
 - [mta](tags/mta.md)
 - [ravitch](tags/ravitch.md)
 - [report](tags/report.md)
 
 ## Notes
+### Still to Read
+
+- [New York Magazine](https://books.google.com/books?id=_eUCAAAAMBAJ&lpg=PP1&ots=REBlbnHsOh&dq=1981%2020%20ways%20to%20save%20our%20subway%20and%20buses&pg=PA24#v=onepage&q&f=false), "20 Ways to Save Our Subways and Buses," January 26, 1981.
+- Created at: September 7, 2017
+- Tags: [mta](tags/mta.md)
 ### Governance Assessment of MTA Capital Program Mega Projects
 
 - Capital Program Oversight Committee (CPOC) consists of MTA board members
@@ -32,11 +38,6 @@ I'm studying urban history and these are my notes. Focus will be placed on all f
 - Sources: [nymag](https://books.google.com/books?id=fecCAAAAMBAJ&pg=PA22&lpg=PA22&dq=hrh+ravitch&source=bl&ots=di5YjQIL7g&sig=Ff4CMmdF4rvM3rEAsX_B7RLLp1c&hl=en&sa=X&ved=0ahUKEwj2z7-bq-jVAhXC1CYKHYueB9cQ6AEIXzAJ#v=onepage&q=hrh%20ravitch&f=false)
 - Created at: September 7, 2017
 - Tags: [article](tags/article.md) [mta](tags/mta.md) [ravitch](tags/ravitch.md)
-### Still to Read
-
-- [New York Magazine](https://books.google.com/books?id=_eUCAAAAMBAJ&lpg=PP1&ots=REBlbnHsOh&dq=1981%2020%20ways%20to%20save%20our%20subway%20and%20buses&pg=PA24#v=onepage&q&f=false), "20 Ways to Save Our Subways and Buses," January 26, 1981.
-- Created at: September 7, 2017
-- Tags: [mta](tags/mta.md)
 ### The Light at the End of the Subway
 
 - Only 10 subway stations had ever been modernized (as of 1982)
@@ -64,3 +65,7 @@ I'm studying urban history and these are my notes. Focus will be placed on all f
 - Sources: [nymag](https://books.google.com/books?id=fecCAAAAMBAJ&lpg=PA22&dq=hrh%20ravitch&pg=PA20#v=onepage&q=hrh%20ravitch&f=false)
 - Created at: September 7, 2017
 - Tags: [article](tags/article.md) [capital-plan](tags/capital-plan.md) [mta](tags/mta.md)
+### Robert Moses responds to Robert Caro
+- Sources: [batc](http://www.bridgeandtunnelclub.com/detritus/moses/response.htm)
+- Created at: September 7, 2017
+- Tags: [moses](tags/moses.md)

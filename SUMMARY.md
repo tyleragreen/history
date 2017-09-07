@@ -5,6 +5,7 @@
 - [Tags](tags/README.md)
   - [article](tags/article.md)
   - [capital-plan](tags/capital-plan.md)
+  - [moses](tags/moses.md)
   - [mta](tags/mta.md)
   - [ravitch](tags/ravitch.md)
   - [report](tags/report.md)

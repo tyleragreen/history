@@ -53,3 +53,9 @@
 - Sources: [mtaoig](http://mtaig.state.ny.us/assets/pdf/10-04.pdf)
 - Created at: September 6, 2017
 - Tags: [mta](../tags/mta.md) [report](../tags/report.md)
+## Undated Notes
+### Still to Read
+
+- [New York Magazine](https://books.google.com/books?id=_eUCAAAAMBAJ&lpg=PP1&ots=REBlbnHsOh&dq=1981%2020%20ways%20to%20save%20our%20subway%20and%20buses&pg=PA24#v=onepage&q&f=false), "20 Ways to Save Our Subways and Buses," January 26, 1981.
+- Created at: September 7, 2017
+- Tags: [mta](../tags/mta.md)

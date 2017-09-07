@@ -4,6 +4,7 @@
   - [mta](timelines/mta.md)
 - [Tags](tags/README.md)
   - [article](tags/article.md)
+  - [capital-plan](tags/capital-plan.md)
   - [mta](tags/mta.md)
   - [ravitch](tags/ravitch.md)
   - [report](tags/report.md)

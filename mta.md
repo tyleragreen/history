@@ -190,7 +190,7 @@ This document accompanies my goal to learn the complete history of the New York 
   - First capital program increased from $7.2bil to $8.5bil after 1982 federal gas tax increase
   - Around time of Ravitch's resignation, Cuomo attempted to reorganize the board so that the chairman would not longer serve 6 year terms, but at the govenor's behest
     - *isn't it still this way?*
-  - MTA sued Grumman Flexible due to cracked undercarriages on buses and had to repay federal money for purchase to the UMTA
+  - MTA sued Grumman Flexible due to faulty chassis on buses and had to repay federal money for purchase to the UMTA
   - 1983 NRDC report gave rare approval of MTA performance
   - New bus depot opened in 1984 in Sunset Park because new buses were too large to enter old one
   - After 12th derailment in 1983, red flags were put on track to signal 10mph sections

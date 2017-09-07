@@ -5,6 +5,7 @@ I'm studying urban history and these are my notes. Focus will be placed on all f
 
 ## Tags
 - [article](tags/article.md)
+- [capital-plan](tags/capital-plan.md)
 - [mta](tags/mta.md)
 - [ravitch](tags/ravitch.md)
 - [report](tags/report.md)
@@ -36,3 +37,30 @@ I'm studying urban history and these are my notes. Focus will be placed on all f
 - [New York Magazine](https://books.google.com/books?id=_eUCAAAAMBAJ&lpg=PP1&ots=REBlbnHsOh&dq=1981%2020%20ways%20to%20save%20our%20subway%20and%20buses&pg=PA24#v=onepage&q&f=false), "20 Ways to Save Our Subways and Buses," January 26, 1981.
 - Created at: September 7, 2017
 - Tags: [mta](tags/mta.md)
+### The Light at the End of the Subway
+
+- Only 10 subway stations had ever been modernized (as of 1982)
+- Capital plan money couldn't be used by law for hiring additional police, but it could fund crime fighting indirectly through safer station design and CCTV
+- Staten Island Railroad (here called Staten Island Rapid Transit line) stations to be extended to support four-car trains from three)
+- Capital plan included $260mil to replace IRT and BMT power systems
+  - Failures cause trains to stall or travel slowly when power is low
+- They refer to the capital plan as a "bailout"
+- "Fare-box revenues must, in the end, cover most of the principle and interest on the MTA bonds. Thus, depending on how high interest rates are when the bonds are sold, a fare hike may be necessary."
+- Ravitch says state reneged on a promise to pay the last installment on a fifteen-year-old Transportation Bond Issue, costing the MTA $90mil
+  - *I guess this was from 1967?*
+  - City's annual capital contribution also cut by Koch by $65mil (only a year after hiking it by $65mil)
+- $7.9bil capital plan breakdown
+  - $3.6bil from new MTA bonds
+  - $800mil from Triborough bonds
+  - $800mil from new state bond package "guaranteed by the promise of 35 additional years of generous transit aid from Albany"
+  - $1.3bil from federal aid
+  - $500mil from state aid
+  - $400mil from city aid
+  - $400mil from "leaseback" <-- safe harbor leasing thingy
+- Ravitch says it's difficult to attract good workers when diesel mechanic working for the city gets paid 30% more than one working for the TA
+- Koch appointed Ross Sandler as the "new transit watchdog"
+  - *not sure what statute this resulted from*
+- Date: February 1, 1982
+- Sources: [nymag](https://books.google.com/books?id=fecCAAAAMBAJ&lpg=PA22&dq=hrh%20ravitch&pg=PA20#v=onepage&q=hrh%20ravitch&f=false)
+- Created at: September 7, 2017
+- Tags: [article](tags/article.md) [capital-plan](tags/capital-plan.md) [mta](tags/mta.md)

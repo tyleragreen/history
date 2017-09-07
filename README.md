@@ -31,3 +31,8 @@ I'm studying urban history and these are my notes. Focus will be placed on all f
 - Sources: [nymag](https://books.google.com/books?id=fecCAAAAMBAJ&pg=PA22&lpg=PA22&dq=hrh+ravitch&source=bl&ots=di5YjQIL7g&sig=Ff4CMmdF4rvM3rEAsX_B7RLLp1c&hl=en&sa=X&ved=0ahUKEwj2z7-bq-jVAhXC1CYKHYueB9cQ6AEIXzAJ#v=onepage&q=hrh%20ravitch&f=false)
 - Created at: September 7, 2017
 - Tags: [article](tags/article.md) [mta](tags/mta.md) [ravitch](tags/ravitch.md)
+### Still to Read
+
+- [New York Magazine](https://books.google.com/books?id=_eUCAAAAMBAJ&lpg=PP1&ots=REBlbnHsOh&dq=1981%2020%20ways%20to%20save%20our%20subway%20and%20buses&pg=PA24#v=onepage&q&f=false), "20 Ways to Save Our Subways and Buses," January 26, 1981.
+- Created at: September 7, 2017
+- Tags: [mta](tags/mta.md)

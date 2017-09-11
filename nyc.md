@@ -1,5 +1,2 @@
-- October 4, 1993 - Eugene Keilin appointed MAC chairman by Cuomo
-  - Succeeded Felix Rohatyn
-  - Source: [NYT](http://www.nytimes.com/1993/10/05/nyregion/cuomo-picks-investment-banker-for-municipal-assistance-post.html)
 - [Ford Library Museum](https://www.fordlibrarymuseum.gov/library/document/0055/1669138.pdf) - New York City Seasonal Financing Act of 1975
 - [UCSB](http://www.presidency.ucsb.edu/ws/?pid=31164) - Jimmy Carter speech on New York City Loan Guarantee Act of 1978

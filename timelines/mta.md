@@ -4,7 +4,8 @@
 - [2010s](#2010s)
 
 ## 1980s
-### "The Man at the Wheel of the M.T.A." - Ravitch in New York Magazine
+### February 1, 1982
+#### "The Man at the Wheel of the M.T.A." - Ravitch in New York Magazine
 
 - "A Nelson A. Rockefeller creation, the Metropolitan Transportation Authority was set up in 1968 to coordinate public transit and insulate the mayor and governor from complaints about fare increases."
 - Under Ronan, fares rose from 20 cents to 35
@@ -15,7 +16,8 @@
   - Sources: [nymag](https://books.google.com/books?id=fecCAAAAMBAJ&pg=PA22&lpg=PA22&dq=hrh+ravitch&source=bl&ots=di5YjQIL7g&sig=Ff4CMmdF4rvM3rEAsX_B7RLLp1c&hl=en&sa=X&ved=0ahUKEwj2z7-bq-jVAhXC1CYKHYueB9cQ6AEIXzAJ#v=onepage&q=hrh%20ravitch&f=false)
   - Tags: [article](../tags/article.md) [mta](../tags/mta.md) [ravitch](../tags/ravitch.md)
 
-### The Light at the End of the Subway
+### February 1, 1982
+#### The Light at the End of the Subway
 
 - Only 10 subway stations had ever been modernized (as of 1982)
 - Capital plan money couldn't be used by law for hiring additional police, but it could fund crime fighting indirectly through safer station design and CCTV
@@ -44,7 +46,8 @@
   - Tags: [article](../tags/article.md) [capital-plan](../tags/capital-plan.md) [mta](../tags/mta.md)
 
 ## 2010s
-### Governance Assessment of MTA Capital Program Mega Projects
+### November 20, 2010
+#### Governance Assessment of MTA Capital Program Mega Projects
 
 - Capital Program Oversight Committee (CPOC) consists of MTA board members
 - Independent Engineering Consultant (IEC) exists to help CPOC understand technical parts of capital projects

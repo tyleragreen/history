@@ -1,2 +1,0 @@
-- [Ford Library Museum](https://www.fordlibrarymuseum.gov/library/document/0055/1669138.pdf) - New York City Seasonal Financing Act of 1975
-- [UCSB](http://www.presidency.ucsb.edu/ws/?pid=31164) - Jimmy Carter speech on New York City Loan Guarantee Act of 1978

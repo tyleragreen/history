@@ -15,17 +15,6 @@
   - Succeeded Felix Rohatyn
   - Source: [NYT](http://www.nytimes.com/1993/10/05/nyregion/cuomo-picks-investment-banker-for-municipal-assistance-post.html)
   
-# People
-
-- Edward Kresky - early MAC appointee
-  - Served as deputy under William Ronan both for Govenor Rockefeller and MTA
-  - Source: [NYT](http://www.nytimes.com/2013/01/31/nyregion/edward-m-kresky-88-calmed-fiscal-panic.html)
-- Mitchell Moss - "New Yorkologist"
-  - Source: [NYU Wagner](https://wagner.nyu.edu/community/faculty/mitchell-l-moss)
-- Daniel Patrick Moynihan
-  - Let "accelerated depreciation" expire
-  - Source: [NYT on related Senate Finance Committee issue](http://www.nytimes.com/1984/03/19/business/senate-s-real-estate-tax-blow.html)
-
 # To Explore Deeper
 
 - [Ford Library Museum](https://www.fordlibrarymuseum.gov/library/document/0055/1669138.pdf) - New York City Seasonal Financing Act of 1975

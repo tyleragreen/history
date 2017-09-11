@@ -1,5 +1,4 @@
 # moses
-## Notes
 ### Robert Moses responds to Robert Caro
 - Meta
   - Sources: [batc](http://www.bridgeandtunnelclub.com/detritus/moses/response.htm)

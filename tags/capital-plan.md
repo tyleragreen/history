@@ -1,5 +1,4 @@
 # capital-plan
-## Notes
 ### The Light at the End of the Subway
 
 - Only 10 subway stations had ever been modernized (as of 1982)

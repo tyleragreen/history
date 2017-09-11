@@ -1,5 +1,4 @@
 # article
-## Notes
 ### "The Man at the Wheel of the M.T.A." - Ravitch in New York Magazine
 
 - "A Nelson A. Rockefeller creation, the Metropolitan Transportation Authority was set up in 1968 to coordinate public transit and insulate the mayor and governor from complaints about fare increases."

@@ -1,5 +1,4 @@
 # report
-## Notes
 ### Governance Assessment of MTA Capital Program Mega Projects
 
 - Capital Program Oversight Committee (CPOC) consists of MTA board members

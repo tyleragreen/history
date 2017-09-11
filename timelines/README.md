@@ -1,2 +1,2 @@
 # Timelines
-  - [mta](timelines/mta.md)
+  - [mta](./mta.md)

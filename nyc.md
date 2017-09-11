@@ -1,22 +1,5 @@
 # New York City Financial History
 
-## Table of Contents
-
-- [Timeline](#timeline)
-  - [1970s](#1970s)
-  - [1990s](#1990s)
-  - [2000s](#2000s)
-- [People](#people)
-- [To Explore Deeper](#to-explore-deeper)
-
-## Acronyms
-
-- UCSB - University of California, Santa Barbara
-- NYCM - New York City Mayor's Office
-- CUNY - City College of New York
-
-# Timeline
-
 ## 1970s
 
 - 1975 - New York City Seasonal Financing Act
@@ -31,11 +14,6 @@
 - October 4, 1993 - Eugene Keilin appointed MAC chairman by Cuomo
   - Succeeded Felix Rohatyn
   - Source: [NYT](http://www.nytimes.com/1993/10/05/nyregion/cuomo-picks-investment-banker-for-municipal-assistance-post.html)
-  
-## 2000s
-
-- September 27, 2008 - MAC shut down
-  - Source: [NYDN](http://www.nydailynews.com/news/money/municipal-assistance-corp-new-york-1975-savior-ya-article-1.325509)
   
 # People
 

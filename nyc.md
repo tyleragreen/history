@@ -1,6 +1,3 @@
-- March 16, 1978 - Jacob Javits pleads for federal load guarantees for New York City
-  - Cites Congressional Research Service report on existing large and varied federal loan guarantees
-  - Source: [CUNY](http://www.baruch.cuny.edu/library/alumni/online_exhibits/amfl/mac/pdf_files/Legislation_Federal/1977-78-1.pdf)
 - 1978 - New York City Loan Guarantee Act
   - Source: [NYCM](http://www.nyc.gov/html/records/pdf/executive_orders/1978EO026.PDF)
 - October 4, 1993 - Eugene Keilin appointed MAC chairman by Cuomo

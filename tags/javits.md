@@ -1,9 +1,4 @@
-# nycfc
-### New York City Seasonal Financing Act
-- Meta
-  - Date: January 19, 1975
-  - Tags: [nyc](../tags/nyc.md) [nycfc](../tags/nycfc.md) [totimeline](../tags/totimeline.md)
-
+# javits
 ### Jacob Javits pleads for federal load guarantees for New York City
 
 - Cites Congressional Research Service report on existing large and varied federal loan guarantees

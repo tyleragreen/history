@@ -41,12 +41,6 @@ I'm studying urban history and these are my notes. Focus will be placed on all f
   - Sources: [mtaoig](http://mtaig.state.ny.us/assets/pdf/10-04.pdf)
   - Tags: [mta](tags/mta.md) [report](tags/report.md)
 
-### Still to Read
-
-- [New York Magazine](https://books.google.com/books?id=_eUCAAAAMBAJ&lpg=PP1&ots=REBlbnHsOh&dq=1981%2020%20ways%20to%20save%20our%20subway%20and%20buses&pg=PA24#v=onepage&q&f=false), "20 Ways to Save Our Subways and Buses," January 26, 1981.
-- Meta
-  - Tags: [mta](tags/mta.md)
-
 ### "The Man at the Wheel of the M.T.A." - Ravitch in New York Magazine
 
 - "A Nelson A. Rockefeller creation, the Metropolitan Transportation Authority was set up in 1968 to coordinate public transit and insulate the mayor and governor from complaints about fare increases."
@@ -57,6 +51,12 @@ I'm studying urban history and these are my notes. Focus will be placed on all f
   - Date: February 1, 1982
   - Sources: [nymag](https://books.google.com/books?id=fecCAAAAMBAJ&pg=PA22&lpg=PA22&dq=hrh+ravitch&source=bl&ots=di5YjQIL7g&sig=Ff4CMmdF4rvM3rEAsX_B7RLLp1c&hl=en&sa=X&ved=0ahUKEwj2z7-bq-jVAhXC1CYKHYueB9cQ6AEIXzAJ#v=onepage&q=hrh%20ravitch&f=false)
   - Tags: [article](tags/article.md) [mta](tags/mta.md) [ravitch](tags/ravitch.md)
+
+### Still to Read
+
+- [New York Magazine](https://books.google.com/books?id=_eUCAAAAMBAJ&lpg=PP1&ots=REBlbnHsOh&dq=1981%2020%20ways%20to%20save%20our%20subway%20and%20buses&pg=PA24#v=onepage&q&f=false), "20 Ways to Save Our Subways and Buses," January 26, 1981.
+- Meta
+  - Tags: [mta](tags/mta.md)
 
 ### The Light at the End of the Subway
 
@@ -99,19 +99,19 @@ I'm studying urban history and these are my notes. Focus will be placed on all f
   - Sources: [nyt](http://www.nytimes.com/2013/01/31/nyregion/edward-m-kresky-88-calmed-fiscal-panic.html)
   - Tags: [mac](tags/mac.md) [nyc](tags/nyc.md) [people](tags/people.md)
 
-### Daniel Patrick Moynihan
-
-- Let "accelerated depreciation" expire
-- Meta
-  - Sources: [nyc](http://www.nytimes.com/1984/03/19/business/senate-s-real-estate-tax-blow.html)
-  - Tags: [moynihan](tags/moynihan.md) [nyc](tags/nyc.md) [people](tags/people.md) [todo](tags/todo.md)
-
 ### Mitchell Moss
 
 - Dubbed a "New Yorkologist"
 - Meta
   - Sources: [nyuw](https://wagner.nyu.edu/community/faculty/mitchell-l-moss)
   - Tags: [nyc](tags/nyc.md) [people](tags/people.md)
+
+### Daniel Patrick Moynihan
+
+- Let "accelerated depreciation" expire
+- Meta
+  - Sources: [nyc](http://www.nytimes.com/1984/03/19/business/senate-s-real-estate-tax-blow.html)
+  - Tags: [moynihan](tags/moynihan.md) [nyc](tags/nyc.md) [people](tags/people.md) [todo](tags/todo.md)
 
 ### NYC topics
 
@@ -125,4 +125,12 @@ I'm studying urban history and these are my notes. Focus will be placed on all f
 - Meta
   - Date: January 19, 1975
   - Tags: [nyc](tags/nyc.md) [nycfc](tags/nycfc.md) [totimeline](tags/totimeline.md)
+
+### Jacob Javits pleads for federal load guarantees for New York City
+
+- Cites Congressional Research Service report on existing large and varied federal loan guarantees
+- Meta
+  - Date: March 16, 1978
+  - Sources: [cuny](http://www.baruch.cuny.edu/library/alumni/online_exhibits/amfl/mac/pdf_files/Legislation_Federal/1977-78-1.pdf)
+  - Tags: [javits](tags/javits.md) [nyc](tags/nyc.md) [nycfc](tags/nycfc.md)
 

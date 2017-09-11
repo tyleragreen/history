@@ -6,6 +6,7 @@
   - [article](tags/article.md)
   - [ballan](tags/ballan.md)
   - [capital-plan](tags/capital-plan.md)
+  - [javits](tags/javits.md)
   - [mac](tags/mac.md)
   - [moses](tags/moses.md)
   - [moynihan](tags/moynihan.md)

@@ -1,5 +1,17 @@
 # Urban History
 I'm studying urban history and these are my notes. Focus will be placed on all financial aspects, particularly those of New York City and the [Metropolitan Transportation Authority](http://www.mta.info).
+### Commuter Tax Repealed
+
+- Was 0.45 of 1% income tax on commuters in the state who work in New York City
+- Would reduce city revenue by $210m (or up to $360m, if courts rule tax now discriminates against out-of-state commuters (apparently this remained at the time, NEED SOURCE FOR RESULT OF THIS))
+- Mayor Giuliani opposed, Gov. Pataki signed, week before special election for State Senate seat in Rockland/Orange counties (NW of NYC)
+- City enjoyed $2b surplus at the time, Republicans intended measure to lighten tax burder on suburban residents
+- "The Mayor asserted that the city had a right to ask commuters to contribute to the costs of police, fire and other services."
+- Meta
+  - Date: May 18, 1999
+  - Sources: [nyt](http://www.nytimes.com/1999/05/18/nyregion/legislature-acts-quickly-to-repeal-commuter-tax.html)
+  - Tags: [nyc](tags/nyc.md) [tax](tags/tax.md)
+
 ### New York City Housing Crisis
 
 - Preferential Rent - [New York State Division of Housing and Community Renewal](http://www.nyshcr.org/Rent/FactSheets/orafac40.pdf)
@@ -40,11 +52,6 @@ I'm studying urban history and these are my notes. Focus will be placed on all f
 - Meta
   - Tags: [mta](tags/mta.md)
 
-### Robert Moses responds to Robert Caro
-- Meta
-  - Sources: [batc](http://www.bridgeandtunnelclub.com/detritus/moses/response.htm)
-  - Tags: [moses](tags/moses.md)
-
 ### The Light at the End of the Subway
 
 - Only 10 subway stations had ever been modernized (as of 1982)
@@ -72,4 +79,9 @@ I'm studying urban history and these are my notes. Focus will be placed on all f
   - Date: February 1, 1982
   - Sources: [nymag](https://books.google.com/books?id=fecCAAAAMBAJ&lpg=PA22&dq=hrh%20ravitch&pg=PA20#v=onepage&q=hrh%20ravitch&f=false)
   - Tags: [article](tags/article.md) [capital-plan](tags/capital-plan.md) [mta](tags/mta.md)
+
+### Robert Moses responds to Robert Caro
+- Meta
+  - Sources: [batc](http://www.bridgeandtunnelclub.com/detritus/moses/response.htm)
+  - Tags: [moses](tags/moses.md)
 

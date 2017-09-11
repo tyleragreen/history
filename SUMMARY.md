@@ -10,3 +10,4 @@
   - [nyc](tags/nyc.md)
   - [ravitch](tags/ravitch.md)
   - [report](tags/report.md)
+  - [tax](tags/tax.md)

@@ -18,6 +18,18 @@ I'm studying urban history and these are my notes. Focus will be placed on all f
   - Sources: [nydn](http://www.nydailynews.com/news/money/municipal-assistance-corp-new-york-1975-savior-ya-article-1.325509)
   - Tags: [ballan](tags/ballan.md) [mac](tags/mac.md) [nyc](tags/nyc.md)
 
+### Governance Assessment of MTA Capital Program Mega Projects
+
+- Capital Program Oversight Committee (CPOC) consists of MTA board members
+- Independent Engineering Consultant (IEC) exists to help CPOC understand technical parts of capital projects
+- MTAHQ Office of Construction Oversight (OCO) manages the IEC
+- IEC is presently (2010) under a $7mil annual contract with MTAHQ
+- MTA created MTA Capital Construction (MTACC) to oversee SAS, EAS, Fulton Center, 7 line extension
+- Meta
+  - Date: November 2010
+  - Sources: [mtaoig](http://mtaig.state.ny.us/assets/pdf/10-04.pdf)
+  - Tags: [mta](tags/mta.md) [report](tags/report.md)
+
 ### New York City Housing Crisis
 
 - Preferential Rent - [New York State Division of Housing and Community Renewal](http://www.nyshcr.org/Rent/FactSheets/orafac40.pdf)
@@ -29,17 +41,11 @@ I'm studying urban history and these are my notes. Focus will be placed on all f
   - Sources: [nyrb](http://www.nybooks.com/articles/2017/08/17/tenants-under-siege-inside-new-york-city-housing-crisis/)
   - Tags: [article](tags/article.md) [nyc](tags/nyc.md)
 
-### Governance Assessment of MTA Capital Program Mega Projects
+### Still to Read
 
-- Capital Program Oversight Committee (CPOC) consists of MTA board members
-- Independent Engineering Consultant (IEC) exists to help CPOC understand technical parts of capital projects
-- MTAHQ Office of Construction Oversight (OCO) manages the IEC
-- IEC is presently (2010) under a $7mil annual contract with MTAHQ
-- MTA created MTA Capital Construction (MTACC) to oversee SAS, EAS, Fulton Center, 7 line extension
+- [New York Magazine](https://books.google.com/books?id=_eUCAAAAMBAJ&lpg=PP1&ots=REBlbnHsOh&dq=1981%2020%20ways%20to%20save%20our%20subway%20and%20buses&pg=PA24#v=onepage&q&f=false), "20 Ways to Save Our Subways and Buses," January 26, 1981.
 - Meta
-  - Date: November 20, 2010
-  - Sources: [mtaoig](http://mtaig.state.ny.us/assets/pdf/10-04.pdf)
-  - Tags: [mta](tags/mta.md) [report](tags/report.md)
+  - Tags: [mta](tags/mta.md)
 
 ### "The Man at the Wheel of the M.T.A." - Ravitch in New York Magazine
 
@@ -51,12 +57,6 @@ I'm studying urban history and these are my notes. Focus will be placed on all f
   - Date: February 1, 1982
   - Sources: [nymag](https://books.google.com/books?id=fecCAAAAMBAJ&pg=PA22&lpg=PA22&dq=hrh+ravitch&source=bl&ots=di5YjQIL7g&sig=Ff4CMmdF4rvM3rEAsX_B7RLLp1c&hl=en&sa=X&ved=0ahUKEwj2z7-bq-jVAhXC1CYKHYueB9cQ6AEIXzAJ#v=onepage&q=hrh%20ravitch&f=false)
   - Tags: [article](tags/article.md) [mta](tags/mta.md) [ravitch](tags/ravitch.md)
-
-### Still to Read
-
-- [New York Magazine](https://books.google.com/books?id=_eUCAAAAMBAJ&lpg=PP1&ots=REBlbnHsOh&dq=1981%2020%20ways%20to%20save%20our%20subway%20and%20buses&pg=PA24#v=onepage&q&f=false), "20 Ways to Save Our Subways and Buses," January 26, 1981.
-- Meta
-  - Tags: [mta](tags/mta.md)
 
 ### The Light at the End of the Subway
 
@@ -125,7 +125,7 @@ I'm studying urban history and these are my notes. Focus will be placed on all f
 
 ### New York City Seasonal Financing Act
 - Meta
-  - Date: January 19, 1975
+  - Date: 1975
   - Tags: [nyc](tags/nyc.md) [nycfc](tags/nycfc.md) [totimeline](tags/totimeline.md)
 
 ### Jacob Javits pleads for federal load guarantees for New York City
@@ -138,7 +138,7 @@ I'm studying urban history and these are my notes. Focus will be placed on all f
 
 ### New York City Loan Guarantee Act
 - Meta
-  - Date: January 19, 1978
+  - Date: 1978
   - Sources: [nycm](http://www.nyc.gov/html/records/pdf/executive_orders/1978EO026.PDF)
   - Tags: [nyc](tags/nyc.md) [nycfc](tags/nycfc.md) [totimeline](tags/totimeline.md)
 

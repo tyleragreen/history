@@ -7,9 +7,15 @@
 - IEC is presently (2010) under a $7mil annual contract with MTAHQ
 - MTA created MTA Capital Construction (MTACC) to oversee SAS, EAS, Fulton Center, 7 line extension
 - Meta
-  - Date: November 20, 2010
+  - Date: November 2010
   - Sources: [mtaoig](http://mtaig.state.ny.us/assets/pdf/10-04.pdf)
   - Tags: [mta](../tags/mta.md) [report](../tags/report.md)
+
+### Still to Read
+
+- [New York Magazine](https://books.google.com/books?id=_eUCAAAAMBAJ&lpg=PP1&ots=REBlbnHsOh&dq=1981%2020%20ways%20to%20save%20our%20subway%20and%20buses&pg=PA24#v=onepage&q&f=false), "20 Ways to Save Our Subways and Buses," January 26, 1981.
+- Meta
+  - Tags: [mta](../tags/mta.md)
 
 ### "The Man at the Wheel of the M.T.A." - Ravitch in New York Magazine
 
@@ -21,12 +27,6 @@
   - Date: February 1, 1982
   - Sources: [nymag](https://books.google.com/books?id=fecCAAAAMBAJ&pg=PA22&lpg=PA22&dq=hrh+ravitch&source=bl&ots=di5YjQIL7g&sig=Ff4CMmdF4rvM3rEAsX_B7RLLp1c&hl=en&sa=X&ved=0ahUKEwj2z7-bq-jVAhXC1CYKHYueB9cQ6AEIXzAJ#v=onepage&q=hrh%20ravitch&f=false)
   - Tags: [article](../tags/article.md) [mta](../tags/mta.md) [ravitch](../tags/ravitch.md)
-
-### Still to Read
-
-- [New York Magazine](https://books.google.com/books?id=_eUCAAAAMBAJ&lpg=PP1&ots=REBlbnHsOh&dq=1981%2020%20ways%20to%20save%20our%20subway%20and%20buses&pg=PA24#v=onepage&q&f=false), "20 Ways to Save Our Subways and Buses," January 26, 1981.
-- Meta
-  - Tags: [mta](../tags/mta.md)
 
 ### The Light at the End of the Subway
 

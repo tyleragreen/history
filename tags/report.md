@@ -7,7 +7,7 @@
 - IEC is presently (2010) under a $7mil annual contract with MTAHQ
 - MTA created MTA Capital Construction (MTACC) to oversee SAS, EAS, Fulton Center, 7 line extension
 - Meta
-  - Date: November 20, 2010
+  - Date: November 2010
   - Sources: [mtaoig](http://mtaig.state.ny.us/assets/pdf/10-04.pdf)
   - Tags: [mta](../tags/mta.md) [report](../tags/report.md)
 

@@ -1,7 +1,7 @@
 # mta Timeline
 ## Decades
-- [2010s](#2010s)
 - [1980s](#1980s)
+- [2010s](#2010s)
 
 ## 1980s
 ### "The Man at the Wheel of the M.T.A." - Ravitch in New York Magazine

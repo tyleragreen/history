@@ -14,7 +14,7 @@
 - Meta
   - Date: February 1, 1982
   - Sources: [nymag](https://books.google.com/books?id=fecCAAAAMBAJ&pg=PA22&lpg=PA22&dq=hrh+ravitch&source=bl&ots=di5YjQIL7g&sig=Ff4CMmdF4rvM3rEAsX_B7RLLp1c&hl=en&sa=X&ved=0ahUKEwj2z7-bq-jVAhXC1CYKHYueB9cQ6AEIXzAJ#v=onepage&q=hrh%20ravitch&f=false)
-  - Tags: [article](../tags/article.md) [mta](../tags/mta.md) [ravitch](../tags/ravitch.md)
+  - Tags: [articles](../tags/articles.md) [mta](../tags/mta.md) [ravitch](../tags/ravitch.md)
 
 ### February 1, 1982
 #### The Light at the End of the Subway
@@ -43,7 +43,7 @@
 - Meta
   - Date: February 1, 1982
   - Sources: [nymag](https://books.google.com/books?id=fecCAAAAMBAJ&lpg=PA22&dq=hrh%20ravitch&pg=PA20#v=onepage&q=hrh%20ravitch&f=false)
-  - Tags: [article](../tags/article.md) [capital-plan](../tags/capital-plan.md) [mta](../tags/mta.md)
+  - Tags: [articles](../tags/articles.md) [capital-plan](../tags/capital-plan.md) [mta](../tags/mta.md)
 
 ## 2010s
 ### November 2010

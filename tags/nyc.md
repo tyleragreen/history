@@ -9,7 +9,7 @@
 - Meta
   - Date: May 18, 1999
   - Sources: [nyt](http://www.nytimes.com/1999/05/18/nyregion/legislature-acts-quickly-to-repeal-commuter-tax.html)
-  - Tags: [nyc](../tags/nyc.md) [tax](../tags/tax.md)
+  - Tags: [nyc](../tags/nyc.md) [taxes](../tags/taxes.md)
 
 ### Municipal Assistance Corporation Shut Down
 - Meta
@@ -26,7 +26,7 @@
 - 1981 - [Callahan Decree](http://www.coalitionforthehomeless.org/wp-content/uploads/2014/06/CallahanConsentDecree.pdf) - city chose to house every person who asked for a bed
 - Meta
   - Sources: [nyrb](http://www.nybooks.com/articles/2017/08/17/tenants-under-siege-inside-new-york-city-housing-crisis/)
-  - Tags: [article](../tags/article.md) [nyc](../tags/nyc.md)
+  - Tags: [articles](../tags/articles.md) [nyc](../tags/nyc.md)
 
 ### Edward Kresky
 

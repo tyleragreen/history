@@ -25,5 +25,5 @@
 - Meta
   - Date: February 1, 1982
   - Sources: [nymag](https://books.google.com/books?id=fecCAAAAMBAJ&lpg=PA22&dq=hrh%20ravitch&pg=PA20#v=onepage&q=hrh%20ravitch&f=false)
-  - Tags: [article](../tags/article.md) [capital-plan](../tags/capital-plan.md) [mta](../tags/mta.md)
+  - Tags: [articles](../tags/articles.md) [capital-plan](../tags/capital-plan.md) [mta](../tags/mta.md)
 

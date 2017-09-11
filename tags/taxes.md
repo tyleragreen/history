@@ -1,4 +1,4 @@
-# tax
+# taxes
 ### Commuter Tax Repealed
 
 - Was 0.45 of 1% income tax on commuters in the state who work in New York City
@@ -9,5 +9,5 @@
 - Meta
   - Date: May 18, 1999
   - Sources: [nyt](http://www.nytimes.com/1999/05/18/nyregion/legislature-acts-quickly-to-repeal-commuter-tax.html)
-  - Tags: [nyc](../tags/nyc.md) [tax](../tags/tax.md)
+  - Tags: [nyc](../tags/nyc.md) [taxes](../tags/taxes.md)
 

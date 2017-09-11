@@ -1,5 +1,16 @@
 # Urban History
 I'm studying urban history and these are my notes. Focus will be placed on all financial aspects, particularly those of New York City and the [Metropolitan Transportation Authority](http://www.mta.info).
+### New York City Housing Crisis
+
+- Preferential Rent - [New York State Division of Housing and Community Renewal](http://www.nyshcr.org/Rent/FactSheets/orafac40.pdf)
+- Vacancy Bonus - [New York City Rent Guidelines Board](http://www.nycrgb.org/html/glossary_defs.html#vacancy)
+- 421-a Tax Incentive Program - [NYU Furman](http://furmancenter.org/institute/directory/entry/421-a-tax-incentive)
+- 1969 - rent stabilization established by the state legislature
+- 1981 - [Callahan Decree](http://www.coalitionforthehomeless.org/wp-content/uploads/2014/06/CallahanConsentDecree.pdf) - city chose to house every person who asked for a bed
+- Meta
+  - Sources: [nyrb](http://www.nybooks.com/articles/2017/08/17/tenants-under-siege-inside-new-york-city-housing-crisis/)
+  - Tags: [article](tags/article.md) [nyc](tags/nyc.md)
+
 ### Governance Assessment of MTA Capital Program Mega Projects
 
 - Capital Program Oversight Committee (CPOC) consists of MTA board members
@@ -29,6 +40,11 @@ I'm studying urban history and these are my notes. Focus will be placed on all f
 - Meta
   - Tags: [mta](tags/mta.md)
 
+### Robert Moses responds to Robert Caro
+- Meta
+  - Sources: [batc](http://www.bridgeandtunnelclub.com/detritus/moses/response.htm)
+  - Tags: [moses](tags/moses.md)
+
 ### The Light at the End of the Subway
 
 - Only 10 subway stations had ever been modernized (as of 1982)
@@ -56,9 +72,4 @@ I'm studying urban history and these are my notes. Focus will be placed on all f
   - Date: February 1, 1982
   - Sources: [nymag](https://books.google.com/books?id=fecCAAAAMBAJ&lpg=PA22&dq=hrh%20ravitch&pg=PA20#v=onepage&q=hrh%20ravitch&f=false)
   - Tags: [article](tags/article.md) [capital-plan](tags/capital-plan.md) [mta](tags/mta.md)
-
-### Robert Moses responds to Robert Caro
-- Meta
-  - Sources: [batc](http://www.bridgeandtunnelclub.com/detritus/moses/response.htm)
-  - Tags: [moses](tags/moses.md)
 

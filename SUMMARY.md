@@ -7,5 +7,6 @@
   - [capital-plan](tags/capital-plan.md)
   - [moses](tags/moses.md)
   - [mta](tags/mta.md)
+  - [nyc](tags/nyc.md)
   - [ravitch](tags/ravitch.md)
   - [report](tags/report.md)

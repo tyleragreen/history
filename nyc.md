@@ -1,5 +1,3 @@
-- 1978 - New York City Loan Guarantee Act
-  - Source: [NYCM](http://www.nyc.gov/html/records/pdf/executive_orders/1978EO026.PDF)
 - October 4, 1993 - Eugene Keilin appointed MAC chairman by Cuomo
   - Succeeded Felix Rohatyn
   - Source: [NYT](http://www.nytimes.com/1993/10/05/nyregion/cuomo-picks-investment-banker-for-municipal-assistance-post.html)

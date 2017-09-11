@@ -18,6 +18,17 @@ I'm studying urban history and these are my notes. Focus will be placed on all f
   - Sources: [nydn](http://www.nydailynews.com/news/money/municipal-assistance-corp-new-york-1975-savior-ya-article-1.325509)
   - Tags: [ballan](tags/ballan.md) [mac](tags/mac.md) [nyc](tags/nyc.md)
 
+### New York City Housing Crisis
+
+- Preferential Rent - [New York State Division of Housing and Community Renewal](http://www.nyshcr.org/Rent/FactSheets/orafac40.pdf)
+- Vacancy Bonus - [New York City Rent Guidelines Board](http://www.nycrgb.org/html/glossary_defs.html#vacancy)
+- 421-a Tax Incentive Program - [NYU Furman](http://furmancenter.org/institute/directory/entry/421-a-tax-incentive)
+- 1969 - rent stabilization established by the state legislature
+- 1981 - [Callahan Decree](http://www.coalitionforthehomeless.org/wp-content/uploads/2014/06/CallahanConsentDecree.pdf) - city chose to house every person who asked for a bed
+- Meta
+  - Sources: [nyrb](http://www.nybooks.com/articles/2017/08/17/tenants-under-siege-inside-new-york-city-housing-crisis/)
+  - Tags: [article](tags/article.md) [nyc](tags/nyc.md)
+
 ### Governance Assessment of MTA Capital Program Mega Projects
 
 - Capital Program Oversight Committee (CPOC) consists of MTA board members
@@ -29,17 +40,6 @@ I'm studying urban history and these are my notes. Focus will be placed on all f
   - Date: November 2010
   - Sources: [mtaoig](http://mtaig.state.ny.us/assets/pdf/10-04.pdf)
   - Tags: [mta](tags/mta.md) [report](tags/report.md)
-
-### New York City Housing Crisis
-
-- Preferential Rent - [New York State Division of Housing and Community Renewal](http://www.nyshcr.org/Rent/FactSheets/orafac40.pdf)
-- Vacancy Bonus - [New York City Rent Guidelines Board](http://www.nycrgb.org/html/glossary_defs.html#vacancy)
-- 421-a Tax Incentive Program - [NYU Furman](http://furmancenter.org/institute/directory/entry/421-a-tax-incentive)
-- 1969 - rent stabilization established by the state legislature
-- 1981 - [Callahan Decree](http://www.coalitionforthehomeless.org/wp-content/uploads/2014/06/CallahanConsentDecree.pdf) - city chose to house every person who asked for a bed
-- Meta
-  - Sources: [nyrb](http://www.nybooks.com/articles/2017/08/17/tenants-under-siege-inside-new-york-city-housing-crisis/)
-  - Tags: [article](tags/article.md) [nyc](tags/nyc.md)
 
 ### Still to Read
 
@@ -89,7 +89,7 @@ I'm studying urban history and these are my notes. Focus will be placed on all f
 ### Robert Moses responds to Robert Caro
 - Meta
   - Sources: [batc](http://www.bridgeandtunnelclub.com/detritus/moses/response.htm)
-  - Tags: [moses](tags/moses.md)
+  - Tags: [moses](tags/moses.md) [todo](tags/todo.md)
 
 ### Edward Kresky
 

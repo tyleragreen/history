@@ -1,15 +1,4 @@
 # capital-plan
-## Timelines
-- [mta](../timelines/mta.md)
-
-## Tags
-- [article](../tags/article.md)
-- [capital-plan](../tags/capital-plan.md)
-- [moses](../tags/moses.md)
-- [mta](../tags/mta.md)
-- [ravitch](../tags/ravitch.md)
-- [report](../tags/report.md)
-
 ## Notes
 ### The Light at the End of the Subway
 
@@ -34,8 +23,8 @@
 - Ravitch says it's difficult to attract good workers when diesel mechanic working for the city gets paid 30% more than one working for the TA
 - Koch appointed Ross Sandler as the "new transit watchdog"
   - *not sure what statute this resulted from*
-- Date: February 1, 1982
-- Sources: [nymag](https://books.google.com/books?id=fecCAAAAMBAJ&lpg=PA22&dq=hrh%20ravitch&pg=PA20#v=onepage&q=hrh%20ravitch&f=false)
-- Created at: September 7, 2017
-- Tags: [article](../tags/article.md) [capital-plan](../tags/capital-plan.md) [mta](../tags/mta.md)
+- Meta
+  - Date: February 1, 1982
+  - Sources: [nymag](https://books.google.com/books?id=fecCAAAAMBAJ&lpg=PA22&dq=hrh%20ravitch&pg=PA20#v=onepage&q=hrh%20ravitch&f=false)
+  - Tags: [article](../tags/article.md) [capital-plan](../tags/capital-plan.md) [mta](../tags/mta.md)
 

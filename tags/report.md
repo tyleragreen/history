@@ -1,15 +1,4 @@
 # report
-## Timelines
-- [mta](../timelines/mta.md)
-
-## Tags
-- [article](../tags/article.md)
-- [capital-plan](../tags/capital-plan.md)
-- [moses](../tags/moses.md)
-- [mta](../tags/mta.md)
-- [ravitch](../tags/ravitch.md)
-- [report](../tags/report.md)
-
 ## Notes
 ### Governance Assessment of MTA Capital Program Mega Projects
 
@@ -18,8 +7,8 @@
 - MTAHQ Office of Construction Oversight (OCO) manages the IEC
 - IEC is presently (2010) under a $7mil annual contract with MTAHQ
 - MTA created MTA Capital Construction (MTACC) to oversee SAS, EAS, Fulton Center, 7 line extension
-- Date: November 20, 2010
-- Sources: [mtaoig](http://mtaig.state.ny.us/assets/pdf/10-04.pdf)
-- Created at: September 6, 2017
-- Tags: [mta](../tags/mta.md) [report](../tags/report.md)
+- Meta
+  - Date: November 20, 2010
+  - Sources: [mtaoig](http://mtaig.state.ny.us/assets/pdf/10-04.pdf)
+  - Tags: [mta](../tags/mta.md) [report](../tags/report.md)
 

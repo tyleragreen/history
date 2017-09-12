@@ -99,13 +99,6 @@ I'm studying urban history and these are my notes. Focus will be placed on all f
   - Sources: [nyt](http://www.nytimes.com/2013/01/31/nyregion/edward-m-kresky-88-calmed-fiscal-panic.html)
   - Tags: [mac](tags/mac.md) [nyc](tags/nyc.md) [people](tags/people.md)
 
-### Mitchell Moss
-
-- Dubbed a "New Yorkologist"
-- Meta
-  - Sources: [nyuw](https://wagner.nyu.edu/community/faculty/mitchell-l-moss)
-  - Tags: [nyc](tags/nyc.md) [people](tags/people.md)
-
 ### Daniel Patrick Moynihan
 
 - Let "accelerated depreciation" expire
@@ -113,10 +106,12 @@ I'm studying urban history and these are my notes. Focus will be placed on all f
   - Sources: [nyc](http://www.nytimes.com/1984/03/19/business/senate-s-real-estate-tax-blow.html)
   - Tags: [moynihan](tags/moynihan.md) [nyc](tags/nyc.md) [people](tags/people.md) [todo](tags/todo.md)
 
-### New York City Seasonal Financing Act
+### Mitchell Moss
+
+- Dubbed a "New Yorkologist"
 - Meta
-  - Date: 1975
-  - Tags: [nyc](tags/nyc.md) [nycfc](tags/nycfc.md) [totimeline](tags/totimeline.md)
+  - Sources: [nyuw](https://wagner.nyu.edu/community/faculty/mitchell-l-moss)
+  - Tags: [nyc](tags/nyc.md) [people](tags/people.md)
 
 ### NYC topics
 
@@ -127,6 +122,11 @@ I'm studying urban history and these are my notes. Focus will be placed on all f
 - [Mitchell-Lama Housing Program](http://www.mitchell-lama.org/history.html)
 - Meta
   - Tags: [nyc](tags/nyc.md) [todo](tags/todo.md)
+
+### New York City Seasonal Financing Act
+- Meta
+  - Date: 1975
+  - Tags: [nyc](tags/nyc.md) [nycfc](tags/nycfc.md) [totimeline](tags/totimeline.md)
 
 ### Jacob Javits pleads for federal load guarantees for New York City
 
@@ -407,4 +407,60 @@ I'm studying urban history and these are my notes. Focus will be placed on all f
   - Date: 2004
   - Sources: [apta](http://www.apta.com/passengertransport/Documents/archive_434.htm)
   - Tags: [mta](tags/mta.md) [mta-bus](tags/mta-bus.md)
+
+### William J. Ronan, former MTA chair, dies
+- Meta
+  - Sources: [nyt](https://www.nytimes.com/2014/10/18/nyregion/william-j-ronan-architect-of-the-metropolitan-transportation-authority-dies-at-101.html?_r=0)
+  - Tags: [mta](tags/mta.md) [ronan](tags/ronan.md)
+
+### The Road Back - History of MTA capital plan
+- Meta
+  - Date: 2012
+  - Sources: [pcac](http://www.pcac.org/wp-content/uploads/2014/09/The-Road-Back.pdf)
+  - Tags: [capital-plan](tags/capital-plan.md) [mta](tags/mta.md) [reports](tags/reports.md)
+
+### From Rescue to Renaissance: The Achievements of the MTA Capital Program 1982 - 2004
+- Meta
+  - Date: 2004
+  - Sources: [nyur](https://wagner.nyu.edu/files/news/rescue.pdf)
+  - Tags: [capital-plan](tags/capital-plan.md) [mta](tags/mta.md) [reports](tags/reports.md)
+
+### Conducting a Search For Origins Of 'One Fare'
+
+- Article ran on day of MetroCard's introduction (July 4, 1997)
+- Peter Stangl (MTA chair in 1992) proposed "fare deal" to offset 25-cent fare hike with discounts and free transfers
+- Richard Ravitch (MTA chair in 1982) considered automated turnstile to allow riders from outer boroughs to reach Manhattan on a single fare
+- Meta
+  - Date: 1997
+  - Sources: [nyt](http://www.nytimes.com/1997/07/04/nyregion/conducting-a-search-for-origins-of-one-fare.html) [nyc](http://www.nyc.gov/html/misc/html/metro.html)
+  - Tags: [fares](tags/fares.md) [mta](tags/mta.md)
+
+### de Blasio pushes for "Millionaire's Tax"
+
+- Would increase city income tax rate for those making over $500k from 3.9% to 4.4%
+- Expected to be paid by 32,000 NYers
+- Expected to raise $700-$800mil annually
+  - $500mil for capital costs, $250mil for half-price MetroCard program
+- Must pass state legislature
+- Meta
+  - Date: August 7, 2017
+  - Sources: [nyt](https://www.nytimes.com/2017/08/06/nyregion/bill-de-blasio-will-push-for-tax-on-wealthy-to-fix-subway.html)
+  - Tags: [de-blasio](tags/de-blasio.md) [mta](tags/mta.md) [taxes](tags/taxes.md)
+
+### Cuomo requests federal funds for high speed rail
+
+- $295 million for MTA to construct Harold Interlocking (flyover for Amtrak NEC which currently must wait for LIRR)
+- It was approved (according the “The Road Back”) WAS THIS EVER BUILT???  
+- Meta
+  - Date: April 4, 2011
+  - Sources: [nyg](https://www.governor.ny.gov/news/governor-cuomo-seeks-federal-funds-high-speed-rail-projects)
+  - Tags: [cuomo-andrew](tags/cuomo-andrew.md) [federal](tags/federal.md) [mta](tags/mta.md)
+
+### Ravitch Commission
+
+- Ravitch Commission unveils report on suggestions to close $1.2 billion deficit for 2009, after real estate transfer taxes and NYS corporate surcharge tax revenues dropped during the recession and Bloomberg’s congestion pricing plan failed in the state legislature
+- Meta
+  - Date: December 4, 2008
+  - Sources: [nyt](https://cityroom.blogs.nytimes.com/2008/12/04/ravitch-unveils-mta-rescue-plan/?_r=0) [pcachttp://www.pcac.org/news/guide-ravitch-commission-report/](undefined)
+  - Tags: [mta](tags/mta.md) [ravitch](tags/ravitch.md) [ravitch-commission](tags/ravitch-commission.md)
 

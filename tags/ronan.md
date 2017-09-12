@@ -14,3 +14,8 @@
   - Sources: [nyt](http://www.nytimes.com/1971/10/05/archives/ronan-calls-bondissue-vote-key-to-stable-subway-fares.html)
   - Tags: [bonds](../tags/bonds.md) [mta](../tags/mta.md) [ronan](../tags/ronan.md)
 
+### William J. Ronan, former MTA chair, dies
+- Meta
+  - Sources: [nyt](https://www.nytimes.com/2014/10/18/nyregion/william-j-ronan-architect-of-the-metropolitan-transportation-authority-dies-at-101.html?_r=0)
+  - Tags: [mta](../tags/mta.md) [ronan](../tags/ronan.md)
+

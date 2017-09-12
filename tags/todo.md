@@ -1,43 +1,31 @@
 # todo
-### Robert Moses responds to Robert Caro
+### I searched "people mover midtown" in the Times Machine and this is what I got
+
+- Search: https://timesmachine.nytimes.com/timesmachine/1968/09/21/76882207.html?pageNumber=55
+  - https://timesmachine.nytimes.com/timesmachine/1969/11/04/79433710.html?pageNumber=43
+  - https://timesmachine.nytimes.com/timesmachine/1973/05/23/90441783.html?pageNumber=27
+  - https://timesmachine.nytimes.com/timesmachine/1976/12/23/98375499.html?pageNumber=27
+  - https://timesmachine.nytimes.com/timesmachine/1972/03/09/79427637.html?pageNumber=16
+- New Rail Service to Jersey Urged: https://timesmachine.nytimes.com/timesmachine/1972/04/21/82220824.html?pageNumber=62
+- Trail between planes: https://timesmachine.nytimes.com/timesmachine/1991/10/06/080991.html?pageNumber=523
+- Path Extension: https://timesmachine.nytimes.com/timesmachine/1974/02/10/97469704.html?pageNumber=67
+- Queens Rail Line: https://timesmachine.nytimes.com/timesmachine/1969/11/01/88867239.html?pageNumber=66
+- Queens rail line under question: https://timesmachine.nytimes.com/timesmachine/1975/09/22/80059735.html?pageNumber=23
+- Yankees Stadium in Manhattan: https://timesmachine.nytimes.com/timesmachine/1993/10/01/470393.html?pageNumber=43
+- Hudson rail tunnel: https://timesmachine.nytimes.com/timesmachine/1973/12/28/91065294.html?pageNumber=33
 - Meta
-  - Sources: [batc](http://www.bridgeandtunnelclub.com/detritus/moses/response.htm)
-  - Tags: [moses](../tags/moses.md) [todo](../tags/todo.md)
+  - Tags: [todo](../tags/todo.md)
 
-### Daniel Patrick Moynihan
+### MTA To Find
 
-- Let "accelerated depreciation" expire
+- Bear, Stearns & Co. Metropolitan Transportation Authority, Finances of Mass Transit Services in New York City. New York: Bear Stearns, 1983.
+  - Source: [WorldCat](http://www.worldcat.org/title/metropolitan-transit-authority-finances-of-mass-transit-services-in-new-york-city/oclc/26468223&referer=brief_results)
+- Crowell, William H. "Financing mass transit in New York City" 
+  - Source: [NYPL](https://browse.nypl.org/iii/encore/record/C__Rb10011309__SFinancing%20mass%20transit%20in%20New%20York%20City__Orightresult__U__X7?lang=eng&suite=def)
+- Ravitch, Richard. "Staff Report of Capital Revitalization for the 1980s and Beyond"
+  - Source: [WorldCat](http://www.worldcat.org/title/metropolitan-transportation-authority-staff-report-of-capital-revitalization-for-the-1980s-and-beyond/oclc/7073552)
 - Meta
-  - Sources: [nyc](http://www.nytimes.com/1984/03/19/business/senate-s-real-estate-tax-blow.html)
-  - Tags: [moynihan](../tags/moynihan.md) [nyc](../tags/nyc.md) [people](../tags/people.md) [todo](../tags/todo.md)
-
-### NYC topics
-
-- [Ford Library Museum](https://www.fordlibrarymuseum.gov/library/document/0055/1669138.pdf) - New York City Seasonal Financing Act of 1975
-- [UCSB](http://www.presidency.ucsb.edu/ws/?pid=31164) - Jimmy Carter speech on New York City Loan Guarantee Act of 1978
-- [CUNY MAC Archives](http://www.baruch.cuny.edu/library/alumni/online_exhibits/amfl/mac/S12_MAC.html)
-- [Board of Estimate](https://en.wikipedia.org/wiki/New_York_City_Board_of_Estimate)
-- [Mitchell-Lama Housing Program](http://www.mitchell-lama.org/history.html)
-- Meta
-  - Tags: [nyc](../tags/nyc.md) [todo](../tags/todo.md)
-
-### 63rd St Tunnel shifted location decided after switching from 61st St and 64 St
-- Meta
-  - Date: 1964
-  - Sources: [nyt](http://query.nytimes.com/gst/abstract.html?res=980CE1D71739E633A25755C1A9649D946591D6CF&legacy=true)
-  - Tags: [expansion](../tags/expansion.md) [mta](../tags/mta.md) [todo](../tags/todo.md)
-
-### Board of Estimate approves Second Avenue Subway and 11 other new routes
-
-- Program cost of $1.26bil was to be split
-  - $600mil from state from bond issue ($2.5bil approved by voters in November 1967)
-  - $500mil from city, "borrowed through its capital-budget allocations"
-  - rest from federal
-- Changed plan from four track to two tracks
-- Meta
-  - Date: September 21, 1968
-  - Sources: [nyt](http://query.nytimes.com/gst/abstract.html?res=9B05E5DD1E31E034BC4951DFBF668383679EDE&legacy=true)
-  - Tags: [expansion](../tags/expansion.md) [mta](../tags/mta.md) [todo](../tags/todo.md)
+  - Tags: [mta](../tags/mta.md) [todo](../tags/todo.md)
 
 ### MTA Misc
 
@@ -128,14 +116,43 @@
 - Meta
   - Tags: [mta](../tags/mta.md) [todo](../tags/todo.md)
 
-### MTA To Find
+### Board of Estimate approves Second Avenue Subway and 11 other new routes
 
-- Bear, Stearns & Co. Metropolitan Transportation Authority, Finances of Mass Transit Services in New York City. New York: Bear Stearns, 1983.
-  - Source: [WorldCat](http://www.worldcat.org/title/metropolitan-transit-authority-finances-of-mass-transit-services-in-new-york-city/oclc/26468223&referer=brief_results)
-- Crowell, William H. "Financing mass transit in New York City" 
-  - Source: [NYPL](https://browse.nypl.org/iii/encore/record/C__Rb10011309__SFinancing%20mass%20transit%20in%20New%20York%20City__Orightresult__U__X7?lang=eng&suite=def)
-- Ravitch, Richard. "Staff Report of Capital Revitalization for the 1980s and Beyond"
-  - Source: [WorldCat](http://www.worldcat.org/title/metropolitan-transportation-authority-staff-report-of-capital-revitalization-for-the-1980s-and-beyond/oclc/7073552)
+- Program cost of $1.26bil was to be split
+  - $600mil from state from bond issue ($2.5bil approved by voters in November 1967)
+  - $500mil from city, "borrowed through its capital-budget allocations"
+  - rest from federal
+- Changed plan from four track to two tracks
 - Meta
-  - Tags: [mta](../tags/mta.md) [todo](../tags/todo.md)
+  - Date: September 21, 1968
+  - Sources: [nyt](http://query.nytimes.com/gst/abstract.html?res=9B05E5DD1E31E034BC4951DFBF668383679EDE&legacy=true)
+  - Tags: [expansion](../tags/expansion.md) [mta](../tags/mta.md) [todo](../tags/todo.md)
+
+### 63rd St Tunnel shifted location decided after switching from 61st St and 64 St
+- Meta
+  - Date: 1964
+  - Sources: [nyt](http://query.nytimes.com/gst/abstract.html?res=980CE1D71739E633A25755C1A9649D946591D6CF&legacy=true)
+  - Tags: [expansion](../tags/expansion.md) [mta](../tags/mta.md) [todo](../tags/todo.md)
+
+### NYC topics
+
+- [Ford Library Museum](https://www.fordlibrarymuseum.gov/library/document/0055/1669138.pdf) - New York City Seasonal Financing Act of 1975
+- [UCSB](http://www.presidency.ucsb.edu/ws/?pid=31164) - Jimmy Carter speech on New York City Loan Guarantee Act of 1978
+- [CUNY MAC Archives](http://www.baruch.cuny.edu/library/alumni/online_exhibits/amfl/mac/S12_MAC.html)
+- [Board of Estimate](https://en.wikipedia.org/wiki/New_York_City_Board_of_Estimate)
+- [Mitchell-Lama Housing Program](http://www.mitchell-lama.org/history.html)
+- Meta
+  - Tags: [nyc](../tags/nyc.md) [todo](../tags/todo.md)
+
+### Daniel Patrick Moynihan
+
+- Let "accelerated depreciation" expire
+- Meta
+  - Sources: [nyc](http://www.nytimes.com/1984/03/19/business/senate-s-real-estate-tax-blow.html)
+  - Tags: [moynihan](../tags/moynihan.md) [nyc](../tags/nyc.md) [people](../tags/people.md) [todo](../tags/todo.md)
+
+### Robert Moses responds to Robert Caro
+- Meta
+  - Sources: [batc](http://www.bridgeandtunnelclub.com/detritus/moses/response.htm)
+  - Tags: [moses](../tags/moses.md) [todo](../tags/todo.md)
 

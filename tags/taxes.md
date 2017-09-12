@@ -1,15 +1,15 @@
 # taxes
-### Commuter Tax Repealed
+### de Blasio pushes for "Millionaire's Tax"
 
-- Was 0.45 of 1% income tax on commuters in the state who work in New York City
-- Would reduce city revenue by $210m (or up to $360m, if courts rule tax now discriminates against out-of-state commuters (apparently this remained at the time, NEED SOURCE FOR RESULT OF THIS))
-- Mayor Giuliani opposed, Gov. Pataki signed, week before special election for State Senate seat in Rockland/Orange counties (NW of NYC)
-- City enjoyed $2b surplus at the time, Republicans intended measure to lighten tax burder on suburban residents
-- "The Mayor asserted that the city had a right to ask commuters to contribute to the costs of police, fire and other services."
+- Would increase city income tax rate for those making over $500k from 3.9% to 4.4%
+- Expected to be paid by 32,000 NYers
+- Expected to raise $700-$800mil annually
+  - $500mil for capital costs, $250mil for half-price MetroCard program
+- Must pass state legislature
 - Meta
-  - Date: May 18, 1999
-  - Sources: [nyt](http://www.nytimes.com/1999/05/18/nyregion/legislature-acts-quickly-to-repeal-commuter-tax.html)
-  - Tags: [nyc](../tags/nyc.md) [taxes](../tags/taxes.md)
+  - Date: August 7, 2017
+  - Sources: [nyt](https://www.nytimes.com/2017/08/06/nyregion/bill-de-blasio-will-push-for-tax-on-wealthy-to-fix-subway.html)
+  - Tags: [de-blasio](../tags/de-blasio.md) [mta](../tags/mta.md) [taxes](../tags/taxes.md)
 
 ### NY State Legislature approves 5 taxes to provide MTA operating assistance
 
@@ -26,15 +26,15 @@
   - Sources: [nyt](http://www.nytimes.com/1981/07/10/nyregion/five-taxes-voted-in-albany-to-give-mass-transit-aid.html)
   - Tags: [mta](../tags/mta.md) [taxes](../tags/taxes.md)
 
-### de Blasio pushes for "Millionaire's Tax"
+### Commuter Tax Repealed
 
-- Would increase city income tax rate for those making over $500k from 3.9% to 4.4%
-- Expected to be paid by 32,000 NYers
-- Expected to raise $700-$800mil annually
-  - $500mil for capital costs, $250mil for half-price MetroCard program
-- Must pass state legislature
+- Was 0.45 of 1% income tax on commuters in the state who work in New York City
+- Would reduce city revenue by $210m (or up to $360m, if courts rule tax now discriminates against out-of-state commuters (apparently this remained at the time, NEED SOURCE FOR RESULT OF THIS))
+- Mayor Giuliani opposed, Gov. Pataki signed, week before special election for State Senate seat in Rockland/Orange counties (NW of NYC)
+- City enjoyed $2b surplus at the time, Republicans intended measure to lighten tax burder on suburban residents
+- "The Mayor asserted that the city had a right to ask commuters to contribute to the costs of police, fire and other services."
 - Meta
-  - Date: August 7, 2017
-  - Sources: [nyt](https://www.nytimes.com/2017/08/06/nyregion/bill-de-blasio-will-push-for-tax-on-wealthy-to-fix-subway.html)
-  - Tags: [de-blasio](../tags/de-blasio.md) [mta](../tags/mta.md) [taxes](../tags/taxes.md)
+  - Date: May 18, 1999
+  - Sources: [nyt](http://www.nytimes.com/1999/05/18/nyregion/legislature-acts-quickly-to-repeal-commuter-tax.html)
+  - Tags: [nyc](../tags/nyc.md) [taxes](../tags/taxes.md)
 

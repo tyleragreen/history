@@ -1,20 +1,11 @@
 # ravitch
-### "The Man at the Wheel of the M.T.A." - Ravitch in New York Magazine
+### Ravitch Commission
 
-- "A Nelson A. Rockefeller creation, the Metropolitan Transportation Authority was set up in 1968 to coordinate public transit and insulate the mayor and governor from complaints about fare increases."
-- Under Ronan, fares rose from 20 cents to 35
-- David L. Yunich was appointed by Malcom Wilson to succeed Ronan, and oversaw fare increases from 35 cents to 50
-- Harold Fisher was appointed by Carey in 1977, saw no fare increases, but oversaw deferred maintenance programs
+- Ravitch Commission unveils report on suggestions to close $1.2 billion deficit for 2009, after real estate transfer taxes and NYS corporate surcharge tax revenues dropped during the recession and Bloomberg’s congestion pricing plan failed in the state legislature
 - Meta
-  - Date: February 1, 1982
-  - Sources: [nymag](https://books.google.com/books?id=fecCAAAAMBAJ&pg=PA22&lpg=PA22&dq=hrh+ravitch&source=bl&ots=di5YjQIL7g&sig=Ff4CMmdF4rvM3rEAsX_B7RLLp1c&hl=en&sa=X&ved=0ahUKEwj2z7-bq-jVAhXC1CYKHYueB9cQ6AEIXzAJ#v=onepage&q=hrh%20ravitch&f=false)
-  - Tags: [articles](../tags/articles.md) [mta](../tags/mta.md) [ravitch](../tags/ravitch.md)
-
-### Bob Dole denounces $100mil MTA leasing deal
-- Meta
-  - Date: April 9, 1982
-  - Sources: [nyt](http://www.nytimes.com/1982/04/09/nyregion/dole-sees-horror-story-in-mta-leasing-deal.html)
-  - Tags: [mta](../tags/mta.md) [ravitch](../tags/ravitch.md)
+  - Date: December 4, 2008
+  - Sources: [nyt](https://cityroom.blogs.nytimes.com/2008/12/04/ravitch-unveils-mta-rescue-plan/?_r=0) [pcachttp://www.pcac.org/news/guide-ravitch-commission-report/](undefined)
+  - Tags: [mta](../tags/mta.md) [ravitch](../tags/ravitch.md) [ravitch-commission](../tags/ravitch-commission.md)
 
 ### Reagan Administration says MTA violated international trade agreements
 
@@ -25,11 +16,20 @@
   - Sources: [nyt](http://www.nytimes.com/1982/05/29/nyregion/us-sees-violation-of-trade-accords-in-mta-proposal.html)
   - Tags: [mta](../tags/mta.md) [ravitch](../tags/ravitch.md)
 
-### Ravitch Commission
-
-- Ravitch Commission unveils report on suggestions to close $1.2 billion deficit for 2009, after real estate transfer taxes and NYS corporate surcharge tax revenues dropped during the recession and Bloomberg’s congestion pricing plan failed in the state legislature
+### Bob Dole denounces $100mil MTA leasing deal
 - Meta
-  - Date: December 4, 2008
-  - Sources: [nyt](https://cityroom.blogs.nytimes.com/2008/12/04/ravitch-unveils-mta-rescue-plan/?_r=0) [pcachttp://www.pcac.org/news/guide-ravitch-commission-report/](undefined)
-  - Tags: [mta](../tags/mta.md) [ravitch](../tags/ravitch.md) [ravitch-commission](../tags/ravitch-commission.md)
+  - Date: April 9, 1982
+  - Sources: [nyt](http://www.nytimes.com/1982/04/09/nyregion/dole-sees-horror-story-in-mta-leasing-deal.html)
+  - Tags: [mta](../tags/mta.md) [ravitch](../tags/ravitch.md)
+
+### "The Man at the Wheel of the M.T.A." - Ravitch in New York Magazine
+
+- "A Nelson A. Rockefeller creation, the Metropolitan Transportation Authority was set up in 1968 to coordinate public transit and insulate the mayor and governor from complaints about fare increases."
+- Under Ronan, fares rose from 20 cents to 35
+- David L. Yunich was appointed by Malcom Wilson to succeed Ronan, and oversaw fare increases from 35 cents to 50
+- Harold Fisher was appointed by Carey in 1977, saw no fare increases, but oversaw deferred maintenance programs
+- Meta
+  - Date: February 1, 1982
+  - Sources: [nymag](https://books.google.com/books?id=fecCAAAAMBAJ&pg=PA22&lpg=PA22&dq=hrh+ravitch&source=bl&ots=di5YjQIL7g&sig=Ff4CMmdF4rvM3rEAsX_B7RLLp1c&hl=en&sa=X&ved=0ahUKEwj2z7-bq-jVAhXC1CYKHYueB9cQ6AEIXzAJ#v=onepage&q=hrh%20ravitch&f=false)
+  - Tags: [articles](../tags/articles.md) [mta](../tags/mta.md) [ravitch](../tags/ravitch.md)
 

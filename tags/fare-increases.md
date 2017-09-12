@@ -1,19 +1,4 @@
 # fare-increases
-### Fare raised from $1.15 to $1.25
-
-- Took effect at midnight, handwritten signs announced day before
-  - Passengers only allowed to buy 4 tokens at old fare to prevent hoarding
-  - Created new physical token to prevent use of slugs (does this mean fakes?)
-- MTA required by state to produce a balanced budget
-- Faced $263mil budget defecit, fare increase lowered this to $157mil
-  - To fully close the gap, the increase would have needed to be to $1.40
-- Not sure how the $157mil ended up being found NEED MORE SOURCES
-  - Was discussion of transferring $90mil from healthy LIRR and MNR, contentious because of suburban->urban transfer and because of transfer of capital funds to operating funds
-- Meta
-  - Date: January 1, 1992
-  - Sources: [nyt](http://www.nytimes.com/1992/01/01/nyregion/token-price-rises-10-cents-to-1.25-in-new-york-city.html)
-  - Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
-
 ### Board votes to increase fare to $1.50, a 20% increase
 
 - To take effect on November 12
@@ -29,4 +14,19 @@
   - Date: October 20, 1995
   - Sources: [nyt](http://www.nytimes.com/1995/10/20/nyregion/1.50-subway-ride-overview-mta-vote-raises-fare-subways-buses-1.50.html?pagewanted=all)
   - Tags: [conway](../tags/conway.md) [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
+
+### Fare raised from $1.15 to $1.25
+
+- Took effect at midnight, handwritten signs announced day before
+  - Passengers only allowed to buy 4 tokens at old fare to prevent hoarding
+  - Created new physical token to prevent use of slugs (does this mean fakes?)
+- MTA required by state to produce a balanced budget
+- Faced $263mil budget defecit, fare increase lowered this to $157mil
+  - To fully close the gap, the increase would have needed to be to $1.40
+- Not sure how the $157mil ended up being found NEED MORE SOURCES
+  - Was discussion of transferring $90mil from healthy LIRR and MNR, contentious because of suburban->urban transfer and because of transfer of capital funds to operating funds
+- Meta
+  - Date: January 1, 1992
+  - Sources: [nyt](http://www.nytimes.com/1992/01/01/nyregion/token-price-rises-10-cents-to-1.25-in-new-york-city.html)
+  - Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
 

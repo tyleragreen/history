@@ -183,3 +183,36 @@ I'm studying urban history and these are my notes. Focus will be placed on all f
   - Sources: [nyt](http://www.nytimes.com/1992/01/01/nyregion/token-price-rises-10-cents-to-1.25-in-new-york-city.html)
   - Tags: [fare-increases](tags/fare-increases.md) [mta](tags/mta.md)
 
+### Regional Transportation Program
+
+- Highlights expansions and improvements as part of Mayor John Lindsay's "Program for Action"
+- Meta
+  - Date: August 1969
+  - Sources: [mta](https://ia800502.us.archive.org/14/items/regionaltranspor00newy/regionaltranspor00newy.pdf)
+  - Tags: [expansion](tags/expansion.md) [mta](tags/mta.md) [reports](tags/reports.md)
+
+### Ronan pleads for 1971 state transportation bond issue
+
+- It would fail at the ballot a month later
+- $2.5bil issue would be split $1.35bil for transit and $1.15bil for highways
+  - A rarity to have transit amount greater than highways, and Ronan knew it
+- Ronan said new bond would be used to improve existing systems, since riders complained that 1967 bond showed little tangible benefits (spent mostly on Second Avenue Subway?)
+- Fare would go to 45 or 50 cents (from 30) if bond didn't pass
+  - *Isn't this mixing capital and operating expenses?*
+  - *Yes*, but some capital projects were already being paid out of farebox income
+  - *This was pre-capital program, so my details on all this are weak right now*
+- Meta
+  - Date: October 5, 1971
+  - Sources: [nyt](http://www.nytimes.com/1971/10/05/archives/ronan-calls-bondissue-vote-key-to-stable-subway-fares.html)
+  - Tags: [bonds](tags/bonds.md) [mta](tags/mta.md) [ronan](tags/ronan.md)
+
+### Third Avenue El closes in the Bronx
+
+- Last stretch to close was between Gun Hill Road and 149th St
+- Ran 12 blocks east of the IND Concourse Line
+- Replaced with buses seemingly to lower an operating defecit
+- Meta
+  - Date: April 29, 1973
+  - Sources: [nyt](http://www.nytimes.com/1973/04/29/archives/third-ave-e1-reaches-the-end-of-its-long-noisy-blighted-nostalgic.html)
+  - Tags: [elevated](tags/elevated.md) [mta](tags/mta.md)
+

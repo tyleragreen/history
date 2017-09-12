@@ -1,6 +1,7 @@
 # mta Timeline
 ## Decades
 - [1960s](#1960s)
+- [1970s](#1970s)
 - [1980s](#1980s)
 - [1990s](#1990s)
 - [2010s](#2010s)
@@ -26,19 +27,44 @@
   - Sources: [nyt](http://query.nytimes.com/gst/abstract.html?res=9B05E5DD1E31E034BC4951DFBF668383679EDE&legacy=true)
   - Tags: [expansion](../tags/expansion.md) [mta](../tags/mta.md) [todo](../tags/todo.md)
 
-## 1980s
-### February 1, 1982
-#### "The Man at the Wheel of the M.T.A." - Ravitch in New York Magazine
+### August 1969
+#### Regional Transportation Program
 
-- "A Nelson A. Rockefeller creation, the Metropolitan Transportation Authority was set up in 1968 to coordinate public transit and insulate the mayor and governor from complaints about fare increases."
-- Under Ronan, fares rose from 20 cents to 35
-- David L. Yunich was appointed by Malcom Wilson to succeed Ronan, and oversaw fare increases from 35 cents to 50
-- Harold Fisher was appointed by Carey in 1977, saw no fare increases, but oversaw deferred maintenance programs
+- Highlights expansions and improvements as part of Mayor John Lindsay's "Program for Action"
 - Meta
-  - Date: February 1, 1982
-  - Sources: [nymag](https://books.google.com/books?id=fecCAAAAMBAJ&pg=PA22&lpg=PA22&dq=hrh+ravitch&source=bl&ots=di5YjQIL7g&sig=Ff4CMmdF4rvM3rEAsX_B7RLLp1c&hl=en&sa=X&ved=0ahUKEwj2z7-bq-jVAhXC1CYKHYueB9cQ6AEIXzAJ#v=onepage&q=hrh%20ravitch&f=false)
-  - Tags: [articles](../tags/articles.md) [mta](../tags/mta.md) [ravitch](../tags/ravitch.md)
+  - Date: August 1969
+  - Sources: [mta](https://ia800502.us.archive.org/14/items/regionaltranspor00newy/regionaltranspor00newy.pdf)
+  - Tags: [expansion](../tags/expansion.md) [mta](../tags/mta.md) [reports](../tags/reports.md)
 
+## 1970s
+### October 5, 1971
+#### Ronan pleads for 1971 state transportation bond issue
+
+- It would fail at the ballot a month later
+- $2.5bil issue would be split $1.35bil for transit and $1.15bil for highways
+  - A rarity to have transit amount greater than highways, and Ronan knew it
+- Ronan said new bond would be used to improve existing systems, since riders complained that 1967 bond showed little tangible benefits (spent mostly on Second Avenue Subway?)
+- Fare would go to 45 or 50 cents (from 30) if bond didn't pass
+  - *Isn't this mixing capital and operating expenses?*
+  - *Yes*, but some capital projects were already being paid out of farebox income
+  - *This was pre-capital program, so my details on all this are weak right now*
+- Meta
+  - Date: October 5, 1971
+  - Sources: [nyt](http://www.nytimes.com/1971/10/05/archives/ronan-calls-bondissue-vote-key-to-stable-subway-fares.html)
+  - Tags: [bonds](../tags/bonds.md) [mta](../tags/mta.md) [ronan](../tags/ronan.md)
+
+### April 29, 1973
+#### Third Avenue El closes in the Bronx
+
+- Last stretch to close was between Gun Hill Road and 149th St
+- Ran 12 blocks east of the IND Concourse Line
+- Replaced with buses seemingly to lower an operating defecit
+- Meta
+  - Date: April 29, 1973
+  - Sources: [nyt](http://www.nytimes.com/1973/04/29/archives/third-ave-e1-reaches-the-end-of-its-long-noisy-blighted-nostalgic.html)
+  - Tags: [elevated](../tags/elevated.md) [mta](../tags/mta.md)
+
+## 1980s
 ### February 1, 1982
 #### The Light at the End of the Subway
 
@@ -67,6 +93,18 @@
   - Date: February 1, 1982
   - Sources: [nymag](https://books.google.com/books?id=fecCAAAAMBAJ&lpg=PA22&dq=hrh%20ravitch&pg=PA20#v=onepage&q=hrh%20ravitch&f=false)
   - Tags: [articles](../tags/articles.md) [capital-plan](../tags/capital-plan.md) [mta](../tags/mta.md)
+
+### February 1, 1982
+#### "The Man at the Wheel of the M.T.A." - Ravitch in New York Magazine
+
+- "A Nelson A. Rockefeller creation, the Metropolitan Transportation Authority was set up in 1968 to coordinate public transit and insulate the mayor and governor from complaints about fare increases."
+- Under Ronan, fares rose from 20 cents to 35
+- David L. Yunich was appointed by Malcom Wilson to succeed Ronan, and oversaw fare increases from 35 cents to 50
+- Harold Fisher was appointed by Carey in 1977, saw no fare increases, but oversaw deferred maintenance programs
+- Meta
+  - Date: February 1, 1982
+  - Sources: [nymag](https://books.google.com/books?id=fecCAAAAMBAJ&pg=PA22&lpg=PA22&dq=hrh+ravitch&source=bl&ots=di5YjQIL7g&sig=Ff4CMmdF4rvM3rEAsX_B7RLLp1c&hl=en&sa=X&ved=0ahUKEwj2z7-bq-jVAhXC1CYKHYueB9cQ6AEIXzAJ#v=onepage&q=hrh%20ravitch&f=false)
+  - Tags: [articles](../tags/articles.md) [mta](../tags/mta.md) [ravitch](../tags/ravitch.md)
 
 ## 1990s
 ### January 1, 1992

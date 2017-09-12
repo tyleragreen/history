@@ -11,3 +11,18 @@
   - Sources: [nyt](http://www.nytimes.com/1999/05/18/nyregion/legislature-acts-quickly-to-repeal-commuter-tax.html)
   - Tags: [nyc](../tags/nyc.md) [taxes](../tags/taxes.md)
 
+### NY State Legislature approves 5 taxes to provide MTA operating assistance
+
+- Avoided fare increase from $0.75 to $1
+- Five taxes:
+  - "The gross-receipts tax on the oil companies."
+  - "An increase in the state sales tax of a quarter of a cent on the dollar in the region served by the M.T.A. The tax would be computed by rounding up to the nearest whole cent for fractions of 0.5 cents or more and rounding down for fractions under 0.5 cents."
+  - "A 10 percent tax on capital gains in real-estate transfers of more than $1 million within New York City."
+  - "A tax based on the net income and capital of oil companies' outof-state and international operations."
+  - "A corporate franchise tax of 0.75 percent on the gross returns from the in-state portion of interstate communications and commercial transport." Known as the "long lines" tax.
+- *I think these all still exist. Should annotate individually.*
+- Meta
+  - Date: July 10, 1981
+  - Sources: [nyt](http://www.nytimes.com/1981/07/10/nyregion/five-taxes-voted-in-albany-to-give-mass-transit-aid.html)
+  - Tags: [mta](../tags/mta.md) [taxes](../tags/taxes.md)
+

@@ -7,15 +7,13 @@
 - [2010s](#2010s)
 
 ## 1960s
-### 1964
-#### 63rd St Tunnel shifted location decided after switching from 61st St and 64 St
+#### 1964 - 63rd St Tunnel shifted location decided after switching from 61st St and 64 St
 - Meta
   - Date: 1964
   - Sources: [nyt](http://query.nytimes.com/gst/abstract.html?res=980CE1D71739E633A25755C1A9649D946591D6CF&legacy=true)
   - Tags: [expansion](../tags/expansion.md) [mta](../tags/mta.md) [todo](../tags/todo.md)
 
-### September 21, 1968
-#### Board of Estimate approves Second Avenue Subway and 11 other new routes
+#### September 21, 1968 - Board of Estimate approves Second Avenue Subway and 11 other new routes
 
 - Program cost of $1.26bil was to be split
   - $600mil from state from bond issue ($2.5bil approved by voters in November 1967)
@@ -27,8 +25,7 @@
   - Sources: [nyt](http://query.nytimes.com/gst/abstract.html?res=9B05E5DD1E31E034BC4951DFBF668383679EDE&legacy=true)
   - Tags: [expansion](../tags/expansion.md) [mta](../tags/mta.md) [todo](../tags/todo.md)
 
-### August 1969
-#### Regional Transportation Program
+#### August 1969 - Regional Transportation Program
 
 - Highlights expansions and improvements as part of Mayor John Lindsay's "Program for Action"
 - Meta
@@ -37,8 +34,7 @@
   - Tags: [expansion](../tags/expansion.md) [mta](../tags/mta.md) [reports](../tags/reports.md)
 
 ## 1970s
-### October 5, 1971
-#### Ronan pleads for 1971 state transportation bond issue
+#### October 5, 1971 - Ronan pleads for 1971 state transportation bond issue
 
 - It would fail at the ballot a month later
 - $2.5bil issue would be split $1.35bil for transit and $1.15bil for highways
@@ -53,8 +49,7 @@
   - Sources: [nyt](http://www.nytimes.com/1971/10/05/archives/ronan-calls-bondissue-vote-key-to-stable-subway-fares.html)
   - Tags: [bonds](../tags/bonds.md) [mta](../tags/mta.md) [ronan](../tags/ronan.md)
 
-### April 29, 1973
-#### Third Avenue El closes in the Bronx
+#### April 29, 1973 - Third Avenue El closes in the Bronx
 
 - Last stretch to close was between Gun Hill Road and 149th St
 - Ran 12 blocks east of the IND Concourse Line
@@ -65,8 +60,18 @@
   - Tags: [elevated](../tags/elevated.md) [mta](../tags/mta.md)
 
 ## 1980s
-### February 1, 1982
-#### The Light at the End of the Subway
+#### February 1, 1982 - "The Man at the Wheel of the M.T.A." - Ravitch in New York Magazine
+
+- "A Nelson A. Rockefeller creation, the Metropolitan Transportation Authority was set up in 1968 to coordinate public transit and insulate the mayor and governor from complaints about fare increases."
+- Under Ronan, fares rose from 20 cents to 35
+- David L. Yunich was appointed by Malcom Wilson to succeed Ronan, and oversaw fare increases from 35 cents to 50
+- Harold Fisher was appointed by Carey in 1977, saw no fare increases, but oversaw deferred maintenance programs
+- Meta
+  - Date: February 1, 1982
+  - Sources: [nymag](https://books.google.com/books?id=fecCAAAAMBAJ&pg=PA22&lpg=PA22&dq=hrh+ravitch&source=bl&ots=di5YjQIL7g&sig=Ff4CMmdF4rvM3rEAsX_B7RLLp1c&hl=en&sa=X&ved=0ahUKEwj2z7-bq-jVAhXC1CYKHYueB9cQ6AEIXzAJ#v=onepage&q=hrh%20ravitch&f=false)
+  - Tags: [articles](../tags/articles.md) [mta](../tags/mta.md) [ravitch](../tags/ravitch.md)
+
+#### February 1, 1982 - The Light at the End of the Subway
 
 - Only 10 subway stations had ever been modernized (as of 1982)
 - Capital plan money couldn't be used by law for hiring additional police, but it could fund crime fighting indirectly through safer station design and CCTV
@@ -94,21 +99,8 @@
   - Sources: [nymag](https://books.google.com/books?id=fecCAAAAMBAJ&lpg=PA22&dq=hrh%20ravitch&pg=PA20#v=onepage&q=hrh%20ravitch&f=false)
   - Tags: [articles](../tags/articles.md) [capital-plan](../tags/capital-plan.md) [mta](../tags/mta.md)
 
-### February 1, 1982
-#### "The Man at the Wheel of the M.T.A." - Ravitch in New York Magazine
-
-- "A Nelson A. Rockefeller creation, the Metropolitan Transportation Authority was set up in 1968 to coordinate public transit and insulate the mayor and governor from complaints about fare increases."
-- Under Ronan, fares rose from 20 cents to 35
-- David L. Yunich was appointed by Malcom Wilson to succeed Ronan, and oversaw fare increases from 35 cents to 50
-- Harold Fisher was appointed by Carey in 1977, saw no fare increases, but oversaw deferred maintenance programs
-- Meta
-  - Date: February 1, 1982
-  - Sources: [nymag](https://books.google.com/books?id=fecCAAAAMBAJ&pg=PA22&lpg=PA22&dq=hrh+ravitch&source=bl&ots=di5YjQIL7g&sig=Ff4CMmdF4rvM3rEAsX_B7RLLp1c&hl=en&sa=X&ved=0ahUKEwj2z7-bq-jVAhXC1CYKHYueB9cQ6AEIXzAJ#v=onepage&q=hrh%20ravitch&f=false)
-  - Tags: [articles](../tags/articles.md) [mta](../tags/mta.md) [ravitch](../tags/ravitch.md)
-
 ## 1990s
-### January 1, 1992
-#### Fare raised from $1.15 to $1.25
+#### January 1, 1992 - Fare raised from $1.15 to $1.25
 
 - Took effect at midnight, handwritten signs announced day before
   - Passengers only allowed to buy 4 tokens at old fare to prevent hoarding
@@ -124,8 +116,7 @@
   - Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
 
 ## 2010s
-### November 2010
-#### Governance Assessment of MTA Capital Program Mega Projects
+#### November 2010 - Governance Assessment of MTA Capital Program Mega Projects
 
 - Capital Program Oversight Committee (CPOC) consists of MTA board members
 - Independent Engineering Consultant (IEC) exists to help CPOC understand technical parts of capital projects
@@ -136,11 +127,4 @@
   - Date: November 2010
   - Sources: [mtaoig](http://mtaig.state.ny.us/assets/pdf/10-04.pdf)
   - Tags: [mta](../tags/mta.md) [report](../tags/report.md)
-
-## Undated Notes
-### Still to Read
-
-- [New York Magazine](https://books.google.com/books?id=_eUCAAAAMBAJ&lpg=PP1&ots=REBlbnHsOh&dq=1981%2020%20ways%20to%20save%20our%20subway%20and%20buses&pg=PA24#v=onepage&q&f=false), "20 Ways to Save Our Subways and Buses," January 26, 1981.
-- Meta
-  - Tags: [mta](../tags/mta.md)
 

@@ -6,6 +6,8 @@
   - [articles](tags/articles.md)
   - [ballan](tags/ballan.md)
   - [capital-plan](tags/capital-plan.md)
+  - [expansion](tags/expansion.md)
+  - [fare-increases](tags/fare-increases.md)
   - [javits](tags/javits.md)
   - [mac](tags/mac.md)
   - [moses](tags/moses.md)

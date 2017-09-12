@@ -150,3 +150,36 @@ I'm studying urban history and these are my notes. Focus will be placed on all f
   - Sources: [nyc](http://www.nytimes.com/1993/10/05/nyregion/cuomo-picks-investment-banker-for-municipal-assistance-post.html)
   - Tags: [nyc](tags/nyc.md) [nycfc](tags/nycfc.md) [rohatyn](tags/rohatyn.md)
 
+### 63rd St Tunnel shifted location decided after switching from 61st St and 64 St
+- Meta
+  - Date: 1964
+  - Sources: [nyt](http://query.nytimes.com/gst/abstract.html?res=980CE1D71739E633A25755C1A9649D946591D6CF&legacy=true)
+  - Tags: [expansion](tags/expansion.md) [mta](tags/mta.md) [todo](tags/todo.md)
+
+### Board of Estimate approves Second Avenue Subway and 11 other new routes
+
+- Program cost of $1.26bil was to be split
+  - $600mil from state from bond issue ($2.5bil approved by voters in November 1967)
+  - $500mil from city, "borrowed through its capital-budget allocations"
+  - rest from federal
+- Changed plan from four track to two tracks
+- Meta
+  - Date: September 21, 1968
+  - Sources: [nyt](http://query.nytimes.com/gst/abstract.html?res=9B05E5DD1E31E034BC4951DFBF668383679EDE&legacy=true)
+  - Tags: [expansion](tags/expansion.md) [mta](tags/mta.md) [todo](tags/todo.md)
+
+### Fare raised from $1.15 to $1.25
+
+- Took effect at midnight, handwritten signs announced day before
+  - Passengers only allowed to buy 4 tokens at old fare to prevent hoarding
+  - Created new physical token to prevent use of slugs (does this mean fakes?)
+- MTA required by state to produce a balanced budget
+- Faced $263mil budget defecit, fare increase lowered this to $157mil
+  - To fully close the gap, the increase would have needed to be to $1.40
+- Not sure how the $157mil ended up being found NEED MORE SOURCES
+  - Was discussion of transferring $90mil from healthy LIRR and MNR, contentious because of suburban->urban transfer and because of transfer of capital funds to operating funds
+- Meta
+  - Date: January 1, 1992
+  - Sources: [nyt](http://www.nytimes.com/1992/01/01/nyregion/token-price-rises-10-cents-to-1.25-in-new-york-city.html)
+  - Tags: [fare-increases](tags/fare-increases.md) [mta](tags/mta.md)
+

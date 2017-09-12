@@ -2,6 +2,8 @@
   - [articles](./articles.md)
   - [ballan](./ballan.md)
   - [capital-plan](./capital-plan.md)
+  - [expansion](./expansion.md)
+  - [fare-increases](./fare-increases.md)
   - [javits](./javits.md)
   - [mac](./mac.md)
   - [moses](./moses.md)

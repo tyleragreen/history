@@ -3,7 +3,7 @@
 - [1990s](#1990s)
 
 ## 1990s
-#### January 1, 1992 - Fare raised from $1.15 to $1.25
+**January 1, 1992** - Fare raised from $1.15 to $1.25
 
 - Took effect at midnight, handwritten signs announced day before
   - Passengers only allowed to buy 4 tokens at old fare to prevent hoarding
@@ -18,7 +18,7 @@
   - Sources: [nyt](http://www.nytimes.com/1992/01/01/nyregion/token-price-rises-10-cents-to-1.25-in-new-york-city.html)
   - Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
 
-#### October 20, 1995 - Board votes to increase fare to $1.50, a 20% increase
+**October 20, 1995** - Board votes to increase fare to $1.50, a 20% increase
 
 - To take effect on November 12
   - Added week cost $5.3mil

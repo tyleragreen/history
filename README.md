@@ -99,6 +99,13 @@ I'm studying urban history and these are my notes. Focus will be placed on all f
   - Sources: [nyt](http://www.nytimes.com/2013/01/31/nyregion/edward-m-kresky-88-calmed-fiscal-panic.html)
   - Tags: [mac](tags/mac.md) [nyc](tags/nyc.md) [people](tags/people.md)
 
+### Mitchell Moss
+
+- Dubbed a "New Yorkologist"
+- Meta
+  - Sources: [nyuw](https://wagner.nyu.edu/community/faculty/mitchell-l-moss)
+  - Tags: [nyc](tags/nyc.md) [people](tags/people.md)
+
 ### Daniel Patrick Moynihan
 
 - Let "accelerated depreciation" expire
@@ -106,12 +113,10 @@ I'm studying urban history and these are my notes. Focus will be placed on all f
   - Sources: [nyc](http://www.nytimes.com/1984/03/19/business/senate-s-real-estate-tax-blow.html)
   - Tags: [moynihan](tags/moynihan.md) [nyc](tags/nyc.md) [people](tags/people.md) [todo](tags/todo.md)
 
-### Mitchell Moss
-
-- Dubbed a "New Yorkologist"
+### New York City Seasonal Financing Act
 - Meta
-  - Sources: [nyuw](https://wagner.nyu.edu/community/faculty/mitchell-l-moss)
-  - Tags: [nyc](tags/nyc.md) [people](tags/people.md)
+  - Date: 1975
+  - Tags: [nyc](tags/nyc.md) [nycfc](tags/nycfc.md) [totimeline](tags/totimeline.md)
 
 ### NYC topics
 
@@ -122,11 +127,6 @@ I'm studying urban history and these are my notes. Focus will be placed on all f
 - [Mitchell-Lama Housing Program](http://www.mitchell-lama.org/history.html)
 - Meta
   - Tags: [nyc](tags/nyc.md) [todo](tags/todo.md)
-
-### New York City Seasonal Financing Act
-- Meta
-  - Date: 1975
-  - Tags: [nyc](tags/nyc.md) [nycfc](tags/nycfc.md) [totimeline](tags/totimeline.md)
 
 ### Jacob Javits pleads for federal load guarantees for New York City
 
@@ -237,16 +237,20 @@ I'm studying urban history and these are my notes. Focus will be placed on all f
   - Sources: [nyt](http://www.nytimes.com/1982/04/09/nyregion/dole-sees-horror-story-in-mta-leasing-deal.html)
   - Tags: [mta](tags/mta.md) [ravitch](tags/ravitch.md)
 
-### MTA To Find
+### Reagan Administration says MTA violated international trade agreements
 
-- Bear, Stearns & Co. Metropolitan Transportation Authority, Finances of Mass Transit Services in New York City. New York: Bear Stearns, 1983.
-  - Source: [WorldCat](http://www.worldcat.org/title/metropolitan-transit-authority-finances-of-mass-transit-services-in-new-york-city/oclc/26468223&referer=brief_results)
-- Crowell, William H. "Financing mass transit in New York City" 
-  - Source: [NYPL](https://browse.nypl.org/iii/encore/record/C__Rb10011309__SFinancing%20mass%20transit%20in%20New%20York%20City__Orightresult__U__X7?lang=eng&suite=def)
-- Ravitch, Richard. "Staff Report of Capital Revitalization for the 1980s and Beyond"
-  - Source: [WorldCat](http://www.worldcat.org/title/metropolitan-transportation-authority-staff-report-of-capital-revitalization-for-the-1980s-and-beyond/oclc/7073552)
+- Canadian Export Development Corporation agreed to lend the MTA $563mil (85% of $662mil car purchase price) at 9.7% for 15 years
+  - OECD minimum rate at the time was 11.25% for terms of length 5-8.5 years
 - Meta
-  - Tags: [mta](tags/mta.md) [todo](tags/todo.md)
+  - Date: May 28, 1982
+  - Sources: [nyt](http://www.nytimes.com/1982/05/29/nyregion/us-sees-violation-of-trade-accords-in-mta-proposal.html)
+  - Tags: [mta](tags/mta.md) [ravitch](tags/ravitch.md)
+
+### MTA Office of the Inspector General created
+- Meta
+  - Date: 1983
+  - Sources: [nypal](https://www.nysenate.gov/legislation/laws/PBA/1279) [nys](https://www.nysenate.gov/sites/default/files/IG_Consolidation_Report_FINAL_0.pdf)
+  - Tags: [institutions](tags/institutions.md) [legal](tags/legal.md) [mta](tags/mta.md)
 
 ### MTA Misc
 
@@ -337,6 +341,17 @@ I'm studying urban history and these are my notes. Focus will be placed on all f
 - Meta
   - Tags: [mta](tags/mta.md) [todo](tags/todo.md)
 
+### MTA To Find
+
+- Bear, Stearns & Co. Metropolitan Transportation Authority, Finances of Mass Transit Services in New York City. New York: Bear Stearns, 1983.
+  - Source: [WorldCat](http://www.worldcat.org/title/metropolitan-transit-authority-finances-of-mass-transit-services-in-new-york-city/oclc/26468223&referer=brief_results)
+- Crowell, William H. "Financing mass transit in New York City" 
+  - Source: [NYPL](https://browse.nypl.org/iii/encore/record/C__Rb10011309__SFinancing%20mass%20transit%20in%20New%20York%20City__Orightresult__U__X7?lang=eng&suite=def)
+- Ravitch, Richard. "Staff Report of Capital Revitalization for the 1980s and Beyond"
+  - Source: [WorldCat](http://www.worldcat.org/title/metropolitan-transportation-authority-staff-report-of-capital-revitalization-for-the-1980s-and-beyond/oclc/7073552)
+- Meta
+  - Tags: [mta](tags/mta.md) [todo](tags/todo.md)
+
 ### Board votes to increase fare to $1.50, a 20% increase
 
 - To take effect on November 12
@@ -353,26 +368,43 @@ I'm studying urban history and these are my notes. Focus will be placed on all f
   - Sources: [nyt](http://www.nytimes.com/1995/10/20/nyregion/1.50-subway-ride-overview-mta-vote-raises-fare-subways-buses-1.50.html?pagewanted=all)
   - Tags: [conway](tags/conway.md) [fare-increases](tags/fare-increases.md) [mta](tags/mta.md)
 
-### MTA Office of the Inspector General created
-- Meta
-  - Date: 1983
-  - Sources: [nypal](https://www.nysenate.gov/legislation/laws/PBA/1279) [nys](https://www.nysenate.gov/sites/default/files/IG_Consolidation_Report_FINAL_0.pdf)
-  - Tags: [institutions](tags/institutions.md) [legal](tags/legal.md) [mta](tags/mta.md)
-
-### Reagan Administration says MTA violated international trade agreements
-
-- Canadian Export Development Corporation agreed to lend the MTA $563mil (85% of $662mil car purchase price) at 9.7% for 15 years
-  - OECD minimum rate at the time was 11.25% for terms of length 5-8.5 years
-- Meta
-  - Date: May 28, 1982
-  - Sources: [nyt](http://www.nytimes.com/1982/05/29/nyregion/us-sees-violation-of-trade-accords-in-mta-proposal.html)
-  - Tags: [mta](tags/mta.md) [ravitch](tags/ravitch.md)
-
 ### New York State Transportation Bond Act
 
 - Provided $1.45 billion towards 2005-2009 MTA capital program from state (state assumes debt service….I think)
 - Meta
   - Date: 2005
-  - Sources: [mta](http://web.mta.info/mta/bondact.htm) [nyt](http://www.nytimes.com/2005/11/09/nyregion/metrocampaigns/voters-approve-transit-bonds-for-29-billion.html?_r=0))
+  - Sources: [mta](http://web.mta.info/mta/bondact.htm) [nyt](http://www.nytimes.com/2005/11/09/nyregion/metrocampaigns/voters-approve-transit-bonds-for-29-billion.html?_r=0)
   - Tags: [bonds](tags/bonds.md) [mta](tags/mta.md)
+
+### Joseph Giulietti
+
+- Announced President of Metro North on January 9, 2014
+  - Source: [MTA](http://www.mta.info/press-release/metro-north/mta-announces-new-president-metro-north-railroad)
+- Credited with rebuilding positive narrative surrounding MNR after Spuyten-Duyvil derailment which killed 4 in December 2013
+  - Source: (missing, heard during July 26, 2017 MTA board meeting)
+- Meta
+  - Tags: [mta](tags/mta.md) [people](tags/people.md)
+
+### MTA approves budget cuts that remove V and W trains
+- Meta
+  - Date: March 24, 2010
+  - Sources: [nyt](http://www.nytimes.com/2010/03/25/nyregion/25mta.html)
+  - Tags: [budget](tags/budget.md) [mta](tags/mta.md)
+
+### Congestion pricing dies after failing to reach a vote in the State Assembly
+
+- Would have created $8 fee to enter parts of Manhattan
+- Would have raised $500mil annually and unlocked $354mil in immediate federal grants 
+- Meta
+  - Date: April 7, 2008
+  - Sources: [nyt](https://cityroom.blogs.nytimes.com/2008/04/07/congestion-pricing-plan-is-dead-assembly-speaker-says/)
+  - Tags: [congestion-pricing](tags/congestion-pricing.md) [mta](tags/mta.md)
+
+### MTA Bus Company created
+
+- Funding came from LaGuardia connection?
+- Meta
+  - Date: 2004
+  - Sources: [apta](http://www.apta.com/passengertransport/Documents/archive_434.htm)
+  - Tags: [mta](tags/mta.md) [mta-bus](tags/mta-bus.md)
 

@@ -36,6 +36,13 @@
   - Sources: [nyt](http://www.nytimes.com/2013/01/31/nyregion/edward-m-kresky-88-calmed-fiscal-panic.html)
   - Tags: [mac](../tags/mac.md) [nyc](../tags/nyc.md) [people](../tags/people.md)
 
+### Mitchell Moss
+
+- Dubbed a "New Yorkologist"
+- Meta
+  - Sources: [nyuw](https://wagner.nyu.edu/community/faculty/mitchell-l-moss)
+  - Tags: [nyc](../tags/nyc.md) [people](../tags/people.md)
+
 ### Daniel Patrick Moynihan
 
 - Let "accelerated depreciation" expire
@@ -43,12 +50,10 @@
   - Sources: [nyc](http://www.nytimes.com/1984/03/19/business/senate-s-real-estate-tax-blow.html)
   - Tags: [moynihan](../tags/moynihan.md) [nyc](../tags/nyc.md) [people](../tags/people.md) [todo](../tags/todo.md)
 
-### Mitchell Moss
-
-- Dubbed a "New Yorkologist"
+### New York City Seasonal Financing Act
 - Meta
-  - Sources: [nyuw](https://wagner.nyu.edu/community/faculty/mitchell-l-moss)
-  - Tags: [nyc](../tags/nyc.md) [people](../tags/people.md)
+  - Date: 1975
+  - Tags: [nyc](../tags/nyc.md) [nycfc](../tags/nycfc.md) [totimeline](../tags/totimeline.md)
 
 ### NYC topics
 
@@ -59,11 +64,6 @@
 - [Mitchell-Lama Housing Program](http://www.mitchell-lama.org/history.html)
 - Meta
   - Tags: [nyc](../tags/nyc.md) [todo](../tags/todo.md)
-
-### New York City Seasonal Financing Act
-- Meta
-  - Date: 1975
-  - Tags: [nyc](../tags/nyc.md) [nycfc](../tags/nycfc.md) [totimeline](../tags/totimeline.md)
 
 ### Jacob Javits pleads for federal load guarantees for New York City
 

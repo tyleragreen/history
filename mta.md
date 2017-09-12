@@ -1,16 +1,6 @@
-- 2004 - MTA Bus Company created
-  - NEEDS EXPANDING - funding came from LaGuardia connection?
-  - Source: [APTA](http://www.apta.com/passengertransport/Documents/archive_434.htm)
-- April 7, 2008 - Congestion pricing dies after failing to reach a vote in the State Assembly
-  - Would have created $8 fee to enter parts of Manhattan
-  - Would have raised $500mil annually and unlocked $354mil in immediate federal grants 
-  - Source: [NYT](https://cityroom.blogs.nytimes.com/2008/04/07/congestion-pricing-plan-is-dead-assembly-speaker-says/)
 - December 4, 2008
   - Ravitch Commission unveils report on suggestions to close $1.2 billion deficit for 2009, after real estate transfer taxes and NYS corporate surcharge tax revenues dropped during the recession and Bloomberg’s congestion pricing plan failed in the state legislature
   - Source: [NYT](https://cityroom.blogs.nytimes.com/2008/12/04/ravitch-unveils-mta-rescue-plan/?_r=0) [PCAC](http://www.pcac.org/news/guide-ravitch-commission-report/)
-- March 24, 2010
-  - MTA approves budget cuts that remove V and W trains
-  - Source: [NYT](http://www.nytimes.com/2010/03/25/nyregion/25mta.html)
 - April 4, 2011
   - Cuomo requests federal funds for high speed rail
   - $295 million for MTA to construct Harold Interlocking (flyover for Amtrak NEC which currently must wait for LIRR)
@@ -33,10 +23,5 @@
 - 2012 - The Road Back - History of MTA capital plan
   - Source: [PCAC](http://www.pcac.org/wp-content/uploads/2014/09/The-Road-Back.pdf)
 
-- Joseph Giulietti - President of MNR
-  - Announced January 9, 2014
-    - Source: [MTA](http://www.mta.info/press-release/metro-north/mta-announces-new-president-metro-north-railroad)
-  - Credited with rebuilding positive narrative surrounding MNR after Spuyten-Duyvil derailment which killed 4 in December 2013
-    - Source: (missing, heard during July 26, 2017 MTA board meeting)
 - William J. Ronan - former MTA chair, died in 2014
   - Source: [NYT](https://www.nytimes.com/2014/10/18/nyregion/william-j-ronan-architect-of-the-metropolitan-transportation-authority-dies-at-101.html?_r=0)

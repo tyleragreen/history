@@ -39,6 +39,17 @@
   - Sources: [nyt](http://query.nytimes.com/gst/abstract.html?res=9B05E5DD1E31E034BC4951DFBF668383679EDE&legacy=true)
   - Tags: [expansion](../tags/expansion.md) [mta](../tags/mta.md) [todo](../tags/todo.md)
 
+### MTA To Find
+
+- Bear, Stearns & Co. Metropolitan Transportation Authority, Finances of Mass Transit Services in New York City. New York: Bear Stearns, 1983.
+  - Source: [WorldCat](http://www.worldcat.org/title/metropolitan-transit-authority-finances-of-mass-transit-services-in-new-york-city/oclc/26468223&referer=brief_results)
+- Crowell, William H. "Financing mass transit in New York City" 
+  - Source: [NYPL](https://browse.nypl.org/iii/encore/record/C__Rb10011309__SFinancing%20mass%20transit%20in%20New%20York%20City__Orightresult__U__X7?lang=eng&suite=def)
+- Ravitch, Richard. "Staff Report of Capital Revitalization for the 1980s and Beyond"
+  - Source: [WorldCat](http://www.worldcat.org/title/metropolitan-transportation-authority-staff-report-of-capital-revitalization-for-the-1980s-and-beyond/oclc/7073552)
+- Meta
+  - Tags: [mta](../tags/mta.md) [todo](../tags/todo.md)
+
 ### MTA Misc
 
 - Late 60s Stuff
@@ -125,17 +136,6 @@
   - [Columbia project](http://www.columbia.edu/~kyl2120/mtaproject/)
   - [NY Mag](https://books.google.com/books?id=lOUCAAAAMBAJ&pg=PA47&lpg=PA47&dq=steve+polan+mta&source=bl&ots=RB6FgYsive&sig=n02YNe1e7-lqAjhwaypzjmf3QrI&hl=en&sa=X&ved=0ahUKEwim9cnB9IHWAhVk4IMKHR65BDwQ6AEIUjAJ#v=onepage&q=steve%20polan%20mta&f=false) on Coliseum
 
-- Meta
-  - Tags: [mta](../tags/mta.md) [todo](../tags/todo.md)
-
-### MTA To Find
-
-- Bear, Stearns & Co. Metropolitan Transportation Authority, Finances of Mass Transit Services in New York City. New York: Bear Stearns, 1983.
-  - Source: [WorldCat](http://www.worldcat.org/title/metropolitan-transit-authority-finances-of-mass-transit-services-in-new-york-city/oclc/26468223&referer=brief_results)
-- Crowell, William H. "Financing mass transit in New York City" 
-  - Source: [NYPL](https://browse.nypl.org/iii/encore/record/C__Rb10011309__SFinancing%20mass%20transit%20in%20New%20York%20City__Orightresult__U__X7?lang=eng&suite=def)
-- Ravitch, Richard. "Staff Report of Capital Revitalization for the 1980s and Beyond"
-  - Source: [WorldCat](http://www.worldcat.org/title/metropolitan-transportation-authority-staff-report-of-capital-revitalization-for-the-1980s-and-beyond/oclc/7073552)
 - Meta
   - Tags: [mta](../tags/mta.md) [todo](../tags/todo.md)
 

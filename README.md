@@ -99,19 +99,19 @@ I'm studying urban history and these are my notes. Focus will be placed on all f
   - Sources: [nyt](http://www.nytimes.com/2013/01/31/nyregion/edward-m-kresky-88-calmed-fiscal-panic.html)
   - Tags: [mac](tags/mac.md) [nyc](tags/nyc.md) [people](tags/people.md)
 
-### Mitchell Moss
-
-- Dubbed a "New Yorkologist"
-- Meta
-  - Sources: [nyuw](https://wagner.nyu.edu/community/faculty/mitchell-l-moss)
-  - Tags: [nyc](tags/nyc.md) [people](tags/people.md)
-
 ### Daniel Patrick Moynihan
 
 - Let "accelerated depreciation" expire
 - Meta
   - Sources: [nyc](http://www.nytimes.com/1984/03/19/business/senate-s-real-estate-tax-blow.html)
   - Tags: [moynihan](tags/moynihan.md) [nyc](tags/nyc.md) [people](tags/people.md) [todo](tags/todo.md)
+
+### Mitchell Moss
+
+- Dubbed a "New Yorkologist"
+- Meta
+  - Sources: [nyuw](https://wagner.nyu.edu/community/faculty/mitchell-l-moss)
+  - Tags: [nyc](tags/nyc.md) [people](tags/people.md)
 
 ### NYC topics
 
@@ -237,20 +237,16 @@ I'm studying urban history and these are my notes. Focus will be placed on all f
   - Sources: [nyt](http://www.nytimes.com/1982/04/09/nyregion/dole-sees-horror-story-in-mta-leasing-deal.html)
   - Tags: [mta](tags/mta.md) [ravitch](tags/ravitch.md)
 
-### Reagan Administration says MTA violated international trade agreements
+### MTA To Find
 
-- Canadian Export Development Corporation agreed to lend the MTA $563mil (85% of $662mil car purchase price) at 9.7% for 15 years
-  - OECD minimum rate at the time was 11.25% for terms of length 5-8.5 years
+- Bear, Stearns & Co. Metropolitan Transportation Authority, Finances of Mass Transit Services in New York City. New York: Bear Stearns, 1983.
+  - Source: [WorldCat](http://www.worldcat.org/title/metropolitan-transit-authority-finances-of-mass-transit-services-in-new-york-city/oclc/26468223&referer=brief_results)
+- Crowell, William H. "Financing mass transit in New York City" 
+  - Source: [NYPL](https://browse.nypl.org/iii/encore/record/C__Rb10011309__SFinancing%20mass%20transit%20in%20New%20York%20City__Orightresult__U__X7?lang=eng&suite=def)
+- Ravitch, Richard. "Staff Report of Capital Revitalization for the 1980s and Beyond"
+  - Source: [WorldCat](http://www.worldcat.org/title/metropolitan-transportation-authority-staff-report-of-capital-revitalization-for-the-1980s-and-beyond/oclc/7073552)
 - Meta
-  - Date: May 28, 1982
-  - Sources: [nyt](http://www.nytimes.com/1982/05/29/nyregion/us-sees-violation-of-trade-accords-in-mta-proposal.html)
-  - Tags: [mta](tags/mta.md) [ravitch](tags/ravitch.md)
-
-### MTA Office of the Inspector General created
-- Meta
-  - Date: 1983
-  - Sources: [nypal](https://www.nysenate.gov/legislation/laws/PBA/1279) [nys](https://www.nysenate.gov/sites/default/files/IG_Consolidation_Report_FINAL_0.pdf)
-  - Tags: [institutions](tags/institutions.md) [legal](tags/legal.md) [mta](tags/mta.md)
+  - Tags: [mta](tags/mta.md) [todo](tags/todo.md)
 
 ### MTA Misc
 
@@ -341,18 +337,7 @@ I'm studying urban history and these are my notes. Focus will be placed on all f
 - Meta
   - Tags: [mta](tags/mta.md) [todo](tags/todo.md)
 
-### MTA To Find
-
-- Bear, Stearns & Co. Metropolitan Transportation Authority, Finances of Mass Transit Services in New York City. New York: Bear Stearns, 1983.
-  - Source: [WorldCat](http://www.worldcat.org/title/metropolitan-transit-authority-finances-of-mass-transit-services-in-new-york-city/oclc/26468223&referer=brief_results)
-- Crowell, William H. "Financing mass transit in New York City" 
-  - Source: [NYPL](https://browse.nypl.org/iii/encore/record/C__Rb10011309__SFinancing%20mass%20transit%20in%20New%20York%20City__Orightresult__U__X7?lang=eng&suite=def)
-- Ravitch, Richard. "Staff Report of Capital Revitalization for the 1980s and Beyond"
-  - Source: [WorldCat](http://www.worldcat.org/title/metropolitan-transportation-authority-staff-report-of-capital-revitalization-for-the-1980s-and-beyond/oclc/7073552)
-- Meta
-  - Tags: [mta](tags/mta.md) [todo](tags/todo.md)
-
-### Board votes to increase fare to $1.25, a 20% increase
+### Board votes to increase fare to $1.50, a 20% increase
 
 - To take effect on November 12
   - Added week cost $5.3mil
@@ -366,5 +351,28 @@ I'm studying urban history and these are my notes. Focus will be placed on all f
 - Meta
   - Date: October 20, 1995
   - Sources: [nyt](http://www.nytimes.com/1995/10/20/nyregion/1.50-subway-ride-overview-mta-vote-raises-fare-subways-buses-1.50.html?pagewanted=all)
-  - Tags: [fare-increases](tags/fare-increases.md) [mta](tags/mta.md)
+  - Tags: [conway](tags/conway.md) [fare-increases](tags/fare-increases.md) [mta](tags/mta.md)
+
+### MTA Office of the Inspector General created
+- Meta
+  - Date: 1983
+  - Sources: [nypal](https://www.nysenate.gov/legislation/laws/PBA/1279) [nys](https://www.nysenate.gov/sites/default/files/IG_Consolidation_Report_FINAL_0.pdf)
+  - Tags: [institutions](tags/institutions.md) [legal](tags/legal.md) [mta](tags/mta.md)
+
+### Reagan Administration says MTA violated international trade agreements
+
+- Canadian Export Development Corporation agreed to lend the MTA $563mil (85% of $662mil car purchase price) at 9.7% for 15 years
+  - OECD minimum rate at the time was 11.25% for terms of length 5-8.5 years
+- Meta
+  - Date: May 28, 1982
+  - Sources: [nyt](http://www.nytimes.com/1982/05/29/nyregion/us-sees-violation-of-trade-accords-in-mta-proposal.html)
+  - Tags: [mta](tags/mta.md) [ravitch](tags/ravitch.md)
+
+### New York State Transportation Bond Act
+
+- Provided $1.45 billion towards 2005-2009 MTA capital program from state (state assumes debt service….I think)
+- Meta
+  - Date: 2005
+  - Sources: [mta](http://web.mta.info/mta/bondact.htm) [nyt](http://www.nytimes.com/2005/11/09/nyregion/metrocampaigns/voters-approve-transit-bonds-for-29-billion.html?_r=0))
+  - Tags: [bonds](tags/bonds.md) [mta](tags/mta.md)
 

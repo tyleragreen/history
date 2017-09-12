@@ -1,9 +1,6 @@
 - 2004 - MTA Bus Company created
   - NEEDS EXPANDING - funding came from LaGuardia connection?
   - Source: [APTA](http://www.apta.com/passengertransport/Documents/archive_434.htm)
-- 2005 - New York State Transportation Bond Act
-  - Provided $1.45 billion towards 2005-2009 MTA capital program from state (state assumes debt service….I think)
-  - Source: [MTA](http://web.mta.info/mta/bondact.htm) [NYT](http://www.nytimes.com/2005/11/09/nyregion/metrocampaigns/voters-approve-transit-bonds-for-29-billion.html?_r=0)
 - April 7, 2008 - Congestion pricing dies after failing to reach a vote in the State Assembly
   - Would have created $8 fee to enter parts of Manhattan
   - Would have raised $500mil annually and unlocked $354mil in immediate federal grants 

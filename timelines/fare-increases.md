@@ -18,7 +18,7 @@
   - Sources: [nyt](http://www.nytimes.com/1992/01/01/nyregion/token-price-rises-10-cents-to-1.25-in-new-york-city.html)
   - Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
 
-#### October 20, 1995 - Board votes to increase fare to $1.25, a 20% increase
+#### October 20, 1995 - Board votes to increase fare to $1.50, a 20% increase
 
 - To take effect on November 12
   - Added week cost $5.3mil
@@ -32,5 +32,5 @@
 - Meta
   - Date: October 20, 1995
   - Sources: [nyt](http://www.nytimes.com/1995/10/20/nyregion/1.50-subway-ride-overview-mta-vote-raises-fare-subways-buses-1.50.html?pagewanted=all)
-  - Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
+  - Tags: [conway](../tags/conway.md) [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
 

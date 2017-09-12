@@ -14,3 +14,11 @@
   - Sources: [nyt](http://www.nytimes.com/1971/10/05/archives/ronan-calls-bondissue-vote-key-to-stable-subway-fares.html)
   - Tags: [bonds](../tags/bonds.md) [mta](../tags/mta.md) [ronan](../tags/ronan.md)
 
+### New York State Transportation Bond Act
+
+- Provided $1.45 billion towards 2005-2009 MTA capital program from state (state assumes debt service….I think)
+- Meta
+  - Date: 2005
+  - Sources: [mta](http://web.mta.info/mta/bondact.htm) [nyt](http://www.nytimes.com/2005/11/09/nyregion/metrocampaigns/voters-approve-transit-bonds-for-29-billion.html?_r=0))
+  - Tags: [bonds](../tags/bonds.md) [mta](../tags/mta.md)
+

@@ -1,8 +1,8 @@
 # program-for-action
-### 63rd St Tunnel Location Debated
+### Regional Transportation Program
 
-- CBC thought tunnel on 61st St would lead to better East Side IRT and future line connections
+- Highlights expansions and improvements as part of Mayor John Lindsay's "Program for Action"
 - Meta
-  - Date: 1964
-  - Tags: [expansion](../tags/expansion.md) [mta](../tags/mta.md) [program-for-action](../tags/program-for-action.md)
+  - Date: August 1969
+  - Tags: [expansion](../tags/expansion.md) [mta](../tags/mta.md) [program-for-action](../tags/program-for-action.md) [reports](../tags/reports.md)
 

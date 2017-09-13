@@ -1,5 +1,44 @@
 # Urban History
 I'm studying urban history and these are my notes. Focus will be placed on all financial aspects, particularly those of New York City and the [Metropolitan Transportation Authority](http://www.mta.info).
+### MTA Courts Kiley
+
+- Cuomo's counsel, Timothy Russert, sat with Kiley at Fenway during Yaz Day (Carl Yastrzemski's last game) to discuss the MTA job
+- The govenor's staff's codename for Kiley was "The Badge," "because he had been Deputy Mayor in charge of public safety in Boston from 1972 to 1975 and before that a C.I.A. official"
+- Meta
+  - Date: October 8, 1983
+  - Sources: [nyt](http://www.nytimes.com/1983/10/08/nyregion/the-secret-courting-of-robert-kiley.html?mcubz=3)
+  - Tags: [kiley](tags/kiley.md) [mta](tags/mta.md)
+
+### New Yorker on Ravitch-era capital plans
+  
+- Capital plan approved by NY state legislature, June 24, 1981
+  - [NYT](http://www.nytimes.com/1981/06/24/nyregion/news-summary-wednesday-june-24-1981.html)
+- 1981 tax plan would come up $250mil short, so the legislature passed a 2-year corporate franchise tax in 1982 to make up the difference
+  - This was after the long-lines tax on transportation companies was uncollectible
+    - State is not allowed to tax interstate commerce, but they attempted to tax, say, a plane ticket from Albany to Washington's New York state component - also prohibited by federal law - *which one?*
+- Pullman had scandal involving cracked undercarriages on R46s
+  - MTA won $72mil judgement from Pullman in December 1981
+- Kawasaki and Bombardier deal led to R62s and R62As
+- p65 - Cuomo wanted to reorganize MTA board after Bombardier deal - *look for source*
+- Fall 1981 - Metromedia lease
+- Dole's bill extended safe harbor leasing for transit to be delivered by 1987 (end of Bombardier bill)
+- Enactment of state law barring MTA from bankruptcy after comment from Robert Gerrard, managing director of Dillon Read
+- Congress passed measure giving MTA operating control of Harlem, Hudson, and New Haven commuter lines
+  - Required $60mil transitional fund
+- First capital program increased from $7.2bil to $8.5bil after 1982 federal gas tax increase
+- Around time of Ravitch's resignation, Cuomo attempted to reorganize the board so that the chairman would not longer serve 6 year terms, but at the govenor's behest
+  - *isn't it still this way?*
+- MTA sued Grumman Flexible due to faulty chassis on buses and had to repay federal money for purchase to the UMTA
+- 1983 NRDC report gave rare approval of MTA performance
+- New bus depot opened in 1984 in Sunset Park because new buses were too large to enter old one
+- After 12th derailment in 1983, red flags were put on track to signal 10mph sections
+  - *what is speed limit in today's restricted areas?*
+  - Subway track was supposed to receive two walking inspections a week
+- City's water table had risen 10 feet over previous 30 years, sitting tunnels on water rather than ground
+- Meta
+  - Date: June 25, 1984
+  - Tags: [articles](tags/articles.md) [capital-plan](tags/capital-plan.md) [mta](tags/mta.md) [ravitch](tags/ravitch.md)
+
 ### I searched "people mover midtown" in the Times Machine and this is what I got
 
 - Search: https://timesmachine.nytimes.com/timesmachine/1968/09/21/76882207.html?pageNumber=55
@@ -172,32 +211,6 @@ I'm studying urban history and these are my notes. Focus will be placed on all f
 - [Politico NY on Ravitch](http://www.politico.com/states/new-york/albany/story/2014/05/lessons-from-a-transit-savior-080025)
 - [NY Mag on Ravitch](http://nymag.com/news/intelligencer/encounter/58184/)
 - Investment Tax Credit - Enacted in 1962 by the IRS to stimulate private investment
-- James Lardner, “Painting the Elephant,” New Yorker magazine, June 25, 1984, 42-71.
-  - Stories from Ravitch-era capital plans
-  - Capital plan approved by NY state legislature, June 24, 1981
-    - [NYT](http://www.nytimes.com/1981/06/24/nyregion/news-summary-wednesday-june-24-1981.html)
-  - 1981 tax plan would come up $250mil short, so the legislature passed a 2-year corporate franchise tax in 1982 to make up the difference
-    - This was after the long-lines tax on transportation companies was uncollectible
-      - State is not allowed to tax interstate commerce, but they attempted to tax, say, a plane ticket from Albany to Washington's New York state component - also prohibited by federal law - *which one?*
-  - Pullman had scandal involving cracked undercarriages on R46s
-    - MTA won $72mil judgement from Pullman in December 1981
-  - Kawasaki and Bombardier deal led to R62s and R62As
-  - p65 - Cuomo wanted to reorganize MTA board after Bombardier deal - *look for source*
-  - Fall 1981 - Metromedia lease
-  - Dole's bill extended safe harbor leasing for transit to be delivered by 1987 (end of Bombardier bill)
-  - Enactment of state law barring MTA from bankruptcy after comment from Robert Gerrard, managing director of Dillon Read
-  - Congress passed measure giving MTA operating control of Harlem, Hudson, and New Haven commuter lines
-    - Required $60mil transitional fund
-  - First capital program increased from $7.2bil to $8.5bil after 1982 federal gas tax increase
-  - Around time of Ravitch's resignation, Cuomo attempted to reorganize the board so that the chairman would not longer serve 6 year terms, but at the govenor's behest
-    - *isn't it still this way?*
-  - MTA sued Grumman Flexible due to faulty chassis on buses and had to repay federal money for purchase to the UMTA
-  - 1983 NRDC report gave rare approval of MTA performance
-  - New bus depot opened in 1984 in Sunset Park because new buses were too large to enter old one
-  - After 12th derailment in 1983, red flags were put on track to signal 10mph sections
-    - *what is speed limit in today's restricted areas?*
-    - Subway track was supposed to receive two walking inspections a week
-  - City's water table had risen 10 feet over previous 30 years, sitting tunnels on water rather than ground
 - Bob Kiley appointed on October 5, 1983 <- *this is the wrong year*
   - [New Yorker 1983](http://www.newyorker.com/magazine/1983/10/31/robert-kiley)
     - Kiley was chair of MTA from 1983 to 1990, took over the Underground at age 68
@@ -218,14 +231,10 @@ I'm studying urban history and these are my notes. Focus will be placed on all f
     - Britain's Labour party still (2004) gets most of its funding from unions
     - Kiley wanted public bondds to finance Tube improvements, Blair and Treasury wanted to use PPPs, let to privatization of the Tube
     - Tube control was transfered to TfL in July 2004
-  - [NYT](http://www.nytimes.com/1983/10/08/nyregion/the-secret-courting-of-robert-kiley.html?mcubz=3) on MTA's courting of Kiley
-    - Cuomo's counsel, Timothy Russert, sat with Kiley at Fenway during Yaz Day (Carl Yastrzemski's last game) to discuss the MTA job
-    - The govenor's staff's codename for Kiley was "The Badge," "because he had been Deputy Mayor in charge of public safety in Boston from 1972 to 1975 and before that a C.I.A. official"
 - Steve Polan
   - [Google](https://www.google.com/search?q=steve+polan+mta&safe=off&ei=uzyoWebHKejdjwSfs6_YBg&start=0&sa=N&biw=1193&bih=1343) brings up a strong list
   - [Columbia project](http://www.columbia.edu/~kyl2120/mtaproject/)
   - [NY Mag](https://books.google.com/books?id=lOUCAAAAMBAJ&pg=PA47&lpg=PA47&dq=steve+polan+mta&source=bl&ots=RB6FgYsive&sig=n02YNe1e7-lqAjhwaypzjmf3QrI&hl=en&sa=X&ved=0ahUKEwim9cnB9IHWAhVk4IMKHR65BDwQ6AEIUjAJ#v=onepage&q=steve%20polan%20mta&f=false) on Coliseum
-
 - Meta
   - Tags: [mta](tags/mta.md) [todo](tags/todo.md)
 

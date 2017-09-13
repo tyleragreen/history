@@ -1,9 +1,8 @@
 # Urban History
 I'm studying urban history and these are my notes. Focus will be placed on all financial aspects, particularly those of New York City and the [Metropolitan Transportation Authority](http://www.mta.info).
 ### Bob Kiley appointed MTA Chair
-- Meta
-  - Date: October 5, 1983
-  - Tags: [kiley](tags/kiley.md) [mta](tags/mta.md) [todo](tags/todo.md)
+- Date: October 5, 1983
+- Tags: [kiley](tags/kiley.md) [mta](tags/mta.md) [todo](tags/todo.md)
 
 ### New Yorker on Bob Kiley
 
@@ -21,17 +20,17 @@ I'm studying urban history and these are my notes. Focus will be placed on all f
 - Appointed to Amtrak Board of Directors by Clinton in 1993
 - Known for engaging in public fights with New York's transit labor unions
 - "This would be a three-fer," Kiley said about the opportunity to lead in London, after running the old subway systems in Boston and NYC
-- Meta
-  - Tags: [kiley](tags/kiley.md) [mta](tags/mta.md) [tfl](tags/tfl.md)
+- "The Talk of the Town: Robert Kiley," *The New Yorker*, October 31, 1983. [link](http://www.newyorker.com/magazine/1983/10/31/robert-kiley)
+- "Underground Man," *The New Yorker*, February 9, 2004. [link](http://www.newyorker.com/magazine/2004/02/09/underground-man-2)
+- Tags: [kiley](tags/kiley.md) [mta](tags/mta.md) [tfl](tags/tfl.md)
 
 ### MTA Courts Kiley
 
 - Cuomo's counsel, Timothy Russert, sat with Kiley at Fenway during Yaz Day (Carl Yastrzemski's last game) to discuss the MTA job
 - The govenor's staff's codename for Kiley was "The Badge," "because he had been Deputy Mayor in charge of public safety in Boston from 1972 to 1975 and before that a C.I.A. official"
-- Meta
-  - Date: October 8, 1983
-  - Sources: [nyt](http://www.nytimes.com/1983/10/08/nyregion/the-secret-courting-of-robert-kiley.html?mcubz=3)
-  - Tags: [kiley](tags/kiley.md) [mta](tags/mta.md)
+- Date: October 8, 1983
+- Sources: [nyt](http://www.nytimes.com/1983/10/08/nyregion/the-secret-courting-of-robert-kiley.html?mcubz=3)
+- Tags: [kiley](tags/kiley.md) [mta](tags/mta.md)
 
 ### New Yorker on Ravitch-era capital plans
   
@@ -59,9 +58,9 @@ I'm studying urban history and these are my notes. Focus will be placed on all f
   - *what is speed limit in today's restricted areas?*
   - Subway track was supposed to receive two walking inspections a week
 - City's water table had risen 10 feet over previous 30 years, sitting tunnels on water rather than ground
-- Meta
-  - Date: June 25, 1984
-  - Tags: [articles](tags/articles.md) [capital-plan](tags/capital-plan.md) [mta](tags/mta.md) [ravitch](tags/ravitch.md)
+- Date: June 25, 1984
+- Lardner, James, “Painting the Elephant,” *The New Yorker*, June 25, 1984, 42-71. [link](https://www.newyorker.com/magazine/1984/06/25/painting-the-elephant)
+- Tags: [articles](tags/articles.md) [capital-plan](tags/capital-plan.md) [mta](tags/mta.md) [ravitch](tags/ravitch.md)
 
 ### I searched "people mover midtown" in the Times Machine and this is what I got
 
@@ -77,25 +76,22 @@ I'm studying urban history and these are my notes. Focus will be placed on all f
 - Queens rail line under question: https://timesmachine.nytimes.com/timesmachine/1975/09/22/80059735.html?pageNumber=23
 - Yankees Stadium in Manhattan: https://timesmachine.nytimes.com/timesmachine/1993/10/01/470393.html?pageNumber=43
 - Hudson rail tunnel: https://timesmachine.nytimes.com/timesmachine/1973/12/28/91065294.html?pageNumber=33
-- Meta
-  - Tags: [todo](tags/todo.md)
+- Tags: [todo](tags/todo.md)
 
 ### Ravitch Commission
 
 - Ravitch Commission unveils report on suggestions to close $1.2 billion deficit for 2009, after real estate transfer taxes and NYS corporate surcharge tax revenues dropped during the recession and Bloomberg’s congestion pricing plan failed in the state legislature
-- Meta
-  - Date: December 4, 2008
-  - Sources: [nyt](https://cityroom.blogs.nytimes.com/2008/12/04/ravitch-unveils-mta-rescue-plan/?_r=0) [pcac](http://www.pcac.org/news/guide-ravitch-commission-report/)
-  - Tags: [mta](tags/mta.md) [ravitch](tags/ravitch.md) [ravitch-commission](tags/ravitch-commission.md)
+- Date: December 4, 2008
+- Sources: [nyt](https://cityroom.blogs.nytimes.com/2008/12/04/ravitch-unveils-mta-rescue-plan/?_r=0) [pcac](http://www.pcac.org/news/guide-ravitch-commission-report/)
+- Tags: [mta](tags/mta.md) [ravitch](tags/ravitch.md) [ravitch-commission](tags/ravitch-commission.md)
 
 ### Cuomo requests federal funds for high speed rail
 
 - $295 million for MTA to construct Harold Interlocking (flyover for Amtrak NEC which currently must wait for LIRR)
 - It was approved (according the “The Road Back”) WAS THIS EVER BUILT???  
-- Meta
-  - Date: April 4, 2011
-  - Sources: [nyg](https://www.governor.ny.gov/news/governor-cuomo-seeks-federal-funds-high-speed-rail-projects)
-  - Tags: [cuomo-andrew](tags/cuomo-andrew.md) [federal](tags/federal.md) [mta](tags/mta.md)
+- Date: April 4, 2011
+- Sources: [nyg](https://www.governor.ny.gov/news/governor-cuomo-seeks-federal-funds-high-speed-rail-projects)
+- Tags: [cuomo-andrew](tags/cuomo-andrew.md) [federal](tags/federal.md) [mta](tags/mta.md)
 
 ### de Blasio pushes for "Millionaire's Tax"
 
@@ -104,60 +100,52 @@ I'm studying urban history and these are my notes. Focus will be placed on all f
 - Expected to raise $700-$800mil annually
   - $500mil for capital costs, $250mil for half-price MetroCard program
 - Must pass state legislature
-- Meta
-  - Date: August 7, 2017
-  - Sources: [nyt](https://www.nytimes.com/2017/08/06/nyregion/bill-de-blasio-will-push-for-tax-on-wealthy-to-fix-subway.html)
-  - Tags: [de-blasio](tags/de-blasio.md) [mta](tags/mta.md) [taxes](tags/taxes.md)
+- Date: August 7, 2017
+- Sources: [nyt](https://www.nytimes.com/2017/08/06/nyregion/bill-de-blasio-will-push-for-tax-on-wealthy-to-fix-subway.html)
+- Tags: [de-blasio](tags/de-blasio.md) [mta](tags/mta.md) [taxes](tags/taxes.md)
 
 ### Conducting a Search For Origins Of 'One Fare'
 
 - Article ran on day of MetroCard's introduction (July 4, 1997)
 - Peter Stangl (MTA chair in 1992) proposed "fare deal" to offset 25-cent fare hike with discounts and free transfers
 - Richard Ravitch (MTA chair in 1982) considered automated turnstile to allow riders from outer boroughs to reach Manhattan on a single fare
-- Meta
-  - Date: 1997
-  - Sources: [nyt](http://www.nytimes.com/1997/07/04/nyregion/conducting-a-search-for-origins-of-one-fare.html) [nyc](http://www.nyc.gov/html/misc/html/metro.html)
-  - Tags: [fares](tags/fares.md) [mta](tags/mta.md)
+- Date: 1997
+- Sources: [nyt](http://www.nytimes.com/1997/07/04/nyregion/conducting-a-search-for-origins-of-one-fare.html) [nyc](http://www.nyc.gov/html/misc/html/metro.html)
+- Tags: [fares](tags/fares.md) [mta](tags/mta.md)
 
 ### From Rescue to Renaissance: The Achievements of the MTA Capital Program 1982 - 2004
-- Meta
-  - Date: 2004
-  - Sources: [nyur](https://wagner.nyu.edu/files/news/rescue.pdf)
-  - Tags: [capital-plan](tags/capital-plan.md) [mta](tags/mta.md) [reports](tags/reports.md)
+- Date: 2004
+- Sources: [nyur](https://wagner.nyu.edu/files/news/rescue.pdf)
+- Tags: [capital-plan](tags/capital-plan.md) [mta](tags/mta.md) [reports](tags/reports.md)
 
 ### The Road Back - History of MTA capital plan
-- Meta
-  - Date: 2012
-  - Sources: [pcac](http://www.pcac.org/wp-content/uploads/2014/09/The-Road-Back.pdf)
-  - Tags: [capital-plan](tags/capital-plan.md) [mta](tags/mta.md) [reports](tags/reports.md)
+- Date: 2012
+- Sources: [pcac](http://www.pcac.org/wp-content/uploads/2014/09/The-Road-Back.pdf)
+- Tags: [capital-plan](tags/capital-plan.md) [mta](tags/mta.md) [reports](tags/reports.md)
 
 ### William J. Ronan, former MTA chair, dies
-- Meta
-  - Sources: [nyt](https://www.nytimes.com/2014/10/18/nyregion/william-j-ronan-architect-of-the-metropolitan-transportation-authority-dies-at-101.html?_r=0)
-  - Tags: [mta](tags/mta.md) [ronan](tags/ronan.md)
+- Sources: [nyt](https://www.nytimes.com/2014/10/18/nyregion/william-j-ronan-architect-of-the-metropolitan-transportation-authority-dies-at-101.html?_r=0)
+- Tags: [mta](tags/mta.md) [ronan](tags/ronan.md)
 
 ### MTA Bus Company created
 
 - Funding came from LaGuardia connection?
-- Meta
-  - Date: 2004
-  - Sources: [apta](http://www.apta.com/passengertransport/Documents/archive_434.htm)
-  - Tags: [mta](tags/mta.md) [mta-bus](tags/mta-bus.md)
+- Date: 2004
+- Sources: [apta](http://www.apta.com/passengertransport/Documents/archive_434.htm)
+- Tags: [mta](tags/mta.md) [mta-bus](tags/mta-bus.md)
 
 ### Congestion pricing dies after failing to reach a vote in the State Assembly
 
 - Would have created $8 fee to enter parts of Manhattan
 - Would have raised $500mil annually and unlocked $354mil in immediate federal grants 
-- Meta
-  - Date: April 7, 2008
-  - Sources: [nyt](https://cityroom.blogs.nytimes.com/2008/04/07/congestion-pricing-plan-is-dead-assembly-speaker-says/)
-  - Tags: [congestion-pricing](tags/congestion-pricing.md) [mta](tags/mta.md)
+- Date: April 7, 2008
+- Sources: [nyt](https://cityroom.blogs.nytimes.com/2008/04/07/congestion-pricing-plan-is-dead-assembly-speaker-says/)
+- Tags: [congestion-pricing](tags/congestion-pricing.md) [mta](tags/mta.md)
 
 ### MTA approves budget cuts that remove V and W trains
-- Meta
-  - Date: March 24, 2010
-  - Sources: [nyt](http://www.nytimes.com/2010/03/25/nyregion/25mta.html)
-  - Tags: [budget](tags/budget.md) [mta](tags/mta.md)
+- Date: March 24, 2010
+- Sources: [nyt](http://www.nytimes.com/2010/03/25/nyregion/25mta.html)
+- Tags: [budget](tags/budget.md) [mta](tags/mta.md)
 
 ### Joseph Giulietti
 
@@ -165,16 +153,14 @@ I'm studying urban history and these are my notes. Focus will be placed on all f
   - Source: [MTA](http://www.mta.info/press-release/metro-north/mta-announces-new-president-metro-north-railroad)
 - Credited with rebuilding positive narrative surrounding MNR after Spuyten-Duyvil derailment which killed 4 in December 2013
   - Source: (missing, heard during July 26, 2017 MTA board meeting)
-- Meta
-  - Tags: [mta](tags/mta.md) [people](tags/people.md)
+- Tags: [mta](tags/mta.md) [people](tags/people.md)
 
 ### New York State Transportation Bond Act
 
 - Provided $1.45 billion towards 2005-2009 MTA capital program from state (state assumes debt service….I think)
-- Meta
-  - Date: 2005
-  - Sources: [mta](http://web.mta.info/mta/bondact.htm) [nyt](http://www.nytimes.com/2005/11/09/nyregion/metrocampaigns/voters-approve-transit-bonds-for-29-billion.html?_r=0)
-  - Tags: [bonds](tags/bonds.md) [mta](tags/mta.md)
+- Date: 2005
+- Sources: [mta](http://web.mta.info/mta/bondact.htm) [nyt](http://www.nytimes.com/2005/11/09/nyregion/metrocampaigns/voters-approve-transit-bonds-for-29-billion.html?_r=0)
+- Tags: [bonds](tags/bonds.md) [mta](tags/mta.md)
 
 ### Board votes to increase fare to $1.50, a 20% increase
 
@@ -187,10 +173,9 @@ I'm studying urban history and these are my notes. Focus will be placed on all f
   - DID THIS HAPPEN?
 - Canceled fare increase on express buses from $4 to $5, saying they wouldn't be able to compete with private buses
   - Express buses are biggest money losers in the system
-- Meta
-  - Date: October 20, 1995
-  - Sources: [nyt](http://www.nytimes.com/1995/10/20/nyregion/1.50-subway-ride-overview-mta-vote-raises-fare-subways-buses-1.50.html?pagewanted=all)
-  - Tags: [conway](tags/conway.md) [fare-increases](tags/fare-increases.md) [mta](tags/mta.md)
+- Date: October 20, 1995
+- Sources: [nyt](http://www.nytimes.com/1995/10/20/nyregion/1.50-subway-ride-overview-mta-vote-raises-fare-subways-buses-1.50.html?pagewanted=all)
+- Tags: [conway](tags/conway.md) [fare-increases](tags/fare-increases.md) [mta](tags/mta.md)
 
 ### MTA To Find
 
@@ -200,8 +185,7 @@ I'm studying urban history and these are my notes. Focus will be placed on all f
   - Source: [NYPL](https://browse.nypl.org/iii/encore/record/C__Rb10011309__SFinancing%20mass%20transit%20in%20New%20York%20City__Orightresult__U__X7?lang=eng&suite=def)
 - Ravitch, Richard. "Staff Report of Capital Revitalization for the 1980s and Beyond"
   - Source: [WorldCat](http://www.worldcat.org/title/metropolitan-transportation-authority-staff-report-of-capital-revitalization-for-the-1980s-and-beyond/oclc/7073552)
-- Meta
-  - Tags: [mta](tags/mta.md) [todo](tags/todo.md)
+- Tags: [mta](tags/mta.md) [todo](tags/todo.md)
 
 ### MTA Misc
 
@@ -239,29 +223,25 @@ I'm studying urban history and these are my notes. Focus will be placed on all f
   - [Google](https://www.google.com/search?q=steve+polan+mta&safe=off&ei=uzyoWebHKejdjwSfs6_YBg&start=0&sa=N&biw=1193&bih=1343) brings up a strong list
   - [Columbia project](http://www.columbia.edu/~kyl2120/mtaproject/)
   - [NY Mag](https://books.google.com/books?id=lOUCAAAAMBAJ&pg=PA47&lpg=PA47&dq=steve+polan+mta&source=bl&ots=RB6FgYsive&sig=n02YNe1e7-lqAjhwaypzjmf3QrI&hl=en&sa=X&ved=0ahUKEwim9cnB9IHWAhVk4IMKHR65BDwQ6AEIUjAJ#v=onepage&q=steve%20polan%20mta&f=false) on Coliseum
-- Meta
-  - Tags: [mta](tags/mta.md) [todo](tags/todo.md)
+- Tags: [mta](tags/mta.md) [todo](tags/todo.md)
 
 ### MTA Office of the Inspector General created
-- Meta
-  - Date: 1983
-  - Sources: [nypal](https://www.nysenate.gov/legislation/laws/PBA/1279) [nys](https://www.nysenate.gov/sites/default/files/IG_Consolidation_Report_FINAL_0.pdf)
-  - Tags: [institutions](tags/institutions.md) [legal](tags/legal.md) [mta](tags/mta.md)
+- Date: 1983
+- Sources: [nypal](https://www.nysenate.gov/legislation/laws/PBA/1279) [nys](https://www.nysenate.gov/sites/default/files/IG_Consolidation_Report_FINAL_0.pdf)
+- Tags: [institutions](tags/institutions.md) [legal](tags/legal.md) [mta](tags/mta.md)
 
 ### Reagan Administration says MTA violated international trade agreements
 
 - Canadian Export Development Corporation agreed to lend the MTA $563mil (85% of $662mil car purchase price) at 9.7% for 15 years
   - OECD minimum rate at the time was 11.25% for terms of length 5-8.5 years
-- Meta
-  - Date: May 28, 1982
-  - Sources: [nyt](http://www.nytimes.com/1982/05/29/nyregion/us-sees-violation-of-trade-accords-in-mta-proposal.html)
-  - Tags: [mta](tags/mta.md) [ravitch](tags/ravitch.md)
+- Date: May 28, 1982
+- Sources: [nyt](http://www.nytimes.com/1982/05/29/nyregion/us-sees-violation-of-trade-accords-in-mta-proposal.html)
+- Tags: [mta](tags/mta.md) [ravitch](tags/ravitch.md)
 
 ### Bob Dole denounces $100mil MTA leasing deal
-- Meta
-  - Date: April 9, 1982
-  - Sources: [nyt](http://www.nytimes.com/1982/04/09/nyregion/dole-sees-horror-story-in-mta-leasing-deal.html)
-  - Tags: [mta](tags/mta.md) [ravitch](tags/ravitch.md)
+- Date: April 9, 1982
+- Sources: [nyt](http://www.nytimes.com/1982/04/09/nyregion/dole-sees-horror-story-in-mta-leasing-deal.html)
+- Tags: [mta](tags/mta.md) [ravitch](tags/ravitch.md)
 
 ### NY State Legislature approves 5 taxes to provide MTA operating assistance
 
@@ -273,20 +253,18 @@ I'm studying urban history and these are my notes. Focus will be placed on all f
   - "A tax based on the net income and capital of oil companies' outof-state and international operations."
   - "A corporate franchise tax of 0.75 percent on the gross returns from the in-state portion of interstate communications and commercial transport." Known as the "long lines" tax.
 - *I think these all still exist. Should annotate individually.*
-- Meta
-  - Date: July 10, 1981
-  - Sources: [nyt](http://www.nytimes.com/1981/07/10/nyregion/five-taxes-voted-in-albany-to-give-mass-transit-aid.html)
-  - Tags: [mta](tags/mta.md) [taxes](tags/taxes.md)
+- Date: July 10, 1981
+- Sources: [nyt](http://www.nytimes.com/1981/07/10/nyregion/five-taxes-voted-in-albany-to-give-mass-transit-aid.html)
+- Tags: [mta](tags/mta.md) [taxes](tags/taxes.md)
 
 ### Third Avenue El closes in the Bronx
 
 - Last stretch to close was between Gun Hill Road and 149th St
 - Ran 12 blocks east of the IND Concourse Line
 - Replaced with buses seemingly to lower an operating defecit
-- Meta
-  - Date: April 29, 1973
-  - Sources: [nyt](http://www.nytimes.com/1973/04/29/archives/third-ave-e1-reaches-the-end-of-its-long-noisy-blighted-nostalgic.html)
-  - Tags: [elevated](tags/elevated.md) [mta](tags/mta.md)
+- Date: April 29, 1973
+- Sources: [nyt](http://www.nytimes.com/1973/04/29/archives/third-ave-e1-reaches-the-end-of-its-long-noisy-blighted-nostalgic.html)
+- Tags: [elevated](tags/elevated.md) [mta](tags/mta.md)
 
 ### Ronan pleads for 1971 state transportation bond issue
 
@@ -298,17 +276,16 @@ I'm studying urban history and these are my notes. Focus will be placed on all f
   - *Isn't this mixing capital and operating expenses?*
   - *Yes*, but some capital projects were already being paid out of farebox income
   - *This was pre-capital program, so my details on all this are weak right now*
-- Meta
-  - Date: October 5, 1971
-  - Sources: [nyt](http://www.nytimes.com/1971/10/05/archives/ronan-calls-bondissue-vote-key-to-stable-subway-fares.html)
-  - Tags: [bonds](tags/bonds.md) [mta](tags/mta.md) [ronan](tags/ronan.md)
+- Date: October 5, 1971
+- Sources: [nyt](http://www.nytimes.com/1971/10/05/archives/ronan-calls-bondissue-vote-key-to-stable-subway-fares.html)
+- Tags: [bonds](tags/bonds.md) [mta](tags/mta.md) [ronan](tags/ronan.md)
 
 ### Regional Transportation Program
 
 - Highlights expansions and improvements as part of Mayor John Lindsay's "Program for Action"
-- Meta
-  - Date: August 1969
-  - Tags: [expansion](tags/expansion.md) [mta](tags/mta.md) [program-for-action](tags/program-for-action.md) [reports](tags/reports.md)
+- Date: August 1969
+- "Regional Transportation Program", Metropolitan Transportation Authority, August 1969. [link](https://ia800502.us.archive.org/14/items/regionaltranspor00newy/regionaltranspor00newy.pdf)
+- Tags: [expansion](tags/expansion.md) [mta](tags/mta.md) [program-for-action](tags/program-for-action.md) [reports](tags/reports.md)
 
 ### Fare raised from $1.15 to $1.25
 
@@ -320,10 +297,9 @@ I'm studying urban history and these are my notes. Focus will be placed on all f
   - To fully close the gap, the increase would have needed to be to $1.40
 - Not sure how the $157mil ended up being found NEED MORE SOURCES
   - Was discussion of transferring $90mil from healthy LIRR and MNR, contentious because of suburban->urban transfer and because of transfer of capital funds to operating funds
-- Meta
-  - Date: January 1, 1992
-  - Sources: [nyt](http://www.nytimes.com/1992/01/01/nyregion/token-price-rises-10-cents-to-1.25-in-new-york-city.html)
-  - Tags: [fare-increases](tags/fare-increases.md) [mta](tags/mta.md)
+- Date: January 1, 1992
+- Sources: [nyt](http://www.nytimes.com/1992/01/01/nyregion/token-price-rises-10-cents-to-1.25-in-new-york-city.html)
+- Tags: [fare-increases](tags/fare-increases.md) [mta](tags/mta.md)
 
 ### Board of Estimate approves Second Avenue Subway and 11 other new routes
 
@@ -332,43 +308,39 @@ I'm studying urban history and these are my notes. Focus will be placed on all f
   - $500mil from city, "borrowed through its capital-budget allocations"
   - rest from federal
 - Changed SAS plan from four track to two tracks
-- Meta
-  - Date: September 21, 1968
-  - Tags: [expansion](tags/expansion.md) [mta](tags/mta.md) [second-avenue](tags/second-avenue.md)
+- Date: September 21, 1968
+- "City Approves 2d Ave. Subway And 11 Other New Transit Lines", *New York Times*, September 21, 1968. [link](http://query.nytimes.com/gst/abstract.html?res=9B05E5DD1E31E034BC4951DFBF668383679EDE&legacy=true)
+- Tags: [expansion](tags/expansion.md) [mta](tags/mta.md) [second-avenue](tags/second-avenue.md)
 
 ### 63rd St Tunnel Location Debated
 
 - CBC thought tunnel on 61st St would lead to better East Side IRT and future line connections
-- Meta
-  - Date: 1964
-  - Tags: [expansion](tags/expansion.md) [mta](tags/mta.md)
+- Date: 1964
+- "Proposed Subway Tube Assailed As 'Nowhere-to-Nowhere' Link", *New York Times*, December 16, 1964. [link](http://query.nytimes.com/gst/abstract.html?res=980CE1D71739E633A25755C1A9649D946591D6CF&legacy=true)
+- Tags: [expansion](tags/expansion.md) [mta](tags/mta.md)
 
 ### Eugene Keilin appointed MAC chairman by Cuomo
 
 - Succeeded Felix Rohatyn
-- Meta
-  - Date: October 4, 1993
-  - Sources: [nyc](http://www.nytimes.com/1993/10/05/nyregion/cuomo-picks-investment-banker-for-municipal-assistance-post.html)
-  - Tags: [nyc](tags/nyc.md) [nycfc](tags/nycfc.md) [rohatyn](tags/rohatyn.md)
+- Date: October 4, 1993
+- Sources: [nyc](http://www.nytimes.com/1993/10/05/nyregion/cuomo-picks-investment-banker-for-municipal-assistance-post.html)
+- Tags: [nyc](tags/nyc.md) [nycfc](tags/nycfc.md) [rohatyn](tags/rohatyn.md)
 
 ### New York City Loan Guarantee Act
-- Meta
-  - Date: 1978
-  - Sources: [nycm](http://www.nyc.gov/html/records/pdf/executive_orders/1978EO026.PDF)
-  - Tags: [nyc](tags/nyc.md) [nycfc](tags/nycfc.md) [totimeline](tags/totimeline.md)
+- Date: 1978
+- Sources: [nycm](http://www.nyc.gov/html/records/pdf/executive_orders/1978EO026.PDF)
+- Tags: [nyc](tags/nyc.md) [nycfc](tags/nycfc.md) [totimeline](tags/totimeline.md)
 
 ### Jacob Javits pleads for federal load guarantees for New York City
 
 - Cites Congressional Research Service report on existing large and varied federal loan guarantees
-- Meta
-  - Date: March 16, 1978
-  - Sources: [cuny](http://www.baruch.cuny.edu/library/alumni/online_exhibits/amfl/mac/pdf_files/Legislation_Federal/1977-78-1.pdf)
-  - Tags: [javits](tags/javits.md) [nyc](tags/nyc.md) [nycfc](tags/nycfc.md)
+- Date: March 16, 1978
+- Sources: [cuny](http://www.baruch.cuny.edu/library/alumni/online_exhibits/amfl/mac/pdf_files/Legislation_Federal/1977-78-1.pdf)
+- Tags: [javits](tags/javits.md) [nyc](tags/nyc.md) [nycfc](tags/nycfc.md)
 
 ### New York City Seasonal Financing Act
-- Meta
-  - Date: 1975
-  - Tags: [nyc](tags/nyc.md) [nycfc](tags/nycfc.md) [totimeline](tags/totimeline.md)
+- Date: 1975
+- Tags: [nyc](tags/nyc.md) [nycfc](tags/nycfc.md) [totimeline](tags/totimeline.md)
 
 ### NYC topics
 
@@ -377,35 +349,30 @@ I'm studying urban history and these are my notes. Focus will be placed on all f
 - [CUNY MAC Archives](http://www.baruch.cuny.edu/library/alumni/online_exhibits/amfl/mac/S12_MAC.html)
 - [Board of Estimate](https://en.wikipedia.org/wiki/New_York_City_Board_of_Estimate)
 - [Mitchell-Lama Housing Program](http://www.mitchell-lama.org/history.html)
-- Meta
-  - Tags: [nyc](tags/nyc.md) [todo](tags/todo.md)
+- Tags: [nyc](tags/nyc.md) [todo](tags/todo.md)
 
 ### Daniel Patrick Moynihan
 
 - Let "accelerated depreciation" expire
-- Meta
-  - Sources: [nyc](http://www.nytimes.com/1984/03/19/business/senate-s-real-estate-tax-blow.html)
-  - Tags: [moynihan](tags/moynihan.md) [nyc](tags/nyc.md) [people](tags/people.md) [todo](tags/todo.md)
+- Sources: [nyc](http://www.nytimes.com/1984/03/19/business/senate-s-real-estate-tax-blow.html)
+- Tags: [moynihan](tags/moynihan.md) [nyc](tags/nyc.md) [people](tags/people.md) [todo](tags/todo.md)
 
 ### Mitchell Moss
 
 - Dubbed a "New Yorkologist"
-- Meta
-  - Sources: [nyuw](https://wagner.nyu.edu/community/faculty/mitchell-l-moss)
-  - Tags: [nyc](tags/nyc.md) [people](tags/people.md)
+- Sources: [nyuw](https://wagner.nyu.edu/community/faculty/mitchell-l-moss)
+- Tags: [nyc](tags/nyc.md) [people](tags/people.md)
 
 ### Edward Kresky
 
 - Early MAC appointee
 - Served as deputy under William Ronan both for Govenor Rockefeller and MTA
-- Meta
-  - Sources: [nyt](http://www.nytimes.com/2013/01/31/nyregion/edward-m-kresky-88-calmed-fiscal-panic.html)
-  - Tags: [mac](tags/mac.md) [nyc](tags/nyc.md) [people](tags/people.md)
+- Sources: [nyt](http://www.nytimes.com/2013/01/31/nyregion/edward-m-kresky-88-calmed-fiscal-panic.html)
+- Tags: [mac](tags/mac.md) [nyc](tags/nyc.md) [people](tags/people.md)
 
 ### Robert Moses responds to Robert Caro
-- Meta
-  - Sources: [batc](http://www.bridgeandtunnelclub.com/detritus/moses/response.htm)
-  - Tags: [moses](tags/moses.md) [todo](tags/todo.md)
+- Sources: [batc](http://www.bridgeandtunnelclub.com/detritus/moses/response.htm)
+- Tags: [moses](tags/moses.md) [todo](tags/todo.md)
 
 ### The Light at the End of the Subway
 
@@ -430,16 +397,14 @@ I'm studying urban history and these are my notes. Focus will be placed on all f
 - Ravitch says it's difficult to attract good workers when diesel mechanic working for the city gets paid 30% more than one working for the TA
 - Koch appointed Ross Sandler as the "new transit watchdog"
   - *not sure what statute this resulted from*
-- Meta
-  - Date: February 1, 1982
-  - Sources: [nymag](https://books.google.com/books?id=fecCAAAAMBAJ&lpg=PA22&dq=hrh%20ravitch&pg=PA20#v=onepage&q=hrh%20ravitch&f=false)
-  - Tags: [articles](tags/articles.md) [capital-plan](tags/capital-plan.md) [mta](tags/mta.md)
+- Date: February 1, 1982
+- Sources: [nymag](https://books.google.com/books?id=fecCAAAAMBAJ&lpg=PA22&dq=hrh%20ravitch&pg=PA20#v=onepage&q=hrh%20ravitch&f=false)
+- Tags: [articles](tags/articles.md) [capital-plan](tags/capital-plan.md) [mta](tags/mta.md)
 
 ### Still to Read
 
 - [New York Magazine](https://books.google.com/books?id=_eUCAAAAMBAJ&lpg=PP1&ots=REBlbnHsOh&dq=1981%2020%20ways%20to%20save%20our%20subway%20and%20buses&pg=PA24#v=onepage&q&f=false), "20 Ways to Save Our Subways and Buses," January 26, 1981.
-- Meta
-  - Tags: [mta](tags/mta.md)
+- Tags: [mta](tags/mta.md)
 
 ### "The Man at the Wheel of the M.T.A." - Ravitch in New York Magazine
 
@@ -447,10 +412,9 @@ I'm studying urban history and these are my notes. Focus will be placed on all f
 - Under Ronan, fares rose from 20 cents to 35
 - David L. Yunich was appointed by Malcom Wilson to succeed Ronan, and oversaw fare increases from 35 cents to 50
 - Harold Fisher was appointed by Carey in 1977, saw no fare increases, but oversaw deferred maintenance programs
-- Meta
-  - Date: February 1, 1982
-  - Sources: [nymag](https://books.google.com/books?id=fecCAAAAMBAJ&pg=PA22&lpg=PA22&dq=hrh+ravitch&source=bl&ots=di5YjQIL7g&sig=Ff4CMmdF4rvM3rEAsX_B7RLLp1c&hl=en&sa=X&ved=0ahUKEwj2z7-bq-jVAhXC1CYKHYueB9cQ6AEIXzAJ#v=onepage&q=hrh%20ravitch&f=false)
-  - Tags: [articles](tags/articles.md) [mta](tags/mta.md) [ravitch](tags/ravitch.md)
+- Date: February 1, 1982
+- Sources: [nymag](https://books.google.com/books?id=fecCAAAAMBAJ&pg=PA22&lpg=PA22&dq=hrh+ravitch&source=bl&ots=di5YjQIL7g&sig=Ff4CMmdF4rvM3rEAsX_B7RLLp1c&hl=en&sa=X&ved=0ahUKEwj2z7-bq-jVAhXC1CYKHYueB9cQ6AEIXzAJ#v=onepage&q=hrh%20ravitch&f=false)
+- Tags: [articles](tags/articles.md) [mta](tags/mta.md) [ravitch](tags/ravitch.md)
 
 ### Governance Assessment of MTA Capital Program Mega Projects
 
@@ -459,10 +423,9 @@ I'm studying urban history and these are my notes. Focus will be placed on all f
 - MTAHQ Office of Construction Oversight (OCO) manages the IEC
 - IEC is presently (2010) under a $7mil annual contract with MTAHQ
 - MTA created MTA Capital Construction (MTACC) to oversee SAS, EAS, Fulton Center, 7 line extension
-- Meta
-  - Date: November 2010
-  - Sources: [mtaoig](http://mtaig.state.ny.us/assets/pdf/10-04.pdf)
-  - Tags: [mta](tags/mta.md) [reports](tags/reports.md)
+- Date: November 2010
+- Sources: [mtaoig](http://mtaig.state.ny.us/assets/pdf/10-04.pdf)
+- Tags: [mta](tags/mta.md) [reports](tags/reports.md)
 
 ### New York City Housing Crisis
 
@@ -471,15 +434,13 @@ I'm studying urban history and these are my notes. Focus will be placed on all f
 - 421-a Tax Incentive Program - [NYU Furman](http://furmancenter.org/institute/directory/entry/421-a-tax-incentive)
 - 1969 - rent stabilization established by the state legislature
 - 1981 - [Callahan Decree](http://www.coalitionforthehomeless.org/wp-content/uploads/2014/06/CallahanConsentDecree.pdf) - city chose to house every person who asked for a bed
-- Meta
-  - Sources: [nyrb](http://www.nybooks.com/articles/2017/08/17/tenants-under-siege-inside-new-york-city-housing-crisis/)
-  - Tags: [articles](tags/articles.md) [nyc](tags/nyc.md)
+- Sources: [nyrb](http://www.nybooks.com/articles/2017/08/17/tenants-under-siege-inside-new-york-city-housing-crisis/)
+- Tags: [articles](tags/articles.md) [nyc](tags/nyc.md)
 
 ### Municipal Assistance Corporation Shut Down
-- Meta
-  - Date: September 27, 2008
-  - Sources: [nydn](http://www.nydailynews.com/news/money/municipal-assistance-corp-new-york-1975-savior-ya-article-1.325509)
-  - Tags: [ballan](tags/ballan.md) [mac](tags/mac.md) [nyc](tags/nyc.md)
+- Date: September 27, 2008
+- Sources: [nydn](http://www.nydailynews.com/news/money/municipal-assistance-corp-new-york-1975-savior-ya-article-1.325509)
+- Tags: [ballan](tags/ballan.md) [mac](tags/mac.md) [nyc](tags/nyc.md)
 
 ### Commuter Tax Repealed
 
@@ -488,8 +449,7 @@ I'm studying urban history and these are my notes. Focus will be placed on all f
 - Mayor Giuliani opposed, Gov. Pataki signed, week before special election for State Senate seat in Rockland/Orange counties (NW of NYC)
 - City enjoyed $2b surplus at the time, Republicans intended measure to lighten tax burder on suburban residents
 - "The Mayor asserted that the city had a right to ask commuters to contribute to the costs of police, fire and other services."
-- Meta
-  - Date: May 18, 1999
-  - Sources: [nyt](http://www.nytimes.com/1999/05/18/nyregion/legislature-acts-quickly-to-repeal-commuter-tax.html)
-  - Tags: [nyc](tags/nyc.md) [taxes](tags/taxes.md)
+- Date: May 18, 1999
+- Sources: [nyt](http://www.nytimes.com/1999/05/18/nyregion/legislature-acts-quickly-to-repeal-commuter-tax.html)
+- Tags: [nyc](tags/nyc.md) [taxes](tags/taxes.md)
 

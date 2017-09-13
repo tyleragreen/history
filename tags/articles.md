@@ -25,9 +25,9 @@
   - *what is speed limit in today's restricted areas?*
   - Subway track was supposed to receive two walking inspections a week
 - City's water table had risen 10 feet over previous 30 years, sitting tunnels on water rather than ground
-- Meta
-  - Date: June 25, 1984
-  - Tags: [articles](../tags/articles.md) [capital-plan](../tags/capital-plan.md) [mta](../tags/mta.md) [ravitch](../tags/ravitch.md)
+- Date: June 25, 1984
+- Lardner, James, “Painting the Elephant,” *The New Yorker*, June 25, 1984, 42-71. [link](https://www.newyorker.com/magazine/1984/06/25/painting-the-elephant)
+- Tags: [articles](../tags/articles.md) [capital-plan](../tags/capital-plan.md) [mta](../tags/mta.md) [ravitch](../tags/ravitch.md)
 
 ### The Light at the End of the Subway
 
@@ -52,10 +52,9 @@
 - Ravitch says it's difficult to attract good workers when diesel mechanic working for the city gets paid 30% more than one working for the TA
 - Koch appointed Ross Sandler as the "new transit watchdog"
   - *not sure what statute this resulted from*
-- Meta
-  - Date: February 1, 1982
-  - Sources: [nymag](https://books.google.com/books?id=fecCAAAAMBAJ&lpg=PA22&dq=hrh%20ravitch&pg=PA20#v=onepage&q=hrh%20ravitch&f=false)
-  - Tags: [articles](../tags/articles.md) [capital-plan](../tags/capital-plan.md) [mta](../tags/mta.md)
+- Date: February 1, 1982
+- Sources: [nymag](https://books.google.com/books?id=fecCAAAAMBAJ&lpg=PA22&dq=hrh%20ravitch&pg=PA20#v=onepage&q=hrh%20ravitch&f=false)
+- Tags: [articles](../tags/articles.md) [capital-plan](../tags/capital-plan.md) [mta](../tags/mta.md)
 
 ### "The Man at the Wheel of the M.T.A." - Ravitch in New York Magazine
 
@@ -63,10 +62,9 @@
 - Under Ronan, fares rose from 20 cents to 35
 - David L. Yunich was appointed by Malcom Wilson to succeed Ronan, and oversaw fare increases from 35 cents to 50
 - Harold Fisher was appointed by Carey in 1977, saw no fare increases, but oversaw deferred maintenance programs
-- Meta
-  - Date: February 1, 1982
-  - Sources: [nymag](https://books.google.com/books?id=fecCAAAAMBAJ&pg=PA22&lpg=PA22&dq=hrh+ravitch&source=bl&ots=di5YjQIL7g&sig=Ff4CMmdF4rvM3rEAsX_B7RLLp1c&hl=en&sa=X&ved=0ahUKEwj2z7-bq-jVAhXC1CYKHYueB9cQ6AEIXzAJ#v=onepage&q=hrh%20ravitch&f=false)
-  - Tags: [articles](../tags/articles.md) [mta](../tags/mta.md) [ravitch](../tags/ravitch.md)
+- Date: February 1, 1982
+- Sources: [nymag](https://books.google.com/books?id=fecCAAAAMBAJ&pg=PA22&lpg=PA22&dq=hrh+ravitch&source=bl&ots=di5YjQIL7g&sig=Ff4CMmdF4rvM3rEAsX_B7RLLp1c&hl=en&sa=X&ved=0ahUKEwj2z7-bq-jVAhXC1CYKHYueB9cQ6AEIXzAJ#v=onepage&q=hrh%20ravitch&f=false)
+- Tags: [articles](../tags/articles.md) [mta](../tags/mta.md) [ravitch](../tags/ravitch.md)
 
 ### New York City Housing Crisis
 
@@ -75,7 +73,6 @@
 - 421-a Tax Incentive Program - [NYU Furman](http://furmancenter.org/institute/directory/entry/421-a-tax-incentive)
 - 1969 - rent stabilization established by the state legislature
 - 1981 - [Callahan Decree](http://www.coalitionforthehomeless.org/wp-content/uploads/2014/06/CallahanConsentDecree.pdf) - city chose to house every person who asked for a bed
-- Meta
-  - Sources: [nyrb](http://www.nybooks.com/articles/2017/08/17/tenants-under-siege-inside-new-york-city-housing-crisis/)
-  - Tags: [articles](../tags/articles.md) [nyc](../tags/nyc.md)
+- Sources: [nyrb](http://www.nybooks.com/articles/2017/08/17/tenants-under-siege-inside-new-york-city-housing-crisis/)
+- Tags: [articles](../tags/articles.md) [nyc](../tags/nyc.md)
 

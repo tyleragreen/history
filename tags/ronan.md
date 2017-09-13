@@ -1,8 +1,7 @@
 # ronan
 ### William J. Ronan, former MTA chair, dies
-- Meta
-  - Sources: [nyt](https://www.nytimes.com/2014/10/18/nyregion/william-j-ronan-architect-of-the-metropolitan-transportation-authority-dies-at-101.html?_r=0)
-  - Tags: [mta](../tags/mta.md) [ronan](../tags/ronan.md)
+- Sources: [nyt](https://www.nytimes.com/2014/10/18/nyregion/william-j-ronan-architect-of-the-metropolitan-transportation-authority-dies-at-101.html?_r=0)
+- Tags: [mta](../tags/mta.md) [ronan](../tags/ronan.md)
 
 ### Ronan pleads for 1971 state transportation bond issue
 
@@ -14,8 +13,7 @@
   - *Isn't this mixing capital and operating expenses?*
   - *Yes*, but some capital projects were already being paid out of farebox income
   - *This was pre-capital program, so my details on all this are weak right now*
-- Meta
-  - Date: October 5, 1971
-  - Sources: [nyt](http://www.nytimes.com/1971/10/05/archives/ronan-calls-bondissue-vote-key-to-stable-subway-fares.html)
-  - Tags: [bonds](../tags/bonds.md) [mta](../tags/mta.md) [ronan](../tags/ronan.md)
+- Date: October 5, 1971
+- Sources: [nyt](http://www.nytimes.com/1971/10/05/archives/ronan-calls-bondissue-vote-key-to-stable-subway-fares.html)
+- Tags: [bonds](../tags/bonds.md) [mta](../tags/mta.md) [ronan](../tags/ronan.md)
 

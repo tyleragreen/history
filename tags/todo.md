@@ -1,8 +1,7 @@
 # todo
 ### Bob Kiley appointed MTA Chair
-- Meta
-  - Date: October 5, 1983
-  - Tags: [kiley](../tags/kiley.md) [mta](../tags/mta.md) [todo](../tags/todo.md)
+- Date: October 5, 1983
+- Tags: [kiley](../tags/kiley.md) [mta](../tags/mta.md) [todo](../tags/todo.md)
 
 ### I searched "people mover midtown" in the Times Machine and this is what I got
 
@@ -18,8 +17,7 @@
 - Queens rail line under question: https://timesmachine.nytimes.com/timesmachine/1975/09/22/80059735.html?pageNumber=23
 - Yankees Stadium in Manhattan: https://timesmachine.nytimes.com/timesmachine/1993/10/01/470393.html?pageNumber=43
 - Hudson rail tunnel: https://timesmachine.nytimes.com/timesmachine/1973/12/28/91065294.html?pageNumber=33
-- Meta
-  - Tags: [todo](../tags/todo.md)
+- Tags: [todo](../tags/todo.md)
 
 ### MTA To Find
 
@@ -29,8 +27,7 @@
   - Source: [NYPL](https://browse.nypl.org/iii/encore/record/C__Rb10011309__SFinancing%20mass%20transit%20in%20New%20York%20City__Orightresult__U__X7?lang=eng&suite=def)
 - Ravitch, Richard. "Staff Report of Capital Revitalization for the 1980s and Beyond"
   - Source: [WorldCat](http://www.worldcat.org/title/metropolitan-transportation-authority-staff-report-of-capital-revitalization-for-the-1980s-and-beyond/oclc/7073552)
-- Meta
-  - Tags: [mta](../tags/mta.md) [todo](../tags/todo.md)
+- Tags: [mta](../tags/mta.md) [todo](../tags/todo.md)
 
 ### MTA Misc
 
@@ -68,8 +65,7 @@
   - [Google](https://www.google.com/search?q=steve+polan+mta&safe=off&ei=uzyoWebHKejdjwSfs6_YBg&start=0&sa=N&biw=1193&bih=1343) brings up a strong list
   - [Columbia project](http://www.columbia.edu/~kyl2120/mtaproject/)
   - [NY Mag](https://books.google.com/books?id=lOUCAAAAMBAJ&pg=PA47&lpg=PA47&dq=steve+polan+mta&source=bl&ots=RB6FgYsive&sig=n02YNe1e7-lqAjhwaypzjmf3QrI&hl=en&sa=X&ved=0ahUKEwim9cnB9IHWAhVk4IMKHR65BDwQ6AEIUjAJ#v=onepage&q=steve%20polan%20mta&f=false) on Coliseum
-- Meta
-  - Tags: [mta](../tags/mta.md) [todo](../tags/todo.md)
+- Tags: [mta](../tags/mta.md) [todo](../tags/todo.md)
 
 ### NYC topics
 
@@ -78,18 +74,15 @@
 - [CUNY MAC Archives](http://www.baruch.cuny.edu/library/alumni/online_exhibits/amfl/mac/S12_MAC.html)
 - [Board of Estimate](https://en.wikipedia.org/wiki/New_York_City_Board_of_Estimate)
 - [Mitchell-Lama Housing Program](http://www.mitchell-lama.org/history.html)
-- Meta
-  - Tags: [nyc](../tags/nyc.md) [todo](../tags/todo.md)
+- Tags: [nyc](../tags/nyc.md) [todo](../tags/todo.md)
 
 ### Daniel Patrick Moynihan
 
 - Let "accelerated depreciation" expire
-- Meta
-  - Sources: [nyc](http://www.nytimes.com/1984/03/19/business/senate-s-real-estate-tax-blow.html)
-  - Tags: [moynihan](../tags/moynihan.md) [nyc](../tags/nyc.md) [people](../tags/people.md) [todo](../tags/todo.md)
+- Sources: [nyc](http://www.nytimes.com/1984/03/19/business/senate-s-real-estate-tax-blow.html)
+- Tags: [moynihan](../tags/moynihan.md) [nyc](../tags/nyc.md) [people](../tags/people.md) [todo](../tags/todo.md)
 
 ### Robert Moses responds to Robert Caro
-- Meta
-  - Sources: [batc](http://www.bridgeandtunnelclub.com/detritus/moses/response.htm)
-  - Tags: [moses](../tags/moses.md) [todo](../tags/todo.md)
+- Sources: [batc](http://www.bridgeandtunnelclub.com/detritus/moses/response.htm)
+- Tags: [moses](../tags/moses.md) [todo](../tags/todo.md)
 

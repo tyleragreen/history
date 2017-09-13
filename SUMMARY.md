@@ -37,6 +37,7 @@
   - [rohatyn](tags/rohatyn.md)
   - [ronan](tags/ronan.md)
   - [second-avenue](tags/second-avenue.md)
+  - [tax-policy](tags/tax-policy.md)
   - [taxes](tags/taxes.md)
   - [tfl](tags/tfl.md)
   - [todo](tags/todo.md)

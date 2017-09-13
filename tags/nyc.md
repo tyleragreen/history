@@ -3,7 +3,7 @@
 
 - Succeeded Felix Rohatyn
 - Date: October 4, 1993
-- Sources: [nyc](http://www.nytimes.com/1993/10/05/nyregion/cuomo-picks-investment-banker-for-municipal-assistance-post.html)
+- "Cuomo Picks Investment Banker for Municipal Post," *The New York Times*, October 4, 1993. [link](http://www.nytimes.com/1993/10/05/nyregion/cuomo-picks-investment-banker-for-municipal-assistance-post.html)
 - Tags: [nyc](../tags/nyc.md) [nycfc](../tags/nycfc.md) [rohatyn](../tags/rohatyn.md)
 
 ### New York City Loan Guarantee Act
@@ -34,8 +34,8 @@
 ### Daniel Patrick Moynihan
 
 - Let "accelerated depreciation" expire
-- Sources: [nyc](http://www.nytimes.com/1984/03/19/business/senate-s-real-estate-tax-blow.html)
-- Tags: [moynihan](../tags/moynihan.md) [nyc](../tags/nyc.md) [people](../tags/people.md) [todo](../tags/todo.md)
+- "Sentate's Real Estate Tax Blow," *New York Times*, March 19, 1984. [link](http://www.nytimes.com/1984/03/19/business/senate-s-real-estate-tax-blow.html)
+- Tags: [moynihan](../tags/moynihan.md) [nyc](../tags/nyc.md) [people](../tags/people.md) [tax-policy](../tags/tax-policy.md) [todo](../tags/todo.md)
 
 ### Mitchell Moss
 
@@ -47,7 +47,7 @@
 
 - Early MAC appointee
 - Served as deputy under William Ronan both for Govenor Rockefeller and MTA
-- Sources: [nyt](http://www.nytimes.com/2013/01/31/nyregion/edward-m-kresky-88-calmed-fiscal-panic.html)
+- "Edward Kresky, 88, calmed fiscal panic," *New York Times*, January 31, 2013. [link](http://www.nytimes.com/2013/01/31/nyregion/edward-m-kresky-88-calmed-fiscal-panic.html)
 - Tags: [mac](../tags/mac.md) [nyc](../tags/nyc.md) [people](../tags/people.md)
 
 ### New York City Housing Crisis
@@ -73,6 +73,6 @@
 - City enjoyed $2b surplus at the time, Republicans intended measure to lighten tax burder on suburban residents
 - "The Mayor asserted that the city had a right to ask commuters to contribute to the costs of police, fire and other services."
 - Date: May 18, 1999
-- Sources: [nyt](http://www.nytimes.com/1999/05/18/nyregion/legislature-acts-quickly-to-repeal-commuter-tax.html)
+- "Legislature Acts Quickly To Repeal Commuter Tax," *New York Times*, May 18, 1999. [link](http://www.nytimes.com/1999/05/18/nyregion/legislature-acts-quickly-to-repeal-commuter-tax.html)
 - Tags: [nyc](../tags/nyc.md) [taxes](../tags/taxes.md)
 

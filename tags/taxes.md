@@ -32,6 +32,6 @@
 - City enjoyed $2b surplus at the time, Republicans intended measure to lighten tax burder on suburban residents
 - "The Mayor asserted that the city had a right to ask commuters to contribute to the costs of police, fire and other services."
 - Date: May 18, 1999
-- Sources: [nyt](http://www.nytimes.com/1999/05/18/nyregion/legislature-acts-quickly-to-repeal-commuter-tax.html)
+- "Legislature Acts Quickly To Repeal Commuter Tax," *New York Times*, May 18, 1999. [link](http://www.nytimes.com/1999/05/18/nyregion/legislature-acts-quickly-to-repeal-commuter-tax.html)
 - Tags: [nyc](../tags/nyc.md) [taxes](../tags/taxes.md)
 

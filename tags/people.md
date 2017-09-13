@@ -10,8 +10,8 @@
 ### Daniel Patrick Moynihan
 
 - Let "accelerated depreciation" expire
-- Sources: [nyc](http://www.nytimes.com/1984/03/19/business/senate-s-real-estate-tax-blow.html)
-- Tags: [moynihan](../tags/moynihan.md) [nyc](../tags/nyc.md) [people](../tags/people.md) [todo](../tags/todo.md)
+- "Sentate's Real Estate Tax Blow," *New York Times*, March 19, 1984. [link](http://www.nytimes.com/1984/03/19/business/senate-s-real-estate-tax-blow.html)
+- Tags: [moynihan](../tags/moynihan.md) [nyc](../tags/nyc.md) [people](../tags/people.md) [tax-policy](../tags/tax-policy.md) [todo](../tags/todo.md)
 
 ### Mitchell Moss
 
@@ -23,6 +23,6 @@
 
 - Early MAC appointee
 - Served as deputy under William Ronan both for Govenor Rockefeller and MTA
-- Sources: [nyt](http://www.nytimes.com/2013/01/31/nyregion/edward-m-kresky-88-calmed-fiscal-panic.html)
+- "Edward Kresky, 88, calmed fiscal panic," *New York Times*, January 31, 2013. [link](http://www.nytimes.com/2013/01/31/nyregion/edward-m-kresky-88-calmed-fiscal-panic.html)
 - Tags: [mac](../tags/mac.md) [nyc](../tags/nyc.md) [people](../tags/people.md)
 

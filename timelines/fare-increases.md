@@ -13,7 +13,7 @@
   - To fully close the gap, the increase would have needed to be to $1.40
 - Not sure how the $157mil ended up being found NEED MORE SOURCES
   - Was discussion of transferring $90mil from healthy LIRR and MNR, contentious because of suburban->urban transfer and because of transfer of capital funds to operating funds
-- Sources: [nyt](http://www.nytimes.com/1992/01/01/nyregion/token-price-rises-10-cents-to-1.25-in-new-york-city.html)
+- "Token price rises 10 cents to $1.25 in New York City," *New York Times*, January 1, 1992. [link](http://www.nytimes.com/1992/01/01/nyregion/token-price-rises-10-cents-to-1.25-in-new-york-city.html)
 - Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
 
 **October 20, 1995** - Board votes to increase fare to $1.50, a 20% increase

@@ -17,6 +17,6 @@
   - *Yes*, but some capital projects were already being paid out of farebox income
   - *This was pre-capital program, so my details on all this are weak right now*
 - Date: October 5, 1971
-- Sources: [nyt](http://www.nytimes.com/1971/10/05/archives/ronan-calls-bondissue-vote-key-to-stable-subway-fares.html)
+- "Ronan Calls Bond-Issue Vote Key to Stable Subway Fares," *New York Times*, October 10, 1971. [link](http://www.nytimes.com/1971/10/05/archives/ronan-calls-bondissue-vote-key-to-stable-subway-fares.html)
 - Tags: [bonds](../tags/bonds.md) [mta](../tags/mta.md) [ronan](../tags/ronan.md)
 

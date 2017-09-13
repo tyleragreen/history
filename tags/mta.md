@@ -260,7 +260,7 @@
   - *Yes*, but some capital projects were already being paid out of farebox income
   - *This was pre-capital program, so my details on all this are weak right now*
 - Date: October 5, 1971
-- Sources: [nyt](http://www.nytimes.com/1971/10/05/archives/ronan-calls-bondissue-vote-key-to-stable-subway-fares.html)
+- "Ronan Calls Bond-Issue Vote Key to Stable Subway Fares," *New York Times*, October 10, 1971. [link](http://www.nytimes.com/1971/10/05/archives/ronan-calls-bondissue-vote-key-to-stable-subway-fares.html)
 - Tags: [bonds](../tags/bonds.md) [mta](../tags/mta.md) [ronan](../tags/ronan.md)
 
 ### Regional Transportation Program
@@ -281,7 +281,7 @@
 - Not sure how the $157mil ended up being found NEED MORE SOURCES
   - Was discussion of transferring $90mil from healthy LIRR and MNR, contentious because of suburban->urban transfer and because of transfer of capital funds to operating funds
 - Date: January 1, 1992
-- Sources: [nyt](http://www.nytimes.com/1992/01/01/nyregion/token-price-rises-10-cents-to-1.25-in-new-york-city.html)
+- "Token price rises 10 cents to $1.25 in New York City," *New York Times*, January 1, 1992. [link](http://www.nytimes.com/1992/01/01/nyregion/token-price-rises-10-cents-to-1.25-in-new-york-city.html)
 - Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
 
 ### Board of Estimate approves Second Avenue Subway and 11 other new routes

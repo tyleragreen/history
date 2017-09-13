@@ -2,24 +2,20 @@
 ### Eugene Keilin appointed MAC chairman by Cuomo
 
 - Succeeded Felix Rohatyn
-- Date: October 4, 1993
 - "Cuomo Picks Investment Banker for Municipal Post," *The New York Times*, October 4, 1993. [link](http://www.nytimes.com/1993/10/05/nyregion/cuomo-picks-investment-banker-for-municipal-assistance-post.html)
 - Tags: [nyc](../tags/nyc.md) [nycfc](../tags/nycfc.md) [rohatyn](../tags/rohatyn.md)
 
 ### New York City Loan Guarantee Act
-- Date: 1978
 - Sources: [nycm](http://www.nyc.gov/html/records/pdf/executive_orders/1978EO026.PDF)
 - Tags: [nyc](../tags/nyc.md) [nycfc](../tags/nycfc.md) [totimeline](../tags/totimeline.md)
 
 ### Jacob Javits pleads for federal load guarantees for New York City
 
 - Cites Congressional Research Service report on existing large and varied federal loan guarantees
-- Date: March 16, 1978
 - Sources: [cuny](http://www.baruch.cuny.edu/library/alumni/online_exhibits/amfl/mac/pdf_files/Legislation_Federal/1977-78-1.pdf)
 - Tags: [javits](../tags/javits.md) [nyc](../tags/nyc.md) [nycfc](../tags/nycfc.md)
 
 ### New York City Seasonal Financing Act
-- Date: 1975
 - Tags: [nyc](../tags/nyc.md) [nycfc](../tags/nycfc.md) [totimeline](../tags/totimeline.md)
 
 ### NYC topics
@@ -61,7 +57,6 @@
 - Tags: [articles](../tags/articles.md) [nyc](../tags/nyc.md)
 
 ### Municipal Assistance Corporation Shut Down
-- Date: September 27, 2008
 - Sources: [nydn](http://www.nydailynews.com/news/money/municipal-assistance-corp-new-york-1975-savior-ya-article-1.325509)
 - Tags: [ballan](../tags/ballan.md) [mac](../tags/mac.md) [nyc](../tags/nyc.md)
 
@@ -72,7 +67,6 @@
 - Mayor Giuliani opposed, Gov. Pataki signed, week before special election for State Senate seat in Rockland/Orange counties (NW of NYC)
 - City enjoyed $2b surplus at the time, Republicans intended measure to lighten tax burder on suburban residents
 - "The Mayor asserted that the city had a right to ask commuters to contribute to the costs of police, fire and other services."
-- Date: May 18, 1999
 - "Legislature Acts Quickly To Repeal Commuter Tax," *New York Times*, May 18, 1999. [link](http://www.nytimes.com/1999/05/18/nyregion/legislature-acts-quickly-to-repeal-commuter-tax.html)
 - Tags: [nyc](../tags/nyc.md) [taxes](../tags/taxes.md)
 

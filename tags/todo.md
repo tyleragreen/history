@@ -1,6 +1,5 @@
 # todo
 ### Bob Kiley appointed MTA Chair
-- Date: October 5, 1983
 - Tags: [kiley](../tags/kiley.md) [mta](../tags/mta.md) [todo](../tags/todo.md)
 
 ### I searched "people mover midtown" in the Times Machine and this is what I got

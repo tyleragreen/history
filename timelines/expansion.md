@@ -4,7 +4,7 @@
 
 ## 1960s
 **1964** - 63rd St Tunnel shifted location decided after switching from 61st St and 64 St
-- Sources: ["Proposed Subway Tube Assailed As 'Nowhere-to-Nowhere'"](http://query.nytimes.com/gst/abstract.html?res=980CE1D71739E633A25755C1A9649D946591D6CF&legacy=true)
+- "Proposed Subway Tube Assailed As 'Nowhere-to-Nowhere' Link", *New York Times*, December 16, 1964. [link](http://query.nytimes.com/gst/abstract.html?res=980CE1D71739E633A25755C1A9649D946591D6CF&legacy=true)
 - Tags: [expansion](../tags/expansion.md) [mta](../tags/mta.md) [todo](../tags/todo.md)
 
 **September 21, 1968** - Board of Estimate approves Second Avenue Subway and 11 other new routes

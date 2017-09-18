@@ -1,6 +1,6 @@
 # ronan
 ### William J. Ronan, former MTA chair, dies
-- Source: [nyt](https://www.nytimes.com/2014/10/18/nyregion/william-j-ronan-architect-of-the-metropolitan-transportation-authority-dies-at-101.html?_r=0)
+- Source: "William J. Ronan, Architect of the M.T.A., Dies at 101," *New York Times*, October 18, 2014. [link](https://www.nytimes.com/2014/10/18/nyregion/william-j-ronan-architect-of-the-metropolitan-transportation-authority-dies-at-101.html?_r=0)
 - Tags: [mta](../tags/mta.md) [ronan](../tags/ronan.md)
 
 ### Ronan pleads for 1971 state transportation bond issue

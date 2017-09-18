@@ -31,15 +31,15 @@
 ### Ravitch Commission
 
 - Ravitch Commission unveils report on suggestions to close $1.2 billion deficit for 2009, after real estate transfer taxes and NYS corporate surcharge tax revenues dropped during the recession and Bloomberg’s congestion pricing plan failed in the state legislature
-- Source: [nyt](https://cityroom.blogs.nytimes.com/2008/12/04/ravitch-unveils-mta-rescue-plan/?_r=0)
 - Source: [pcac](http://www.pcac.org/news/guide-ravitch-commission-report/)
+- Source: "Ravitch Unveils M.T.A. Rescue Plan," *New York Times*, December 4, 2008. [link](https://cityroom.blogs.nytimes.com/2008/12/04/ravitch-unveils-mta-rescue-plan/?_r=0)
 - Tags: [mta](../tags/mta.md) [ravitch](../tags/ravitch.md) [ravitch-commission](../tags/ravitch-commission.md)
 
 ### Reagan Administration says MTA violated international trade agreements
 
 - Canadian Export Development Corporation agreed to lend the MTA $563mil (85% of $662mil car purchase price) at 9.7% for 15 years
   - OECD minimum rate at the time was 11.25% for terms of length 5-8.5 years
-- Source: [nyt](http://www.nytimes.com/1982/05/29/nyregion/us-sees-violation-of-trade-accords-in-mta-proposal.html)
+- Source: "U.S. SEES VIOLATION OF TRADE ACCORDS IN M.T.A. PROPOSAL," *New York Times*, May 29, 1982. [link](http://www.nytimes.com/1982/05/29/nyregion/us-sees-violation-of-trade-accords-in-mta-proposal.html)
 - Tags: [mta](../tags/mta.md) [ravitch](../tags/ravitch.md)
 
 ### Bob Dole denounces $100mil MTA leasing deal

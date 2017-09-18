@@ -26,7 +26,7 @@
 
 - Cuomo's counsel, Timothy Russert, sat with Kiley at Fenway during Yaz Day (Carl Yastrzemski's last game) to discuss the MTA job
 - The govenor's staff's codename for Kiley was "The Badge," "because he had been Deputy Mayor in charge of public safety in Boston from 1972 to 1975 and before that a C.I.A. official"
-- Source: [nyt](http://www.nytimes.com/1983/10/08/nyregion/the-secret-courting-of-robert-kiley.html?mcubz=3)
+- Source: "THE SECRET COURTING OF ROBERT KILEY," *New York Times*, October 8, 1983. [link](http://www.nytimes.com/1983/10/08/nyregion/the-secret-courting-of-robert-kiley.html)
 - Tags: [kiley](../tags/kiley.md) [mta](../tags/mta.md)
 
 ### New Yorker on Ravitch-era capital plans
@@ -61,8 +61,8 @@
 ### Ravitch Commission
 
 - Ravitch Commission unveils report on suggestions to close $1.2 billion deficit for 2009, after real estate transfer taxes and NYS corporate surcharge tax revenues dropped during the recession and Bloomberg’s congestion pricing plan failed in the state legislature
-- Source: [nyt](https://cityroom.blogs.nytimes.com/2008/12/04/ravitch-unveils-mta-rescue-plan/?_r=0)
 - Source: [pcac](http://www.pcac.org/news/guide-ravitch-commission-report/)
+- Source: "Ravitch Unveils M.T.A. Rescue Plan," *New York Times*, December 4, 2008. [link](https://cityroom.blogs.nytimes.com/2008/12/04/ravitch-unveils-mta-rescue-plan/?_r=0)
 - Tags: [mta](../tags/mta.md) [ravitch](../tags/ravitch.md) [ravitch-commission](../tags/ravitch-commission.md)
 
 ### Cuomo requests federal funds for high speed rail
@@ -79,7 +79,7 @@
 - Expected to raise $700-$800mil annually
   - $500mil for capital costs, $250mil for half-price MetroCard program
 - Must pass state legislature
-- Source: [nyt](https://www.nytimes.com/2017/08/06/nyregion/bill-de-blasio-will-push-for-tax-on-wealthy-to-fix-subway.html)
+- Source: "Bill de Blasio Will Push for Tax on Wealthy to Fix Subway," *New York Times*, August 6, 2017. [link](https://www.nytimes.com/2017/08/06/nyregion/bill-de-blasio-will-push-for-tax-on-wealthy-to-fix-subway.html)
 - Tags: [de-blasio](../tags/de-blasio.md) [mta](../tags/mta.md) [taxes](../tags/taxes.md)
 
 ### Conducting a Search For Origins Of 'One Fare'
@@ -87,8 +87,8 @@
 - Article ran on day of MetroCard's introduction (July 4, 1997)
 - Peter Stangl (MTA chair in 1992) proposed "fare deal" to offset 25-cent fare hike with discounts and free transfers
 - Richard Ravitch (MTA chair in 1982) considered automated turnstile to allow riders from outer boroughs to reach Manhattan on a single fare
-- Source: [nyt](http://www.nytimes.com/1997/07/04/nyregion/conducting-a-search-for-origins-of-one-fare.html)
 - Source: [nyc](http://www.nyc.gov/html/misc/html/metro.html)
+- Source: [nyt](http://www.nytimes.com/1997/07/04/nyregion/conducting-a-search-for-origins-of-one-fare.html)
 - Tags: [fares](../tags/fares.md) [mta](../tags/mta.md)
 
 ### From Rescue to Renaissance: The Achievements of the MTA Capital Program 1982 - 2004
@@ -100,7 +100,7 @@
 - Tags: [capital-plan](../tags/capital-plan.md) [mta](../tags/mta.md) [reports](../tags/reports.md)
 
 ### William J. Ronan, former MTA chair, dies
-- Source: [nyt](https://www.nytimes.com/2014/10/18/nyregion/william-j-ronan-architect-of-the-metropolitan-transportation-authority-dies-at-101.html?_r=0)
+- Source: "William J. Ronan, Architect of the M.T.A., Dies at 101," *New York Times*, October 18, 2014. [link](https://www.nytimes.com/2014/10/18/nyregion/william-j-ronan-architect-of-the-metropolitan-transportation-authority-dies-at-101.html?_r=0)
 - Tags: [mta](../tags/mta.md) [ronan](../tags/ronan.md)
 
 ### MTA Bus Company created
@@ -113,11 +113,11 @@
 
 - Would have created $8 fee to enter parts of Manhattan
 - Would have raised $500mil annually and unlocked $354mil in immediate federal grants 
-- Source: [nyt](https://cityroom.blogs.nytimes.com/2008/04/07/congestion-pricing-plan-is-dead-assembly-speaker-says/)
+- Source: "Congestion Pricing Plan Dies in Albany," *New York Times*, April 7, 2008. [link](https://cityroom.blogs.nytimes.com/2008/04/07/congestion-pricing-plan-is-dead-assembly-speaker-says/)
 - Tags: [congestion-pricing](../tags/congestion-pricing.md) [mta](../tags/mta.md)
 
 ### MTA approves budget cuts that remove V and W trains
-- Source: [nyt](http://www.nytimes.com/2010/03/25/nyregion/25mta.html)
+- Source: "Transit Agency Approves Cuts, and More Bad News Looms," *New York Times*, March 25, 2010. [link](http://www.nytimes.com/2010/03/25/nyregion/25mta.html)
 - Tags: [budget](../tags/budget.md) [mta](../tags/mta.md)
 
 ### Joseph Giulietti
@@ -132,7 +132,7 @@
 
 - Provided $1.45 billion towards 2005-2009 MTA capital program from state (state assumes debt service….I think)
 - Source: [mta](http://web.mta.info/mta/bondact.htm)
-- Source: [nyt](http://www.nytimes.com/2005/11/09/nyregion/metrocampaigns/voters-approve-transit-bonds-for-29-billion.html?_r=0)
+- Source: "Voters Approve Transit Bonds for $2.9 Billion," *New York Times*, November 9, 2005. [link](http://www.nytimes.com/2005/11/09/nyregion/metrocampaigns/voters-approve-transit-bonds-for-29-billion.html?_r=0)
 - Tags: [bonds](../tags/bonds.md) [mta](../tags/mta.md)
 
 ### Board votes to increase fare to $1.50, a 20% increase
@@ -146,7 +146,7 @@
   - DID THIS HAPPEN?
 - Canceled fare increase on express buses from $4 to $5, saying they wouldn't be able to compete with private buses
   - Express buses are biggest money losers in the system
-- Source: [nyt](http://www.nytimes.com/1995/10/20/nyregion/1.50-subway-ride-overview-mta-vote-raises-fare-subways-buses-1.50.html?pagewanted=all)
+- Source: "THE $1.50 SUBWAY RIDE: THE OVERVIEW;M.T.A. VOTE RAISES FARE ON SUBWAYS AND BUSES TO $1.50," *New York Times*, October 20, 1995. [link](http://www.nytimes.com/1995/10/20/nyregion/1.50-subway-ride-overview-mta-vote-raises-fare-subways-buses-1.50.html?pagewanted=all)
 - Tags: [conway](../tags/conway.md) [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
 
 ### MTA To Find
@@ -206,7 +206,7 @@
 
 - Canadian Export Development Corporation agreed to lend the MTA $563mil (85% of $662mil car purchase price) at 9.7% for 15 years
   - OECD minimum rate at the time was 11.25% for terms of length 5-8.5 years
-- Source: [nyt](http://www.nytimes.com/1982/05/29/nyregion/us-sees-violation-of-trade-accords-in-mta-proposal.html)
+- Source: "U.S. SEES VIOLATION OF TRADE ACCORDS IN M.T.A. PROPOSAL," *New York Times*, May 29, 1982. [link](http://www.nytimes.com/1982/05/29/nyregion/us-sees-violation-of-trade-accords-in-mta-proposal.html)
 - Tags: [mta](../tags/mta.md) [ravitch](../tags/ravitch.md)
 
 ### Bob Dole denounces $100mil MTA leasing deal

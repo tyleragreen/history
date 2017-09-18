@@ -3,7 +3,7 @@
 
 - Provided $1.45 billion towards 2005-2009 MTA capital program from state (state assumes debt service….I think)
 - Source: [mta](http://web.mta.info/mta/bondact.htm)
-- Source: [nyt](http://www.nytimes.com/2005/11/09/nyregion/metrocampaigns/voters-approve-transit-bonds-for-29-billion.html?_r=0)
+- Source: "Voters Approve Transit Bonds for $2.9 Billion," *New York Times*, November 9, 2005. [link](http://www.nytimes.com/2005/11/09/nyregion/metrocampaigns/voters-approve-transit-bonds-for-29-billion.html?_r=0)
 - Tags: [bonds](../tags/bonds.md) [mta](../tags/mta.md)
 
 ### Ronan pleads for 1971 state transportation bond issue

@@ -16,7 +16,7 @@
 ### Mitchell Moss
 
 - Dubbed a "New Yorkologist"
-- Source: (nyuw)[https://wagner.nyu.edu/community/faculty/mitchell-l-moss]
+- Source: [nyuw](https://wagner.nyu.edu/community/faculty/mitchell-l-moss)
 - Tags: [nyc](../tags/nyc.md) [people](../tags/people.md)
 
 ### Edward Kresky

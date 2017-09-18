@@ -4,7 +4,7 @@
 - Sold to Tishman Speyer Properties for $5.4bil
 - Built by MetLife
 - Doctoroff had something to do with it [link](https://www.fastcodesign.com/90139632/how-the-chief-architect-of-new-new-york-envisions-future-of-cities)
-- Source: (nyt)[http://www.nytimes.com/2006/11/18/nyregion/18stuyvesant.html?mcubz=0]
+- Source: [nyt](http://www.nytimes.com/2006/11/18/nyregion/18stuyvesant.html?mcubz=0)
 - Tags: [doctoroff](../tags/doctoroff.md) [housing](../tags/housing.md) [nyc](../tags/nyc.md) [todo](../tags/todo.md)
 
 ### Bob Kiley appointed MTA Chair
@@ -90,6 +90,6 @@
 - Tags: [moynihan](../tags/moynihan.md) [nyc](../tags/nyc.md) [people](../tags/people.md) [tax-policy](../tags/tax-policy.md) [todo](../tags/todo.md)
 
 ### Robert Moses responds to Robert Caro
-- Source: (batc)[http://www.bridgeandtunnelclub.com/detritus/moses/response.htm]
+- Source: [batc](http://www.bridgeandtunnelclub.com/detritus/moses/response.htm)
 - Tags: [moses](../tags/moses.md) [todo](../tags/todo.md)
 

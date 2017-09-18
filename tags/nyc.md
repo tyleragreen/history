@@ -4,7 +4,7 @@
 - Sold to Tishman Speyer Properties for $5.4bil
 - Built by MetLife
 - Doctoroff had something to do with it [link](https://www.fastcodesign.com/90139632/how-the-chief-architect-of-new-new-york-envisions-future-of-cities)
-- Source: (nyt)[http://www.nytimes.com/2006/11/18/nyregion/18stuyvesant.html?mcubz=0]
+- Source: [nyt](http://www.nytimes.com/2006/11/18/nyregion/18stuyvesant.html?mcubz=0)
 - Tags: [doctoroff](../tags/doctoroff.md) [housing](../tags/housing.md) [nyc](../tags/nyc.md) [todo](../tags/todo.md)
 
 ### Eugene Keilin appointed MAC chairman by Cuomo
@@ -14,13 +14,13 @@
 - Tags: [nyc](../tags/nyc.md) [nycfc](../tags/nycfc.md) [rohatyn](../tags/rohatyn.md)
 
 ### New York City Loan Guarantee Act
-- Source: (nycm)[http://www.nyc.gov/html/records/pdf/executive_orders/1978EO026.PDF]
+- Source: [nycm](http://www.nyc.gov/html/records/pdf/executive_orders/1978EO026.PDF)
 - Tags: [nyc](../tags/nyc.md) [nycfc](../tags/nycfc.md) [totimeline](../tags/totimeline.md)
 
 ### Jacob Javits pleads for federal load guarantees for New York City
 
 - Cites Congressional Research Service report on existing large and varied federal loan guarantees
-- Source: (cuny)[http://www.baruch.cuny.edu/library/alumni/online_exhibits/amfl/mac/pdf_files/Legislation_Federal/1977-78-1.pdf]
+- Source: [cuny](http://www.baruch.cuny.edu/library/alumni/online_exhibits/amfl/mac/pdf_files/Legislation_Federal/1977-78-1.pdf)
 - Tags: [javits](../tags/javits.md) [nyc](../tags/nyc.md) [nycfc](../tags/nycfc.md)
 
 ### New York City Seasonal Financing Act
@@ -44,7 +44,7 @@
 ### Mitchell Moss
 
 - Dubbed a "New Yorkologist"
-- Source: (nyuw)[https://wagner.nyu.edu/community/faculty/mitchell-l-moss]
+- Source: [nyuw](https://wagner.nyu.edu/community/faculty/mitchell-l-moss)
 - Tags: [nyc](../tags/nyc.md) [people](../tags/people.md)
 
 ### Edward Kresky
@@ -61,11 +61,11 @@
 - 421-a Tax Incentive Program - [NYU Furman](http://furmancenter.org/institute/directory/entry/421-a-tax-incentive)
 - 1969 - rent stabilization established by the state legislature
 - 1981 - [Callahan Decree](http://www.coalitionforthehomeless.org/wp-content/uploads/2014/06/CallahanConsentDecree.pdf) - city chose to house every person who asked for a bed
-- Source: (nyrb)[http://www.nybooks.com/articles/2017/08/17/tenants-under-siege-inside-new-york-city-housing-crisis/]
+- Source: [nyrb](http://www.nybooks.com/articles/2017/08/17/tenants-under-siege-inside-new-york-city-housing-crisis/)
 - Tags: [articles](../tags/articles.md) [nyc](../tags/nyc.md)
 
 ### Municipal Assistance Corporation Shut Down
-- Source: (nydn)[http://www.nydailynews.com/news/money/municipal-assistance-corp-new-york-1975-savior-ya-article-1.325509]
+- Source: [nydn](http://www.nydailynews.com/news/money/municipal-assistance-corp-new-york-1975-savior-ya-article-1.325509)
 - Tags: [ballan](../tags/ballan.md) [mac](../tags/mac.md) [nyc](../tags/nyc.md)
 
 ### Commuter Tax Repealed

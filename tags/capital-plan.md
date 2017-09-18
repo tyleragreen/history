@@ -29,11 +29,11 @@
 - Tags: [articles](../tags/articles.md) [capital-plan](../tags/capital-plan.md) [mta](../tags/mta.md) [ravitch](../tags/ravitch.md)
 
 ### From Rescue to Renaissance: The Achievements of the MTA Capital Program 1982 - 2004
-- Source: (nyur)[https://wagner.nyu.edu/files/news/rescue.pdf]
+- Source: [nyur](https://wagner.nyu.edu/files/news/rescue.pdf)
 - Tags: [capital-plan](../tags/capital-plan.md) [mta](../tags/mta.md) [reports](../tags/reports.md)
 
 ### The Road Back - History of MTA capital plan
-- Source: (pcac)[http://www.pcac.org/wp-content/uploads/2014/09/The-Road-Back.pdf]
+- Source: [pcac](http://www.pcac.org/wp-content/uploads/2014/09/The-Road-Back.pdf)
 - Tags: [capital-plan](../tags/capital-plan.md) [mta](../tags/mta.md) [reports](../tags/reports.md)
 
 ### The Light at the End of the Subway
@@ -59,6 +59,6 @@
 - Ravitch says it's difficult to attract good workers when diesel mechanic working for the city gets paid 30% more than one working for the TA
 - Koch appointed Ross Sandler as the "new transit watchdog"
   - *not sure what statute this resulted from*
-- Source: (nymag)[https://books.google.com/books?id=fecCAAAAMBAJ&lpg=PA22&dq=hrh%20ravitch&pg=PA20#v=onepage&q=hrh%20ravitch&f=false]
+- Source: [nymag](https://books.google.com/books?id=fecCAAAAMBAJ&lpg=PA22&dq=hrh%20ravitch&pg=PA20#v=onepage&q=hrh%20ravitch&f=false)
 - Tags: [articles](../tags/articles.md) [capital-plan](../tags/capital-plan.md) [mta](../tags/mta.md)
 

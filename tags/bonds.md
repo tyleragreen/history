@@ -2,7 +2,8 @@
 ### New York State Transportation Bond Act
 
 - Provided $1.45 billion towards 2005-2009 MTA capital program from state (state assumes debt service….I think)
-- Sources: [mta](http://web.mta.info/mta/bondact.htm) [nyt](http://www.nytimes.com/2005/11/09/nyregion/metrocampaigns/voters-approve-transit-bonds-for-29-billion.html?_r=0)
+- Source: (mta)[http://web.mta.info/mta/bondact.htm]
+- Source: (nyt)[http://www.nytimes.com/2005/11/09/nyregion/metrocampaigns/voters-approve-transit-bonds-for-29-billion.html?_r=0]
 - Tags: [bonds](../tags/bonds.md) [mta](../tags/mta.md)
 
 ### Ronan pleads for 1971 state transportation bond issue
@@ -15,6 +16,6 @@
   - *Isn't this mixing capital and operating expenses?*
   - *Yes*, but some capital projects were already being paid out of farebox income
   - *This was pre-capital program, so my details on all this are weak right now*
-- "Ronan Calls Bond-Issue Vote Key to Stable Subway Fares," *New York Times*, October 5, 1971. [link](http://www.nytimes.com/1971/10/05/archives/ronan-calls-bondissue-vote-key-to-stable-subway-fares.html)
+- Source: "Ronan Calls Bond-Issue Vote Key to Stable Subway Fares," *New York Times*, October 5, 1971. [link](http://www.nytimes.com/1971/10/05/archives/ronan-calls-bondissue-vote-key-to-stable-subway-fares.html)
 - Tags: [bonds](../tags/bonds.md) [mta](../tags/mta.md) [ronan](../tags/ronan.md)
 

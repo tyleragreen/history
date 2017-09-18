@@ -6,7 +6,7 @@
 - Expected to raise $700-$800mil annually
   - $500mil for capital costs, $250mil for half-price MetroCard program
 - Must pass state legislature
-- Sources: [nyt](https://www.nytimes.com/2017/08/06/nyregion/bill-de-blasio-will-push-for-tax-on-wealthy-to-fix-subway.html)
+- Source: (nyt)[https://www.nytimes.com/2017/08/06/nyregion/bill-de-blasio-will-push-for-tax-on-wealthy-to-fix-subway.html]
 - Tags: [de-blasio](../tags/de-blasio.md) [mta](../tags/mta.md) [taxes](../tags/taxes.md)
 
 ### NY State Legislature approves 5 taxes to provide MTA operating assistance
@@ -19,7 +19,7 @@
   - "A tax based on the net income and capital of oil companies' outof-state and international operations."
   - "A corporate franchise tax of 0.75 percent on the gross returns from the in-state portion of interstate communications and commercial transport." Known as the "long lines" tax.
 - *I think these all still exist. Should annotate individually.*
-- "FIVE TAXES VOTED IN ALBANY TO GIVE MASS-TRANSIT AID," *New York Times*, July 10, 1981. [link](http://www.nytimes.com/1981/07/10/nyregion/five-taxes-voted-in-albany-to-give-mass-transit-aid.html)
+- Source: "FIVE TAXES VOTED IN ALBANY TO GIVE MASS-TRANSIT AID," *New York Times*, July 10, 1981. [link](http://www.nytimes.com/1981/07/10/nyregion/five-taxes-voted-in-albany-to-give-mass-transit-aid.html)
 - Tags: [mta](../tags/mta.md) [taxes](../tags/taxes.md)
 
 ### Commuter Tax Repealed
@@ -29,6 +29,6 @@
 - Mayor Giuliani opposed, Gov. Pataki signed, week before special election for State Senate seat in Rockland/Orange counties (NW of NYC)
 - City enjoyed $2b surplus at the time, Republicans intended measure to lighten tax burder on suburban residents
 - "The Mayor asserted that the city had a right to ask commuters to contribute to the costs of police, fire and other services."
-- "Legislature Acts Quickly To Repeal Commuter Tax," *New York Times*, May 18, 1999. [link](http://www.nytimes.com/1999/05/18/nyregion/legislature-acts-quickly-to-repeal-commuter-tax.html)
+- Source: "Legislature Acts Quickly To Repeal Commuter Tax," *New York Times*, May 18, 1999. [link](http://www.nytimes.com/1999/05/18/nyregion/legislature-acts-quickly-to-repeal-commuter-tax.html)
 - Tags: [nyc](../tags/nyc.md) [taxes](../tags/taxes.md)
 

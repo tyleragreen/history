@@ -6,7 +6,7 @@
 ## 1940s
 **July 1, 1948** - Fare increases from 5 cents to 10 cents
 - Source: [bot](https://hdl.handle.net/2027/mdp.39015023094926)
-- Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
+- Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md) [reports](../tags/reports.md)
 
 ## 1990s
 **January 1, 1992** - Fare raised from $1.15 to $1.25
@@ -49,11 +49,11 @@
 - Source: "Old and New Commuter Fares in New York Area," *New York Times*, June 30, 1980. [link](https://query.nytimes.com/gst/abstract.html?res=9D02E1D71230E532A25753C3A9609C94619FD6CF&legacy=true)
 - Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
 
-### Fare increases from $2.50 to $2.75
-- Source: "M.T.A. Is Raising Fares and Tolls; One Subway or Bus Ride Will Cost $2.75," *New York Times*, January 22, 2015. [link](https://www.nytimes.com/2015/01/23/nyregion/mta-raises-fares-subways-and-buses.html)
-- Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
-
 ### Fare increases from 90 cents to $1
 - Source: "THE REGION; THE LAST DAYS OF THE 90-CENT FARE," *New York Times*, December 8, 1985. [link](http://www.nytimes.com/1985/12/08/weekinreview/the-region-the-last-days-of-the-90-cent-fare.html)
+- Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
+
+### Fare increases from $2.50 to $2.75
+- Source: "M.T.A. Is Raising Fares and Tolls; One Subway or Bus Ride Will Cost $2.75," *New York Times*, January 22, 2015. [link](https://www.nytimes.com/2015/01/23/nyregion/mta-raises-fares-subways-and-buses.html)
 - Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
 

@@ -1,7 +1,7 @@
 # fare-increases
 ### Fare increases from 5 cents to 10 cents
 - Source: [bot](https://hdl.handle.net/2027/mdp.39015023094926)
-- Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
+- Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md) [reports](../tags/reports.md)
 
 ### Fare increases from $2.50 to $2.75
 - Source: "M.T.A. Is Raising Fares and Tolls; One Subway or Bus Ride Will Cost $2.75," *New York Times*, January 22, 2015. [link](https://www.nytimes.com/2015/01/23/nyregion/mta-raises-fares-subways-and-buses.html)

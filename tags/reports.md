@@ -1,4 +1,8 @@
 # reports
+### Fare increases from 5 cents to 10 cents
+- Source: [bot](https://hdl.handle.net/2027/mdp.39015023094926)
+- Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md) [reports](../tags/reports.md)
+
 ### From Rescue to Renaissance: The Achievements of the MTA Capital Program 1982 - 2004
 - Source: [nyur](https://wagner.nyu.edu/files/news/rescue.pdf)
 - Tags: [capital-plan](../tags/capital-plan.md) [mta](../tags/mta.md) [reports](../tags/reports.md)
@@ -10,7 +14,7 @@
 ### Regional Transportation Program
 
 - Highlights expansions and improvements as part of Mayor John Lindsay's "Program for Action"
-- Source: "Regional Transportation Program," *Metropolitan Transportation Authority*, August 1969. [link](https://ia800502.us.archive.org/14/items/regionaltranspor00newy/regionaltranspor00newy.pdf)
+- Source: [mta](https://ia800502.us.archive.org/14/items/regionaltranspor00newy/regionaltranspor00newy.pdf)
 - Tags: [expansion](../tags/expansion.md) [mta](../tags/mta.md) [program-for-action](../tags/program-for-action.md) [reports](../tags/reports.md)
 
 ### Governance Assessment of MTA Capital Program Mega Projects

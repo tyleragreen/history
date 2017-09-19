@@ -1,7 +1,16 @@
 # mta
+### MTA Fares Misc
+
+- [City Journal](https://www.city-journal.org/html/how-save-subways%E2%80%94-it%E2%80%99s-too-late-12855.html) on some various MTA history
+- [MTA](https://web.archive.org/web/20101122052827/http://mta.info/mta/pdf/approved_fares.pdf) on late 2010 fares
+- [MTA](https://web.archive.org/web/20130224131911/http://www.mta.info/nyct/fare/NewFares.htm) on 2013 fares
+- [NYT](https://cityroom.blogs.nytimes.com/2009/03/25/mta-board-meets-to-vote-on-fare-hikes/) on 2009 fare increase
+- Lists on fare increses: [NYSubway.com](http://www.nysubway.com/stories/subway-fares.html) and [Wikipedia](https://en.wikipedia.org/wiki/New_York_City_transit_fares#Fare_history)
+- Tags: [fares](../tags/fares.md) [mta](../tags/mta.md)
+
 ### Fare increases from 5 cents to 10 cents
 - Source: [bot](https://hdl.handle.net/2027/mdp.39015023094926)
-- Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
+- Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md) [reports](../tags/reports.md)
 
 ### Fare increases from $2.50 to $2.75
 - Source: "M.T.A. Is Raising Fares and Tolls; One Subway or Bus Ride Will Cost $2.75," *New York Times*, January 22, 2015. [link](https://www.nytimes.com/2015/01/23/nyregion/mta-raises-fares-subways-and-buses.html)
@@ -281,7 +290,7 @@
 ### Regional Transportation Program
 
 - Highlights expansions and improvements as part of Mayor John Lindsay's "Program for Action"
-- Source: "Regional Transportation Program," *Metropolitan Transportation Authority*, August 1969. [link](https://ia800502.us.archive.org/14/items/regionaltranspor00newy/regionaltranspor00newy.pdf)
+- Source: [mta](https://ia800502.us.archive.org/14/items/regionaltranspor00newy/regionaltranspor00newy.pdf)
 - Tags: [expansion](../tags/expansion.md) [mta](../tags/mta.md) [program-for-action](../tags/program-for-action.md) [reports](../tags/reports.md)
 
 ### Fare raised from $1.15 to $1.25

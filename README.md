@@ -396,13 +396,14 @@ I'm studying urban history and these are my notes. Focus will be placed on all f
 - Date: 1975
 - Tags: [nyc](tags/nyc.md) [nycfc](tags/nycfc.md) [totimeline](tags/totimeline.md)
 
-### NYC topics
+### NYC Misc
 
 - [Ford Library Museum](https://www.fordlibrarymuseum.gov/library/document/0055/1669138.pdf) - New York City Seasonal Financing Act of 1975
 - [UCSB](http://www.presidency.ucsb.edu/ws/?pid=31164) - Jimmy Carter speech on New York City Loan Guarantee Act of 1978
 - [CUNY MAC Archives](http://www.baruch.cuny.edu/library/alumni/online_exhibits/amfl/mac/S12_MAC.html)
 - [Board of Estimate](https://en.wikipedia.org/wiki/New_York_City_Board_of_Estimate)
 - [Mitchell-Lama Housing Program](http://www.mitchell-lama.org/history.html)
+- [Rockefeller Institute reports](http://www.rockinst.org/budgetary_balance_ny/) on New York State budgetary balance
 - Tags: [nyc](tags/nyc.md) [todo](tags/todo.md)
 
 ### Daniel Patrick Moynihan

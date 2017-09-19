@@ -1,5 +1,6 @@
 # capital-plan
 ### New Yorker on Ravitch-era capital plans
+- Date: June 25, 1984
   
 - Capital plan approved by NY state legislature, June 24, 1981
   - [NYT](http://www.nytimes.com/1981/06/24/nyregion/news-summary-wednesday-june-24-1981.html)
@@ -29,14 +30,17 @@
 - Tags: [articles](../tags/articles.md) [capital-plan](../tags/capital-plan.md) [mta](../tags/mta.md) [ravitch](../tags/ravitch.md)
 
 ### From Rescue to Renaissance: The Achievements of the MTA Capital Program 1982 - 2004
+- Date: 2004
 - Source: [nyur](https://wagner.nyu.edu/files/news/rescue.pdf)
 - Tags: [capital-plan](../tags/capital-plan.md) [mta](../tags/mta.md) [reports](../tags/reports.md)
 
 ### The Road Back - History of MTA capital plan
+- Date: 2012
 - Source: [pcac](http://www.pcac.org/wp-content/uploads/2014/09/The-Road-Back.pdf)
 - Tags: [capital-plan](../tags/capital-plan.md) [mta](../tags/mta.md) [reports](../tags/reports.md)
 
 ### The Light at the End of the Subway
+- Date: February 1, 1982
 
 - Only 10 subway stations had ever been modernized (as of 1982)
 - Capital plan money couldn't be used by law for hiring additional police, but it could fund crime fighting indirectly through safer station design and CCTV

@@ -4,10 +4,11 @@
 - Sold to Tishman Speyer Properties for $5.4bil
 - Built by MetLife
 - Doctoroff had something to do with it [link](https://www.fastcodesign.com/90139632/how-the-chief-architect-of-new-new-york-envisions-future-of-cities)
-- Source: "Sale of Stuyvesant Town and Peter Cooper Village Goes Through Despite Some Tenants’ Efforts," *New York Times*, November 18, 2006. [link](http://www.nytimes.com/2006/11/18/nyregion/18stuyvesant.html?mcubz=0)
+- Source: "Sale of Stuyvesant Town and Peter Cooper Village Goes Through Despite Some Tenants’ Efforts," *The New York Times*, November 18, 2006. [link](http://www.nytimes.com/2006/11/18/nyregion/18stuyvesant.html?mcubz=0)
 - Tags: [doctoroff](../tags/doctoroff.md) [housing](../tags/housing.md) [nyc](../tags/nyc.md) [todo](../tags/todo.md)
 
 ### Bob Kiley appointed MTA Chair
+- Date: October 5, 1983
 - Tags: [kiley](../tags/kiley.md) [mta](../tags/mta.md) [todo](../tags/todo.md)
 
 ### I searched "people mover midtown" in the Times Machine and this is what I got
@@ -86,7 +87,7 @@
 ### Daniel Patrick Moynihan
 
 - Let "accelerated depreciation" expire
-- Source: "Sentate's Real Estate Tax Blow," *New York Times*, March 19, 1984. [link](http://www.nytimes.com/1984/03/19/business/senate-s-real-estate-tax-blow.html)
+- Source: "Sentate's Real Estate Tax Blow," *The New York Times*, March 19, 1984. [link](http://www.nytimes.com/1984/03/19/business/senate-s-real-estate-tax-blow.html)
 - Tags: [moynihan](../tags/moynihan.md) [nyc](../tags/nyc.md) [people](../tags/people.md) [tax-policy](../tags/tax-policy.md) [todo](../tags/todo.md)
 
 ### Robert Moses responds to Robert Caro

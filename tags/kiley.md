@@ -1,5 +1,6 @@
 # kiley
 ### Bob Kiley appointed MTA Chair
+- Date: October 5, 1983
 - Tags: [kiley](../tags/kiley.md) [mta](../tags/mta.md) [todo](../tags/todo.md)
 
 ### New Yorker on Bob Kiley
@@ -23,9 +24,10 @@
 - Tags: [kiley](../tags/kiley.md) [mta](../tags/mta.md) [tfl](../tags/tfl.md)
 
 ### MTA Courts Kiley
+- Date: October 8, 1983
 
 - Cuomo's counsel, Timothy Russert, sat with Kiley at Fenway during Yaz Day (Carl Yastrzemski's last game) to discuss the MTA job
 - The govenor's staff's codename for Kiley was "The Badge," "because he had been Deputy Mayor in charge of public safety in Boston from 1972 to 1975 and before that a C.I.A. official"
-- Source: "THE SECRET COURTING OF ROBERT KILEY," *New York Times*, October 8, 1983. [link](http://www.nytimes.com/1983/10/08/nyregion/the-secret-courting-of-robert-kiley.html)
+- Source: "THE SECRET COURTING OF ROBERT KILEY," *The New York Times*, October 8, 1983. [link](http://www.nytimes.com/1983/10/08/nyregion/the-secret-courting-of-robert-kiley.html)
 - Tags: [kiley](../tags/kiley.md) [mta](../tags/mta.md)
 

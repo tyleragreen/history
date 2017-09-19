@@ -1,5 +1,6 @@
 # safety
 ### Emergency exit bars added
+- Date: 2006
 
 - Emergency exit push bars were added to the previously locked gates
   - *NOT CONFIRMED* this was in response do the 2005 London Underground bombings

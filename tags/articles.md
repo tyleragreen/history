@@ -1,5 +1,6 @@
 # articles
 ### New Yorker on Ravitch-era capital plans
+- Date: June 25, 1984
   
 - Capital plan approved by NY state legislature, June 24, 1981
   - [NYT](http://www.nytimes.com/1981/06/24/nyregion/news-summary-wednesday-june-24-1981.html)
@@ -29,6 +30,7 @@
 - Tags: [articles](../tags/articles.md) [capital-plan](../tags/capital-plan.md) [mta](../tags/mta.md) [ravitch](../tags/ravitch.md)
 
 ### The Light at the End of the Subway
+- Date: February 1, 1982
 
 - Only 10 subway stations had ever been modernized (as of 1982)
 - Capital plan money couldn't be used by law for hiring additional police, but it could fund crime fighting indirectly through safer station design and CCTV
@@ -55,6 +57,7 @@
 - Tags: [articles](../tags/articles.md) [capital-plan](../tags/capital-plan.md) [mta](../tags/mta.md)
 
 ### "The Man at the Wheel of the M.T.A." - Ravitch in New York Magazine
+- Date: February 1, 1982
 
 - "A Nelson A. Rockefeller creation, the Metropolitan Transportation Authority was set up in 1968 to coordinate public transit and insulate the mayor and governor from complaints about fare increases."
 - Under Ronan, fares rose from 20 cents to 35

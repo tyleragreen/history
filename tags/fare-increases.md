@@ -1,6 +1,6 @@
 # fare-increases
 ### Fare increases from 5 cents to 10 cents
-- Source: [bot](https://hdl.handle.net/2027/mdp.39015023094926)
+- Source: "Report for the three and one-half years ending June 30, 1949.," *The City of New York Board of Transportation*, 1949. [link](https://hdl.handle.net/2027/mdp.39015023094926)
 - Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md) [reports](../tags/reports.md)
 
 ### Fare increases from $2.50 to $2.75

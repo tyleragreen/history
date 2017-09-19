@@ -1,4 +1,8 @@
 # fare-increases
+### Fare increases from 20 cents to 30 cents
+- Source: "New Tokens Go on Sale in Subways," *New York Times*, January 3, 1970. [link](http://www.nytimes.com/1970/01/03/archives/new-tokens-go-on-sale-in-subways-30cent-tokens-are-put-on-sale-at.html)
+- Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
+
 ### Board votes to increase fare to $1.50, a 20% increase
 
 - To take effect on November 12

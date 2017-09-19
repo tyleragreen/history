@@ -1,5 +1,9 @@
 # Urban History
 I'm studying urban history and these are my notes. Focus will be placed on all financial aspects, particularly those of New York City and the [Metropolitan Transportation Authority](http://www.mta.info).
+### Fare increases from 20 cents to 30 cents
+- Source: "New Tokens Go on Sale in Subways," *New York Times*, January 3, 1970. [link](http://www.nytimes.com/1970/01/03/archives/new-tokens-go-on-sale-in-subways-30cent-tokens-are-put-on-sale-at.html)
+- Tags: [fare-increases](tags/fare-increases.md) [mta](tags/mta.md)
+
 ### Emergency exit bars added
 
 - Emergency exit push bars were added to the previously locked gates

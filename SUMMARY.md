@@ -38,6 +38,7 @@
   - [reports](tags/reports.md)
   - [rohatyn](tags/rohatyn.md)
   - [ronan](tags/ronan.md)
+  - [safety](tags/safety.md)
   - [second-avenue](tags/second-avenue.md)
   - [tax-policy](tags/tax-policy.md)
   - [taxes](tags/taxes.md)

@@ -1,5 +1,12 @@
 # Urban History
 I'm studying urban history and these are my notes. Focus will be placed on all financial aspects, particularly those of New York City and the [Metropolitan Transportation Authority](http://www.mta.info).
+### Emergency exit bars added
+
+- Emergency exit push bars were added to the previously locked gates
+  - *NOT CONFIRMED* this was in response do the 2005 London Underground bombings
+- Source: "MTA finally silences subway emergency exit alarms," *New York Post*, December 31, 2004. [link](http://nypost.com/2014/12/31/mta-finally-silences-subway-emergency-exit-alarms/)
+- Tags: [mta](tags/mta.md) [safety](tags/safety.md)
+
 ### Stuyvesant Town and Peter Cooper Village Sold
 
 - Sold to Tishman Speyer Properties for $5.4bil

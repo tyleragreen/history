@@ -26,7 +26,7 @@
   - *what is speed limit in today's restricted areas?*
   - Subway track was supposed to receive two walking inspections a week
 - City's water table had risen 10 feet over previous 30 years, sitting tunnels on water rather than ground
-- Source: "Painting the Elephant," *The New Yorker*, June 25, 1984. [link](https://www.newyorker.com/magazine/1984/06/25/painting-the-elephant)
+- Source: Lardner, James, "Painting the Elephant," *The New Yorker*, 42-71, June 25, 1984. [link](https://www.newyorker.com/magazine/1984/06/25/painting-the-elephant)
 - Tags: [articles](../tags/articles.md) [capital-plan](../tags/capital-plan.md) [mta](../tags/mta.md) [ravitch](../tags/ravitch.md)
 
 ### The Light at the End of the Subway

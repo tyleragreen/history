@@ -5,7 +5,7 @@
 
 ## 1940s
 **July 1, 1948** - Fare increases from 5 cents to 10 cents
-- Source: "Report for the three and one-half years ending June 30, 1949.," *The City of New York Board of Transportation*, 1949. [link](https://hdl.handle.net/2027/mdp.39015023094926)
+- Source: "Report for the three and one-half years ending June 30, 1949.," *The City of New York Board of Transportation*, 82, 1949. [link](https://hdl.handle.net/2027/mdp.39015023094926)
 - Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md) [reports](../tags/reports.md)
 
 ## 1990s

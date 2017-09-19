@@ -10,7 +10,7 @@
 
 ### Fare increases from 5 cents to 10 cents
 - Date: July 1, 1948
-- Source: "Report for the three and one-half years ending June 30, 1949.," *The City of New York Board of Transportation*, 1949. [link](https://hdl.handle.net/2027/mdp.39015023094926)
+- Source: "Report for the three and one-half years ending June 30, 1949.," *The City of New York Board of Transportation*, 82, 1949. [link](https://hdl.handle.net/2027/mdp.39015023094926)
 - Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md) [reports](../tags/reports.md)
 
 ### Fare increases from $2.50 to $2.75
@@ -100,7 +100,7 @@
   - *what is speed limit in today's restricted areas?*
   - Subway track was supposed to receive two walking inspections a week
 - City's water table had risen 10 feet over previous 30 years, sitting tunnels on water rather than ground
-- Source: "Painting the Elephant," *The New Yorker*, June 25, 1984. [link](https://www.newyorker.com/magazine/1984/06/25/painting-the-elephant)
+- Source: Lardner, James, "Painting the Elephant," *The New Yorker*, 42-71, June 25, 1984. [link](https://www.newyorker.com/magazine/1984/06/25/painting-the-elephant)
 - Tags: [articles](../tags/articles.md) [capital-plan](../tags/capital-plan.md) [mta](../tags/mta.md) [ravitch](../tags/ravitch.md)
 
 ### Ravitch Commission

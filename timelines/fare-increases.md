@@ -27,10 +27,11 @@
 - Source: "Token price rises 10 cents to $1.25 in New York City," *The New York Times*, January 1, 1992. [link](http://www.nytimes.com/1992/01/01/nyregion/token-price-rises-10-cents-to-1.25-in-new-york-city.html)
 - Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md) [stangl](../tags/stangl.md)
 
-**October 20, 1995** - Board votes to increase fare to $1.50, a 20% increase
+**November 12, 1995** - Fare increases from $1.25 to $1.50
 
+- Board voted to increase fare to $1.50 on October 19, 1995, a 20% increase
 - To take effect on November 12
-  - Added week cost $5.3mil
+  - One week delay cost the MTA $5.3mil
   - New token introduced to prevent hoarding, last before MetroCard
 - 20% increases had been avoided since 1984 by Govenor or Mayor eventually providing more funds
 - E. Virgil Conway was MTA chair at the time
@@ -42,12 +43,16 @@
 - Tags: [conway](../tags/conway.md) [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
 
 ## Undated Notes
+### Fare increases from 20 cents to 30 cents
+- Source: "New Tokens Go on Sale in Subways," *The New York Times*, January 3, 1970. [link](http://www.nytimes.com/1970/01/03/archives/new-tokens-go-on-sale-in-subways-30cent-tokens-are-put-on-sale-at.html)
+- Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
+
 ### Fare increases from 35 cents to 50 cents
 - Source: "Costlier Token," *The New York Times*, September 2, 1975. [link](http://www.nytimes.com/1975/09/02/archives/costlier-token.html)
 - Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
 
-### Fare increases from 20 cents to 30 cents
-- Source: "New Tokens Go on Sale in Subways," *The New York Times*, January 3, 1970. [link](http://www.nytimes.com/1970/01/03/archives/new-tokens-go-on-sale-in-subways-30cent-tokens-are-put-on-sale-at.html)
+### Fare increases from 50 cents to 60 cents
+- Source: "Old and New Commuter Fares in New York Area," *The New York Times*, June 30, 1980. [link](https://query.nytimes.com/gst/abstract.html?res=9D02E1D71230E532A25753C3A9609C94619FD6CF&legacy=true)
 - Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
 
 ### Fare increases from 90 cents to $1
@@ -56,9 +61,5 @@
 
 ### Fare increases from $2.50 to $2.75
 - Source: "M.T.A. Is Raising Fares and Tolls; One Subway or Bus Ride Will Cost $2.75," *The New York Times*, January 22, 2015. [link](https://www.nytimes.com/2015/01/23/nyregion/mta-raises-fares-subways-and-buses.html)
-- Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
-
-### Fare increases from 50 cents to 60 cents
-- Source: "Old and New Commuter Fares in New York Area," *The New York Times*, June 30, 1980. [link](https://query.nytimes.com/gst/abstract.html?res=9D02E1D71230E532A25753C3A9609C94619FD6CF&legacy=true)
 - Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
 

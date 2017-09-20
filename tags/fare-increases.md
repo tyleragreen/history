@@ -24,11 +24,12 @@
 - Source: "New Tokens Go on Sale in Subways," *The New York Times*, January 3, 1970. [link](http://www.nytimes.com/1970/01/03/archives/new-tokens-go-on-sale-in-subways-30cent-tokens-are-put-on-sale-at.html)
 - Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
 
-### Board votes to increase fare to $1.50, a 20% increase
-- Date: October 20, 1995
+### Fare increases from $1.25 to $1.50
+- Date: November 12, 1995
 
+- Board voted to increase fare to $1.50 on October 19, 1995, a 20% increase
 - To take effect on November 12
-  - Added week cost $5.3mil
+  - One week delay cost the MTA $5.3mil
   - New token introduced to prevent hoarding, last before MetroCard
 - 20% increases had been avoided since 1984 by Govenor or Mayor eventually providing more funds
 - E. Virgil Conway was MTA chair at the time

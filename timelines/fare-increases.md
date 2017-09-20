@@ -13,14 +13,19 @@
 
 - Took effect at midnight, handwritten signs announced day before
   - Passengers only allowed to buy 4 tokens at old fare to prevent hoarding
-  - Created new physical token to prevent use of slugs (does this mean fakes?)
+  - Created new physical token to prevent use of slugs (*does this mean fakes?*)
+- Peter E. Stangl was MTA chairman at the time
 - MTA required by state to produce a balanced budget
+  - The board voted 12-to-2 to approve this budget even though it was technically not balanced
 - Faced $263mil budget defecit, fare increase lowered this to $157mil
   - To fully close the gap, the increase would have needed to be to $1.40
-- Not sure how the $157mil ended up being found NEED MORE SOURCES
-  - Was discussion of transferring $90mil from healthy LIRR and MNR, contentious because of suburban->urban transfer and because of transfer of capital funds to operating funds
+  - *Not sure how the $157mil ended up being found, need more sources*
+  - It was discussed to transfer $90mil from relatively healthy LIRR and MNR, which was contentious because of:
+    - it would represent a suburban->urban transfer (which was opposed by Republication legislators)
+    - and because of transfer of capital funds to operating funds
+      - Senate Transportation Committee chairman Norman Levy claimed this, but MTA officials denied this
 - Source: "Token price rises 10 cents to $1.25 in New York City," *The New York Times*, January 1, 1992. [link](http://www.nytimes.com/1992/01/01/nyregion/token-price-rises-10-cents-to-1.25-in-new-york-city.html)
-- Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
+- Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md) [stangl](../tags/stangl.md)
 
 **October 20, 1995** - Board votes to increase fare to $1.50, a 20% increase
 
@@ -37,16 +42,12 @@
 - Tags: [conway](../tags/conway.md) [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
 
 ## Undated Notes
-### Fare increases from 20 cents to 30 cents
-- Source: "New Tokens Go on Sale in Subways," *The New York Times*, January 3, 1970. [link](http://www.nytimes.com/1970/01/03/archives/new-tokens-go-on-sale-in-subways-30cent-tokens-are-put-on-sale-at.html)
-- Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
-
 ### Fare increases from 35 cents to 50 cents
 - Source: "Costlier Token," *The New York Times*, September 2, 1975. [link](http://www.nytimes.com/1975/09/02/archives/costlier-token.html)
 - Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
 
-### Fare increases from 50 cents to 60 cents
-- Source: "Old and New Commuter Fares in New York Area," *The New York Times*, June 30, 1980. [link](https://query.nytimes.com/gst/abstract.html?res=9D02E1D71230E532A25753C3A9609C94619FD6CF&legacy=true)
+### Fare increases from 20 cents to 30 cents
+- Source: "New Tokens Go on Sale in Subways," *The New York Times*, January 3, 1970. [link](http://www.nytimes.com/1970/01/03/archives/new-tokens-go-on-sale-in-subways-30cent-tokens-are-put-on-sale-at.html)
 - Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
 
 ### Fare increases from 90 cents to $1
@@ -55,5 +56,9 @@
 
 ### Fare increases from $2.50 to $2.75
 - Source: "M.T.A. Is Raising Fares and Tolls; One Subway or Bus Ride Will Cost $2.75," *The New York Times*, January 22, 2015. [link](https://www.nytimes.com/2015/01/23/nyregion/mta-raises-fares-subways-and-buses.html)
+- Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
+
+### Fare increases from 50 cents to 60 cents
+- Source: "Old and New Commuter Fares in New York Area," *The New York Times*, June 30, 1980. [link](https://query.nytimes.com/gst/abstract.html?res=9D02E1D71230E532A25753C3A9609C94619FD6CF&legacy=true)
 - Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
 

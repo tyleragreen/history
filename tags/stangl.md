@@ -1,11 +1,6 @@
-; title Fare raised from $1.15 to $1.25
-; date January 1, 1992
-; tags mta fare-increases stangl
-; source-id nyt
-; source-title "Token price rises 10 cents to $1.25 in New York City"
-; source-publication The New York Times
-; source-date January 1, 1992
-; source-url http://www.nytimes.com/1992/01/01/nyregion/token-price-rises-10-cents-to-1.25-in-new-york-city.html
+# stangl
+### Fare raised from $1.15 to $1.25
+- Date: January 1, 1992
 
 - Took effect at midnight, handwritten signs announced day before
   - Passengers only allowed to buy 4 tokens at old fare to prevent hoarding
@@ -20,3 +15,6 @@
     - it would represent a suburban->urban transfer (which was opposed by Republication legislators)
     - and because of transfer of capital funds to operating funds
       - Senate Transportation Committee chairman Norman Levy claimed this, but MTA officials denied this
+- Source: "Token price rises 10 cents to $1.25 in New York City," *The New York Times*, January 1, 1992. [link](http://www.nytimes.com/1992/01/01/nyregion/token-price-rises-10-cents-to-1.25-in-new-york-city.html)
+- Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md) [stangl](../tags/stangl.md)
+

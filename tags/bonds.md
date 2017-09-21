@@ -1,4 +1,8 @@
 # bonds
+### Board of Estimate approves Second Avenue bond vote
+- Source: "$500,000,000 VOTED FOR 2D AVE. SUBWAY BY ESTIMATE BOARD," *The New York Times*, September 14, 1951. [link](https://nyti.ms/2yeYK1C)
+- Tags: [bonds](../tags/bonds.md) [mta](../tags/mta.md) [second-avenue](../tags/second-avenue.md) [todo](../tags/todo.md)
+
 ### New York State Transportation Bond Act
 - Date: 2005
 - Provided $1.45 billion towards 2005-2009 MTA capital program from state (state assumes debt service….I think)

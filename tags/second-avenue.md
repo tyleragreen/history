@@ -1,4 +1,8 @@
 # second-avenue
+### Board of Estimate approves Second Avenue bond vote
+- Source: "$500,000,000 VOTED FOR 2D AVE. SUBWAY BY ESTIMATE BOARD," *The New York Times*, September 14, 1951. [link](https://nyti.ms/2yeYK1C)
+- Tags: [bonds](../tags/bonds.md) [mta](../tags/mta.md) [second-avenue](../tags/second-avenue.md) [todo](../tags/todo.md)
+
 ### Board of Estimate approves Second Avenue Subway and 11 other new routes
 - Date: September 21, 1968
 - Program cost of $1.26bil was to be split

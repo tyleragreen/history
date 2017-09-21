@@ -1,5 +1,9 @@
 # Urban History
 I'm studying urban history and these are my notes. Focus will be placed on all financial aspects, particularly those of New York City and the [Metropolitan Transportation Authority](http://www.mta.info).
+### Board of Estimate approves Second Avenue bond vote
+- Source: "$500,000,000 VOTED FOR 2D AVE. SUBWAY BY ESTIMATE BOARD," *The New York Times*, September 14, 1951. [link](https://nyti.ms/2yeYK1C)
+- Tags: [bonds](tags/bonds.md) [mta](tags/mta.md) [second-avenue](tags/second-avenue.md) [todo](tags/todo.md)
+
 ### Fare increases from $2.25 to $2.50
 - Bonus decreased from 7% to 5%
 - Board member Allen Cappelli noted the difference in conversation since 2010, "We're not talking about reducing services, I think that's good news for New Yorkers."

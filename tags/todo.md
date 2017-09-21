@@ -1,6 +1,14 @@
 # todo
-### Stuyvesant Town and Peter Cooper Village Sold
+### TWU Strike Averted
+- Source: "Agreement Reached on Transit Contract," *The New York Times*, January 1, 1972. [link](https://timesmachine.nytimes.com/timesmachine/1972/01/01/90707040.html?zoom=15.19&pageNumber=1)
+- Tags: [mta](../tags/mta.md) [todo](../tags/todo.md) [twu](../tags/twu.md) [unions](../tags/unions.md)
 
+### Port Authority Misc
+- [Toll increase proposed in 1980](https://nyti.ms/2yelxus) even though agency has $52mil profit
+- [1962 law](https://nyti.ms/2jLRgRh) to keep itself out of mass transit
+- Tags: [port-authority](../tags/port-authority.md) [todo](../tags/todo.md)
+
+### Stuyvesant Town and Peter Cooper Village Sold
 - Sold to Tishman Speyer Properties for $5.4bil
 - Built by MetLife
 - Doctoroff had something to do with it [link](https://www.fastcodesign.com/90139632/how-the-chief-architect-of-new-new-york-envisions-future-of-cities)
@@ -12,7 +20,6 @@
 - Tags: [kiley](../tags/kiley.md) [mta](../tags/mta.md) [todo](../tags/todo.md)
 
 ### I searched "people mover midtown" in the Times Machine and this is what I got
-
 - Search: https://timesmachine.nytimes.com/timesmachine/1968/09/21/76882207.html?pageNumber=55
   - https://timesmachine.nytimes.com/timesmachine/1969/11/04/79433710.html?pageNumber=43
   - https://timesmachine.nytimes.com/timesmachine/1973/05/23/90441783.html?pageNumber=27
@@ -28,7 +35,6 @@
 - Tags: [todo](../tags/todo.md)
 
 ### MTA To Find
-
 - Bear, Stearns & Co. Metropolitan Transportation Authority, Finances of Mass Transit Services in New York City. New York: Bear Stearns, 1983.
   - Source: [WorldCat](http://www.worldcat.org/title/metropolitan-transit-authority-finances-of-mass-transit-services-in-new-york-city/oclc/26468223&referer=brief_results)
 - Crowell, William H. "Financing mass transit in New York City" 
@@ -38,7 +44,6 @@
 - Tags: [mta](../tags/mta.md) [todo](../tags/todo.md)
 
 ### MTA Misc
-
 - Late 60s Stuff
   - [NYT 1](http://query.nytimes.com/gst/abstract.html?res=9801E1DB1138E134BC4151DFB4668383679EDE&legacy=true)
   - [NYT 2 - Rockefeller 1971](http://www.nytimes.com/1971/03/21/archives/rockefeller-asks-25billion-bonds-to-aid-transport-50-of-funds-from.html)
@@ -76,7 +81,6 @@
 - Tags: [mta](../tags/mta.md) [todo](../tags/todo.md)
 
 ### NYC Misc
-
 - [Ford Library Museum](https://www.fordlibrarymuseum.gov/library/document/0055/1669138.pdf) - New York City Seasonal Financing Act of 1975
 - [UCSB](http://www.presidency.ucsb.edu/ws/?pid=31164) - Jimmy Carter speech on New York City Loan Guarantee Act of 1978
 - [CUNY MAC Archives](http://www.baruch.cuny.edu/library/alumni/online_exhibits/amfl/mac/S12_MAC.html)
@@ -86,7 +90,6 @@
 - Tags: [nyc](../tags/nyc.md) [todo](../tags/todo.md)
 
 ### Daniel Patrick Moynihan
-
 - Let "accelerated depreciation" expire
 - Source: "Sentate's Real Estate Tax Blow," *The New York Times*, March 19, 1984. [link](http://www.nytimes.com/1984/03/19/business/senate-s-real-estate-tax-blow.html)
 - Tags: [moynihan](../tags/moynihan.md) [nyc](../tags/nyc.md) [people](../tags/people.md) [tax-policy](../tags/tax-policy.md) [todo](../tags/todo.md)

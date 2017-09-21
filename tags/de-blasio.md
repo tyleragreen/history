@@ -1,7 +1,6 @@
 # de-blasio
 ### de Blasio pushes for "Millionaire's Tax"
 - Date: August 7, 2017
-
 - Would increase city income tax rate for those making over $500k from 3.9% to 4.4%
 - Expected to be paid by 32,000 NYers
 - Expected to raise $700-$800mil annually

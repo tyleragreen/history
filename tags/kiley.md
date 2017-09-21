@@ -4,7 +4,6 @@
 - Tags: [kiley](../tags/kiley.md) [mta](../tags/mta.md) [todo](../tags/todo.md)
 
 ### New Yorker on Bob Kiley
-
 - MTA offices were at 347 Madison Avenue, near Grand Central
 - Britain's Labour party still (2004) gets most of its funding from unions
 - Kiley wanted public bondds to finance Tube improvements, Blair and Treasury wanted to use PPPs, let to privatization of the Tube
@@ -25,7 +24,6 @@
 
 ### MTA Courts Kiley
 - Date: October 8, 1983
-
 - Cuomo's counsel, Timothy Russert, sat with Kiley at Fenway during Yaz Day (Carl Yastrzemski's last game) to discuss the MTA job
 - The govenor's staff's codename for Kiley was "The Badge," "because he had been Deputy Mayor in charge of public safety in Boston from 1972 to 1975 and before that a C.I.A. official"
 - Source: "THE SECRET COURTING OF ROBERT KILEY," *The New York Times*, October 8, 1983. [link](http://www.nytimes.com/1983/10/08/nyregion/the-secret-courting-of-robert-kiley.html)

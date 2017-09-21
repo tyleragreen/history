@@ -1,7 +1,6 @@
 # taxes
 ### de Blasio pushes for "Millionaire's Tax"
 - Date: August 7, 2017
-
 - Would increase city income tax rate for those making over $500k from 3.9% to 4.4%
 - Expected to be paid by 32,000 NYers
 - Expected to raise $700-$800mil annually
@@ -12,7 +11,6 @@
 
 ### NY State Legislature approves 5 taxes to provide MTA operating assistance
 - Date: July 10, 1981
-
 - Avoided fare increase from $0.75 to $1
 - Five taxes:
   - "The gross-receipts tax on the oil companies."
@@ -26,7 +24,6 @@
 
 ### Commuter Tax Repealed
 - Date: May 18, 1999
-
 - Was 0.45 of 1% income tax on commuters in the state who work in New York City
 - Would reduce city revenue by $210m (or up to $360m, if courts rule tax now discriminates against out-of-state commuters (apparently this remained at the time, NEED SOURCE FOR RESULT OF THIS))
 - Mayor Giuliani opposed, Gov. Pataki signed, week before special election for State Senate seat in Rockland/Orange counties (NW of NYC)

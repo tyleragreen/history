@@ -1,7 +1,6 @@
 # stangl
 ### Fare raised from $1.15 to $1.25
 - Date: January 1, 1992
-
 - Took effect at midnight, handwritten signs announced day before
   - Passengers only allowed to buy 4 tokens at old fare to prevent hoarding
   - Created new physical token to prevent use of slugs (*does this mean fakes?*)

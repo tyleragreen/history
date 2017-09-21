@@ -1,6 +1,31 @@
 # mta
-### MTA Fares Misc
+### Fare increases from $2.25 to $2.50
+- Bonus decreased from 7% to 5%
+- Board member Allen Cappelli noted the difference in conversation since 2010, "We're not talking about reducing services, I think that's good news for New Yorkers."
+- Held public hearings throughout fall 2010 to give riders chance to discuss four fare package proposals
+  - Riders wanted to keep the bonus and did not want to see big increase in 30-day pass price
+  - 2010 increase on 30-day cards was $89 to $104, a 17% increase
+- Lhota announced his resignation to run for mayor after December 18th board meeting
+- Fare and toll increases expected to raise $450mil annually
+- Board members wished for greater transit subsidies rather than biannual fare increases
+- Source: "Increase in Base Subway Fare and 30-Day Pass Is Approved," *The New York Times*, December 19, 2012. [link](http://www.nytimes.com/2012/12/20/nyregion/mta-raises-cost-of-single-rides-and-monthly-passes.html)
+- Source: "M.T.A. Weighs Who Will Pay When It Raises Transit Fares," *The New York Times*, October 12, 2012. [link](http://www.nytimes.com/2012/10/13/nyregion/raising-fare-for-subway-and-buses-is-a-question-of-how-not-when-or-why.html)
+- Tags: [fare-increases](../tags/fare-increases.md) [lhota](../tags/lhota.md) [mta](../tags/mta.md)
 
+### TWU Strike Averted
+- Source: "Agreement Reached on Transit Contract," *The New York Times*, January 1, 1972. [link](https://timesmachine.nytimes.com/timesmachine/1972/01/01/90707040.html?zoom=15.19&pageNumber=1)
+- Tags: [mta](../tags/mta.md) [todo](../tags/todo.md) [twu](../tags/twu.md) [unions](../tags/unions.md)
+
+### Fare increases from 30 cents to 35 cents
+- Increase could rise to 45 cents due to new "trasit contract"
+  - Depedendent on size of tax package to be considered in Albany
+- MTA board had 11 members
+- Could reuse old tokens or create new ones
+- Fare increase required approval from Federal Price Commission
+- Source: "Transit Fare Situation," *The New York Times*, January 2, 1972. [link](https://nyti.ms/2yfpFdo)
+- Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
+
+### MTA Fares Misc
 - [City Journal](https://www.city-journal.org/html/how-save-subways%E2%80%94-it%E2%80%99s-too-late-12855.html) on some various MTA history
 - [MTA](https://web.archive.org/web/20101122052827/http://mta.info/mta/pdf/approved_fares.pdf) on late 2010 fares
 - [MTA](https://web.archive.org/web/20130224131911/http://www.mta.info/nyct/fare/NewFares.htm) on 2013 fares
@@ -14,28 +39,65 @@
 - Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md) [reports](../tags/reports.md)
 
 ### Fare increases from $2.50 to $2.75
+- Increases scheduled to occur every two years as part of the "authority's long-term revenue plans"
+- Using borrowing to close capital gap could increase pressure to raise fares faster than scheduled
+  - *This implies to me that debt service increases aren't scheduled, why not?*
+- Bonus for pay-per-ride MetroCards increased from 5% to 11%
+- Board chose base fare increase against keeping base fare constant and eliminating the bonus
+  - Bonus kept because advocates serves as important discount for riders who cannot afford weekly or monthly passes
+  - *Fare capping would also work*
+- Prendergast said increase needed to "balance budget agains the rising costs of providing services"
+- Increase expected to generate $210mil in 2015
+- Plan to unveil new fare payment system in 2020 and remove MetroCards by end of 2022
 - Source: "M.T.A. Is Raising Fares and Tolls; One Subway or Bus Ride Will Cost $2.75," *The New York Times*, January 22, 2015. [link](https://www.nytimes.com/2015/01/23/nyregion/mta-raises-fares-subways-and-buses.html)
-- Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
+- Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md) [prendergast](../tags/prendergast.md)
 
 ### Fare increases from 90 cents to $1
+- Date: January 1, 1986
+- Legislature saved 90-cent fare at end of 1984 by extending a corporate tax surcharge that helps subsidize mass transit in the NYC metro
+- Increase came as Transit Authority faced potential $225mil operating defecit for 1986
+  - *When did they stop calling themselves the Transit Authority?*
+- Koch wanted to keep 90-cent fare for another year through a state increase of tax on real estate transactions greater than $1mil in the city
+- Cuomo said keeping 90-cent fare was not in his priorities, and wanted the legislature to focus on medical malpractice insurance
+  - Koch responded, "I mean, you have to be able to do more than chew gum."
 - Source: "THE REGION; THE LAST DAYS OF THE 90-CENT FARE," *The New York Times*, December 8, 1985. [link](http://www.nytimes.com/1985/12/08/weekinreview/the-region-the-last-days-of-the-90-cent-fare.html)
-- Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
+- Tags: [cuomo-mario](../tags/cuomo-mario.md) [fare-increases](../tags/fare-increases.md) [koch](../tags/koch.md) [mta](../tags/mta.md)
 
 ### Fare increases from 50 cents to 60 cents
+- Date: June 28, 1980
+- Carey refused to rule out another increase
+- MNR referred to as "Conrail's commuter lines north of the city"
+- Sidney Schwartz, New York state's special fiscal monitor for the city, warned that fares may have to rise to 75 cents in 1981 unless "the financially troubled Transit Authority gets more aid and improves its management."
+- "Long Lines Expected" on Monday morning - MetroCard would eliminate this aspect of fare increases
+  - Expected the morning rush to continue through 10 A.M., rather than the usual 9 A.M.
 - Source: "Old and New Commuter Fares in New York Area," *The New York Times*, June 30, 1980. [link](https://query.nytimes.com/gst/abstract.html?res=9D02E1D71230E532A25753C3A9609C94619FD6CF&legacy=true)
-- Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
+- Source: "Transit Officials Brace for Rush on Tokens," *The New York Times*, June 30, 1980. [link](https://nyti.ms/2yfpKOo)
+- Tags: [carey](../tags/carey.md) [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
 
 ### Fare increases from 35 cents to 50 cents
+- Interesting era for transit funding, with city in fiscal trouble and federal dollars for transit beginning: "In this city, so close to insolvency, little more can be expected in direct subsidy out of existing tax funds. But there is need for quick action on a new regional tax to underwrite mass transit, of the kind now under study by a state legislative committee. There is also need for more substantial financial support from Washington, now that the initial breakthrough has been made on Federal subsidy for both operating and capital costs."
+- MTA ran a defecit, "even operating with more than a half-billion dollars in Federal, state and municipal subsidy"
+- Article was a call for improved labor costs and work practices
+- Mentions an experiment train that would have lower energy usage
+  - *not sure which model this would be*
 - Source: "Costlier Token," *The New York Times*, September 2, 1975. [link](http://www.nytimes.com/1975/09/02/archives/costlier-token.html)
 - Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
 
 ### Fare increases from 20 cents to 30 cents
+- Date: January 4, 1970
+- Old tokens could be redeemed for their 20 cent value, or used as 20 cents on buses
+- 26 million new tokens were ordered
+- Besides station booths, "900 additional outlets, including banks, shops, newstands and other private businesses that have been selling tokens in the past" would sell new ones
+- Special fare from 42nd and 8th to Aqueduct raised from 75 cents to $1
+  - *I wonder how this was enforced*
+- Half fares for those over 65 remained in effect
+- Old tokens would be put in storage for future need
+- 370 Jay St was authority's revenue department, where you could redeem old tokens over $3
 - Source: "New Tokens Go on Sale in Subways," *The New York Times*, January 3, 1970. [link](http://www.nytimes.com/1970/01/03/archives/new-tokens-go-on-sale-in-subways-30cent-tokens-are-put-on-sale-at.html)
 - Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
 
 ### Emergency exit bars added
 - Date: 2006
-
 - Emergency exit push bars were added to the previously locked gates
   - *NOT CONFIRMED* this was in response do the 2005 London Underground bombings
 - Source: "MTA finally silences subway emergency exit alarms," *New York Post*, December 31, 2004. [link](http://nypost.com/2014/12/31/mta-finally-silences-subway-emergency-exit-alarms/)
@@ -46,7 +108,6 @@
 - Tags: [kiley](../tags/kiley.md) [mta](../tags/mta.md) [todo](../tags/todo.md)
 
 ### New Yorker on Bob Kiley
-
 - MTA offices were at 347 Madison Avenue, near Grand Central
 - Britain's Labour party still (2004) gets most of its funding from unions
 - Kiley wanted public bondds to finance Tube improvements, Blair and Treasury wanted to use PPPs, let to privatization of the Tube
@@ -67,7 +128,6 @@
 
 ### MTA Courts Kiley
 - Date: October 8, 1983
-
 - Cuomo's counsel, Timothy Russert, sat with Kiley at Fenway during Yaz Day (Carl Yastrzemski's last game) to discuss the MTA job
 - The govenor's staff's codename for Kiley was "The Badge," "because he had been Deputy Mayor in charge of public safety in Boston from 1972 to 1975 and before that a C.I.A. official"
 - Source: "THE SECRET COURTING OF ROBERT KILEY," *The New York Times*, October 8, 1983. [link](http://www.nytimes.com/1983/10/08/nyregion/the-secret-courting-of-robert-kiley.html)
@@ -105,7 +165,6 @@
 
 ### Ravitch Commission
 - Date: December 4, 2008
-
 - Ravitch Commission unveils report on suggestions to close $1.2 billion deficit for 2009, after real estate transfer taxes and NYS corporate surcharge tax revenues dropped during the recession and Bloomberg’s congestion pricing plan failed in the state legislature
 - Source: [pcac](http://www.pcac.org/news/guide-ravitch-commission-report/)
 - Source: "Ravitch Unveils M.T.A. Rescue Plan," *The New York Times*, December 4, 2008. [link](https://cityroom.blogs.nytimes.com/2008/12/04/ravitch-unveils-mta-rescue-plan/?_r=0)
@@ -113,7 +172,6 @@
 
 ### Cuomo requests federal funds for high speed rail
 - Date: April 4, 2011
-
 - $295 million for MTA to construct Harold Interlocking (flyover for Amtrak NEC which currently must wait for LIRR)
 - It was approved (according the “The Road Back”) WAS THIS EVER BUILT???  
 - Source: [nyg](https://www.governor.ny.gov/news/governor-cuomo-seeks-federal-funds-high-speed-rail-projects)
@@ -121,7 +179,6 @@
 
 ### de Blasio pushes for "Millionaire's Tax"
 - Date: August 7, 2017
-
 - Would increase city income tax rate for those making over $500k from 3.9% to 4.4%
 - Expected to be paid by 32,000 NYers
 - Expected to raise $700-$800mil annually
@@ -132,7 +189,6 @@
 
 ### Conducting a Search For Origins Of 'One Fare'
 - Date: 1997
-
 - Article ran on day of MetroCard's introduction (July 4, 1997)
 - Peter Stangl (MTA chair in 1992) proposed "fare deal" to offset 25-cent fare hike with discounts and free transfers
 - Richard Ravitch (MTA chair in 1982) considered automated turnstile to allow riders from outer boroughs to reach Manhattan on a single fare
@@ -156,14 +212,12 @@
 
 ### MTA Bus Company created
 - Date: 2004
-
 - Funding came from LaGuardia connection?
 - Source: [apta](http://www.apta.com/passengertransport/Documents/archive_434.htm)
 - Tags: [mta](../tags/mta.md) [mta-bus](../tags/mta-bus.md)
 
 ### Congestion pricing dies after failing to reach a vote in the State Assembly
 - Date: April 7, 2008
-
 - Would have created $8 fee to enter parts of Manhattan
 - Would have raised $500mil annually and unlocked $354mil in immediate federal grants 
 - Source: "Congestion Pricing Plan Dies in Albany," *The New York Times*, April 7, 2008. [link](https://cityroom.blogs.nytimes.com/2008/04/07/congestion-pricing-plan-is-dead-assembly-speaker-says/)
@@ -175,7 +229,6 @@
 - Tags: [budget](../tags/budget.md) [mta](../tags/mta.md)
 
 ### Joseph Giulietti
-
 - Announced President of Metro North on January 9, 2014
   - Source: [MTA](http://www.mta.info/press-release/metro-north/mta-announces-new-president-metro-north-railroad)
 - Credited with rebuilding positive narrative surrounding MNR after Spuyten-Duyvil derailment which killed 4 in December 2013
@@ -184,7 +237,6 @@
 
 ### New York State Transportation Bond Act
 - Date: 2005
-
 - Provided $1.45 billion towards 2005-2009 MTA capital program from state (state assumes debt service….I think)
 - Source: [mta](http://web.mta.info/mta/bondact.htm)
 - Source: "Voters Approve Transit Bonds for $2.9 Billion," *The New York Times*, November 9, 2005. [link](http://www.nytimes.com/2005/11/09/nyregion/metrocampaigns/voters-approve-transit-bonds-for-29-billion.html?_r=0)
@@ -192,7 +244,6 @@
 
 ### Fare increases from $1.25 to $1.50
 - Date: November 12, 1995
-
 - Board voted to increase fare to $1.50 on October 19, 1995, a 20% increase
 - To take effect on November 12
   - One week delay cost the MTA $5.3mil
@@ -207,7 +258,6 @@
 - Tags: [conway](../tags/conway.md) [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
 
 ### MTA To Find
-
 - Bear, Stearns & Co. Metropolitan Transportation Authority, Finances of Mass Transit Services in New York City. New York: Bear Stearns, 1983.
   - Source: [WorldCat](http://www.worldcat.org/title/metropolitan-transit-authority-finances-of-mass-transit-services-in-new-york-city/oclc/26468223&referer=brief_results)
 - Crowell, William H. "Financing mass transit in New York City" 
@@ -217,7 +267,6 @@
 - Tags: [mta](../tags/mta.md) [todo](../tags/todo.md)
 
 ### MTA Misc
-
 - Late 60s Stuff
   - [NYT 1](http://query.nytimes.com/gst/abstract.html?res=9801E1DB1138E134BC4151DFB4668383679EDE&legacy=true)
   - [NYT 2 - Rockefeller 1971](http://www.nytimes.com/1971/03/21/archives/rockefeller-asks-25billion-bonds-to-aid-transport-50-of-funds-from.html)
@@ -262,7 +311,6 @@
 
 ### Reagan Administration says MTA violated international trade agreements
 - Date: May 28, 1982
-
 - Canadian Export Development Corporation agreed to lend the MTA $563mil (85% of $662mil car purchase price) at 9.7% for 15 years
   - OECD minimum rate at the time was 11.25% for terms of length 5-8.5 years
 - Source: "U.S. SEES VIOLATION OF TRADE ACCORDS IN M.T.A. PROPOSAL," *The New York Times*, May 29, 1982. [link](http://www.nytimes.com/1982/05/29/nyregion/us-sees-violation-of-trade-accords-in-mta-proposal.html)
@@ -275,7 +323,6 @@
 
 ### NY State Legislature approves 5 taxes to provide MTA operating assistance
 - Date: July 10, 1981
-
 - Avoided fare increase from $0.75 to $1
 - Five taxes:
   - "The gross-receipts tax on the oil companies."
@@ -289,7 +336,6 @@
 
 ### Third Avenue El closes in the Bronx
 - Date: April 29, 1973
-
 - Last stretch to close was between Gun Hill Road and 149th St
 - Ran 12 blocks east of the IND Concourse Line
 - Replaced with buses seemingly to lower an operating defecit
@@ -298,7 +344,6 @@
 
 ### Ronan pleads for 1971 state transportation bond issue
 - Date: October 5, 1971
-
 - It would fail at the ballot a month later
 - $2.5bil issue would be split $1.35bil for transit and $1.15bil for highways
   - A rarity to have transit amount greater than highways, and Ronan knew it
@@ -312,14 +357,12 @@
 
 ### Regional Transportation Program
 - Date: August 1969
-
 - Highlights expansions and improvements as part of Mayor John Lindsay's "Program for Action"
 - Source: "Regional Transportation Program," *Metropolitan Transportation Authority*, August 1969. [link](https://ia800502.us.archive.org/14/items/regionaltranspor00newy/regionaltranspor00newy.pdf)
 - Tags: [expansion](../tags/expansion.md) [mta](../tags/mta.md) [program-for-action](../tags/program-for-action.md) [reports](../tags/reports.md)
 
 ### Fare raised from $1.15 to $1.25
 - Date: January 1, 1992
-
 - Took effect at midnight, handwritten signs announced day before
   - Passengers only allowed to buy 4 tokens at old fare to prevent hoarding
   - Created new physical token to prevent use of slugs (*does this mean fakes?*)
@@ -338,7 +381,6 @@
 
 ### Board of Estimate approves Second Avenue Subway and 11 other new routes
 - Date: September 21, 1968
-
 - Program cost of $1.26bil was to be split
   - $600mil from state from bond issue ($2.5bil approved by voters in November 1967)
   - $500mil from city, "borrowed through its capital-budget allocations"
@@ -349,14 +391,12 @@
 
 ### 63rd St Tunnel Location Debated
 - Date: 1964
-
 - CBC thought tunnel on 61st St would lead to better East Side IRT and future line connections
 - Source: "Proposed Subway Tube Assailed As 'Nowhere-to-Nowhere' Lin," *The New York Times*, December 16, 1964. [link](http://query.nytimes.com/gst/abstract.html?res=980CE1D71739E633A25755C1A9649D946591D6CF&legacy=true)
 - Tags: [expansion](../tags/expansion.md) [mta](../tags/mta.md)
 
 ### The Light at the End of the Subway
 - Date: February 1, 1982
-
 - Only 10 subway stations had ever been modernized (as of 1982)
 - Capital plan money couldn't be used by law for hiring additional police, but it could fund crime fighting indirectly through safer station design and CCTV
 - Staten Island Railroad (here called Staten Island Rapid Transit line) stations to be extended to support four-car trains from three)
@@ -382,13 +422,11 @@
 - Tags: [articles](../tags/articles.md) [capital-plan](../tags/capital-plan.md) [mta](../tags/mta.md)
 
 ### Still to Read
-
 - [New York Magazine](https://books.google.com/books?id=_eUCAAAAMBAJ&lpg=PP1&ots=REBlbnHsOh&dq=1981%2020%20ways%20to%20save%20our%20subway%20and%20buses&pg=PA24#v=onepage&q&f=false), "20 Ways to Save Our Subways and Buses," January 26, 1981.
 - Tags: [mta](../tags/mta.md)
 
 ### "The Man at the Wheel of the M.T.A." - Ravitch in New York Magazine
 - Date: February 1, 1982
-
 - "A Nelson A. Rockefeller creation, the Metropolitan Transportation Authority was set up in 1968 to coordinate public transit and insulate the mayor and governor from complaints about fare increases."
 - Under Ronan, fares rose from 20 cents to 35
 - David L. Yunich was appointed by Malcom Wilson to succeed Ronan, and oversaw fare increases from 35 cents to 50
@@ -398,7 +436,6 @@
 
 ### Governance Assessment of MTA Capital Program Mega Projects
 - Date: November 2010
-
 - Capital Program Oversight Committee (CPOC) consists of MTA board members
 - Independent Engineering Consultant (IEC) exists to help CPOC understand technical parts of capital projects
 - MTAHQ Office of Construction Oversight (OCO) manages the IEC

@@ -5,7 +5,6 @@
 
 ### Ronan pleads for 1971 state transportation bond issue
 - Date: October 5, 1971
-
 - It would fail at the ballot a month later
 - $2.5bil issue would be split $1.35bil for transit and $1.15bil for highways
   - A rarity to have transit amount greater than highways, and Ronan knew it

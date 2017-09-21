@@ -16,14 +16,12 @@
 
 ### Regional Transportation Program
 - Date: August 1969
-
 - Highlights expansions and improvements as part of Mayor John Lindsay's "Program for Action"
 - Source: "Regional Transportation Program," *Metropolitan Transportation Authority*, August 1969. [link](https://ia800502.us.archive.org/14/items/regionaltranspor00newy/regionaltranspor00newy.pdf)
 - Tags: [expansion](../tags/expansion.md) [mta](../tags/mta.md) [program-for-action](../tags/program-for-action.md) [reports](../tags/reports.md)
 
 ### Governance Assessment of MTA Capital Program Mega Projects
 - Date: November 2010
-
 - Capital Program Oversight Committee (CPOC) consists of MTA board members
 - Independent Engineering Consultant (IEC) exists to help CPOC understand technical parts of capital projects
 - MTAHQ Office of Construction Oversight (OCO) manages the IEC

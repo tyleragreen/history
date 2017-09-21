@@ -31,7 +31,6 @@
 
 ### The Light at the End of the Subway
 - Date: February 1, 1982
-
 - Only 10 subway stations had ever been modernized (as of 1982)
 - Capital plan money couldn't be used by law for hiring additional police, but it could fund crime fighting indirectly through safer station design and CCTV
 - Staten Island Railroad (here called Staten Island Rapid Transit line) stations to be extended to support four-car trains from three)
@@ -58,7 +57,6 @@
 
 ### "The Man at the Wheel of the M.T.A." - Ravitch in New York Magazine
 - Date: February 1, 1982
-
 - "A Nelson A. Rockefeller creation, the Metropolitan Transportation Authority was set up in 1968 to coordinate public transit and insulate the mayor and governor from complaints about fare increases."
 - Under Ronan, fares rose from 20 cents to 35
 - David L. Yunich was appointed by Malcom Wilson to succeed Ronan, and oversaw fare increases from 35 cents to 50
@@ -67,7 +65,6 @@
 - Tags: [articles](../tags/articles.md) [mta](../tags/mta.md) [ravitch](../tags/ravitch.md)
 
 ### New York City Housing Crisis
-
 - Preferential Rent - [New York State Division of Housing and Community Renewal](http://www.nyshcr.org/Rent/FactSheets/orafac40.pdf)
 - Vacancy Bonus - [New York City Rent Guidelines Board](http://www.nycrgb.org/html/glossary_defs.html#vacancy)
 - 421-a Tax Incentive Program - [NYU Furman](http://furmancenter.org/institute/directory/entry/421-a-tax-incentive)

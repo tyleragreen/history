@@ -41,7 +41,6 @@
 
 ### The Light at the End of the Subway
 - Date: February 1, 1982
-
 - Only 10 subway stations had ever been modernized (as of 1982)
 - Capital plan money couldn't be used by law for hiring additional police, but it could fund crime fighting indirectly through safer station design and CCTV
 - Staten Island Railroad (here called Staten Island Rapid Transit line) stations to be extended to support four-car trains from three)

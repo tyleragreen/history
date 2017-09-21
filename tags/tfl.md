@@ -1,6 +1,5 @@
 # tfl
 ### New Yorker on Bob Kiley
-
 - MTA offices were at 347 Madison Avenue, near Grand Central
 - Britain's Labour party still (2004) gets most of its funding from unions
 - Kiley wanted public bondds to finance Tube improvements, Blair and Treasury wanted to use PPPs, let to privatization of the Tube

@@ -1,7 +1,6 @@
 # conway
 ### Fare increases from $1.25 to $1.50
 - Date: November 12, 1995
-
 - Board voted to increase fare to $1.50 on October 19, 1995, a 20% increase
 - To take effect on November 12
   - One week delay cost the MTA $5.3mil

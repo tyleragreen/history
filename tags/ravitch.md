@@ -31,7 +31,6 @@
 
 ### Ravitch Commission
 - Date: December 4, 2008
-
 - Ravitch Commission unveils report on suggestions to close $1.2 billion deficit for 2009, after real estate transfer taxes and NYS corporate surcharge tax revenues dropped during the recession and Bloomberg’s congestion pricing plan failed in the state legislature
 - Source: [pcac](http://www.pcac.org/news/guide-ravitch-commission-report/)
 - Source: "Ravitch Unveils M.T.A. Rescue Plan," *The New York Times*, December 4, 2008. [link](https://cityroom.blogs.nytimes.com/2008/12/04/ravitch-unveils-mta-rescue-plan/?_r=0)
@@ -39,7 +38,6 @@
 
 ### Reagan Administration says MTA violated international trade agreements
 - Date: May 28, 1982
-
 - Canadian Export Development Corporation agreed to lend the MTA $563mil (85% of $662mil car purchase price) at 9.7% for 15 years
   - OECD minimum rate at the time was 11.25% for terms of length 5-8.5 years
 - Source: "U.S. SEES VIOLATION OF TRADE ACCORDS IN M.T.A. PROPOSAL," *The New York Times*, May 29, 1982. [link](http://www.nytimes.com/1982/05/29/nyregion/us-sees-violation-of-trade-accords-in-mta-proposal.html)
@@ -52,7 +50,6 @@
 
 ### "The Man at the Wheel of the M.T.A." - Ravitch in New York Magazine
 - Date: February 1, 1982
-
 - "A Nelson A. Rockefeller creation, the Metropolitan Transportation Authority was set up in 1968 to coordinate public transit and insulate the mayor and governor from complaints about fare increases."
 - Under Ronan, fares rose from 20 cents to 35
 - David L. Yunich was appointed by Malcom Wilson to succeed Ronan, and oversaw fare increases from 35 cents to 50

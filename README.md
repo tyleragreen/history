@@ -1,5 +1,14 @@
 # Urban History
 I'm studying urban history and these are my notes. Focus will be placed on all financial aspects, particularly those of New York City and the [Metropolitan Transportation Authority](http://www.mta.info).
+### 63rd St Tunnel Connection Opens
+- Date: December 16, 2001
+- Start of V service was delayed by 9/11
+- V to run between Forest Hills-71 St and Second Avenue on the Lower East Side
+- Expected to increase service on Queens Boulevard by up to 20%
+- Uses $645mil tunnel connecting Queens Boulevard lines to 63 St Tunnel
+- Source: "New Subway Line To Start," *The New York Times*, November 28, 2001. [link](http://www.nytimes.com/2001/11/28/nyregion/metro-briefing-new-york-manhattan-new-subway-line-to-start.html)
+- Tags: [expansion](tags/expansion.md) [mta](tags/mta.md)
+
 ### Board of Estimate approves Second Avenue bond vote
 - Source: "$500,000,000 VOTED FOR 2D AVE. SUBWAY BY ESTIMATE BOARD," *The New York Times*, September 14, 1951. [link](https://nyti.ms/2yeYK1C)
 - Tags: [bonds](tags/bonds.md) [mta](tags/mta.md) [second-avenue](tags/second-avenue.md) [todo](tags/todo.md)

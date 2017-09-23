@@ -21,15 +21,6 @@
 - Source: "Transit Fare Situation," *The New York Times*, January 2, 1972. [link](https://nyti.ms/2yfpFdo)
 - Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
 
-**September 2, 1975** - Fare increases from 35 cents to 50 cents
-- Interesting era for transit funding, with city in fiscal trouble and federal dollars for transit beginning: "In this city, so close to insolvency, little more can be expected in direct subsidy out of existing tax funds. But there is need for quick action on a new regional tax to underwrite mass transit, of the kind now under study by a state legislative committee. There is also need for more substantial financial support from Washington, now that the initial breakthrough has been made on Federal subsidy for both operating and capital costs."
-- MTA ran a defecit, "even operating with more than a half-billion dollars in Federal, state and municipal subsidy"
-- Article was a call for improved labor costs and work practices
-- Mentions an experiment train that would have lower energy usage
-  - *not sure which model this would be*
-- Source: "Costlier Token," *The New York Times*, September 2, 1975. [link](http://www.nytimes.com/1975/09/02/archives/costlier-token.html)
-- Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
-
 **January 4, 1970** - Fare increases from 20 cents to 30 cents
 - Old tokens could be redeemed for their 20 cent value, or used as 20 cents on buses
 - 26 million new tokens were ordered
@@ -40,6 +31,15 @@
 - Old tokens would be put in storage for future need
 - 370 Jay St was authority's revenue department, where you could redeem old tokens over $3
 - Source: "New Tokens Go on Sale in Subways," *The New York Times*, January 3, 1970. [link](http://www.nytimes.com/1970/01/03/archives/new-tokens-go-on-sale-in-subways-30cent-tokens-are-put-on-sale-at.html)
+- Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
+
+**September 2, 1975** - Fare increases from 35 cents to 50 cents
+- Interesting era for transit funding, with city in fiscal trouble and federal dollars for transit beginning: "In this city, so close to insolvency, little more can be expected in direct subsidy out of existing tax funds. But there is need for quick action on a new regional tax to underwrite mass transit, of the kind now under study by a state legislative committee. There is also need for more substantial financial support from Washington, now that the initial breakthrough has been made on Federal subsidy for both operating and capital costs."
+- MTA ran a defecit, "even operating with more than a half-billion dollars in Federal, state and municipal subsidy"
+- Article was a call for improved labor costs and work practices
+- Mentions an experiment train that would have lower energy usage
+  - *not sure which model this would be*
+- Source: "Costlier Token," *The New York Times*, September 2, 1975. [link](http://www.nytimes.com/1975/09/02/archives/costlier-token.html)
 - Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
 
 ## 1980s

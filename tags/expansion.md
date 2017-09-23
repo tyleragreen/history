@@ -1,4 +1,13 @@
 # expansion
+### 63rd St Tunnel Connection Opens
+- Date: December 16, 2001
+- Start of V service was delayed by 9/11
+- V to run between Forest Hills-71 St and Second Avenue on the Lower East Side
+- Expected to increase service on Queens Boulevard by up to 20%
+- Uses $645mil tunnel connecting Queens Boulevard lines to 63 St Tunnel
+- Source: "New Subway Line To Start," *The New York Times*, November 28, 2001. [link](http://www.nytimes.com/2001/11/28/nyregion/metro-briefing-new-york-manhattan-new-subway-line-to-start.html)
+- Tags: [expansion](../tags/expansion.md) [mta](../tags/mta.md)
+
 ### Regional Transportation Program
 - Date: August 1969
 - Highlights expansions and improvements as part of Mayor John Lindsay's "Program for Action"

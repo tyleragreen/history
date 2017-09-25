@@ -38,6 +38,7 @@
 
 ## 1960s
 **1963** - School Children Fare Debate
+- *Was this the beginning of the end for 100% farebox recovery?*
 - Source: "The 20-Cent Fare Arrives," *The New York Times*, October 26, 1963. [link](https://nyti.ms/2jX2uSY)
 - Source: "City to Add 9 Million Aid To Help Keep 15c Fare," *The New York Times*, July 10, 1963. [link](https://nyti.ms/2jW4Mlg)
 - Source: "NEW TRANSIT AID IS LINKED TO FARE," *The New York Times*, October 16, 1963. [link](https://nyti.ms/2jYP8px)
@@ -161,21 +162,21 @@
 - Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md) [prendergast](../tags/prendergast.md)
 
 ## Undated Notes
-### Fare increases from 75 cents to 90 cents
-- Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
-
 ### Fare increases from 60 cents to 75 cents
 - Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
 
-### Fare increases from $2 to $2.25
+### Fare increases from 75 cents to 90 cents
 - Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
 
 ### Fare increases from $1 to $1.15
 - Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
 
-### Fare increases from $2.25 to $2.50
+### Fare increases from $1.50 to $2
 - Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
 
-### Fare increases from $1.50 to $2
+### Fare increases from $2 to $2.25
+- Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
+
+### Fare increases from $2.25 to $2.50
 - Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
 

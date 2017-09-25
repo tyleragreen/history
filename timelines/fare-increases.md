@@ -1,6 +1,7 @@
 # fare-increases Timeline
 ## Decades
 - [1940s](#1940s)
+- [1950s](#1950s)
 - [1970s](#1970s)
 - [1980s](#1980s)
 - [1990s](#1990s)
@@ -11,16 +12,30 @@
 - Source: "Report for the three and one-half years ending June 30, 1949.," *The City of New York Board of Transportation*, 82, 1949. [link](https://hdl.handle.net/2027/mdp.39015023094926)
 - Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md) [reports](../tags/reports.md)
 
-## 1970s
-**January 2, 1972** - Fare increases from 30 cents to 35 cents
-- Increase could rise to 45 cents due to new "trasit contract"
-  - Depedendent on size of tax package to be considered in Albany
-- MTA board had 11 members
-- Could reuse old tokens or create new ones
-- Fare increase required approval from Federal Price Commission
-- Source: "Transit Fare Situation," *The New York Times*, January 2, 1972. [link](https://nyti.ms/2yfpFdo)
+## 1950s
+**July 25, 1953** - Fare increases from 10 cents to 15 cents
+- Legislature prohibits NYCTA running an operational deficit
+- Board at the time appears to be 5 members (pre-MTA)
+- For years, 5-cent fare had produced operating surplus
+  - Operatuing surplus of $28mil in 1941
+  - Operating deficits of $17mil and $31mil in 1947 and 1948, respectively
+- O'Dwyer ended the 5-cent fare in 1948 because it was effectively damaging schools and hospitals
+- The July 25th effective date for 15-cent fare is a week ahead of legal deadline
+- Ridership decline of 11% expected
+  - Ridership had been falling 2-3% annually, independent of fare increases
+- Recent changes to hurt transit finances
+  - Five-day work-week
+  - Longer vacations
+  - More paid holidays
+  - Increased private automobile use
+  - 40-hour work week
+- Transit agency payroll tripled in a decade
+- Deferred maintenance backlog estimated to be $75mil
+- General Hugh J. Casey was authority chairman
+- Source: "THE 15-CENT FARE," *The New York Times*, July 14, 1953. [link](https://nyti.ms/2yorMfe)
 - Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
 
+## 1970s
 **January 4, 1970** - Fare increases from 20 cents to 30 cents
 - Old tokens could be redeemed for their 20 cent value, or used as 20 cents on buses
 - 26 million new tokens were ordered
@@ -33,6 +48,15 @@
 - Source: "New Tokens Go on Sale in Subways," *The New York Times*, January 3, 1970. [link](http://www.nytimes.com/1970/01/03/archives/new-tokens-go-on-sale-in-subways-30cent-tokens-are-put-on-sale-at.html)
 - Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
 
+**January 2, 1972** - Fare increases from 30 cents to 35 cents
+- Increase could rise to 45 cents due to new "trasit contract"
+  - Depedendent on size of tax package to be considered in Albany
+- MTA board had 11 members
+- Could reuse old tokens or create new ones
+- Fare increase required approval from Federal Price Commission
+- Source: "Transit Fare Situation," *The New York Times*, January 2, 1972. [link](https://nyti.ms/2yfpFdo)
+- Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
+
 **September 2, 1975** - Fare increases from 35 cents to 50 cents
 - Interesting era for transit funding, with city in fiscal trouble and federal dollars for transit beginning: "In this city, so close to insolvency, little more can be expected in direct subsidy out of existing tax funds. But there is need for quick action on a new regional tax to underwrite mass transit, of the kind now under study by a state legislative committee. There is also need for more substantial financial support from Washington, now that the initial breakthrough has been made on Federal subsidy for both operating and capital costs."
 - MTA ran a defecit, "even operating with more than a half-billion dollars in Federal, state and municipal subsidy"
@@ -43,16 +67,6 @@
 - Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
 
 ## 1980s
-**January 1, 1986** - Fare increases from 90 cents to $1
-- Legislature saved 90-cent fare at end of 1984 by extending a corporate tax surcharge that helps subsidize mass transit in the NYC metro
-- Increase came as Transit Authority faced potential $225mil operating defecit for 1986
-  - *When did they stop calling themselves the Transit Authority?*
-- Koch wanted to keep 90-cent fare for another year through a state increase of tax on real estate transactions greater than $1mil in the city
-- Cuomo said keeping 90-cent fare was not in his priorities, and wanted the legislature to focus on medical malpractice insurance
-  - Koch responded, "I mean, you have to be able to do more than chew gum."
-- Source: "THE REGION; THE LAST DAYS OF THE 90-CENT FARE," *The New York Times*, December 8, 1985. [link](http://www.nytimes.com/1985/12/08/weekinreview/the-region-the-last-days-of-the-90-cent-fare.html)
-- Tags: [cuomo-mario](../tags/cuomo-mario.md) [fare-increases](../tags/fare-increases.md) [koch](../tags/koch.md) [mta](../tags/mta.md)
-
 **June 28, 1980** - Fare increases from 50 cents to 60 cents
 - Carey refused to rule out another increase
 - MNR referred to as "Conrail's commuter lines north of the city"
@@ -63,21 +77,17 @@
 - Source: "Transit Officials Brace for Rush on Tokens," *The New York Times*, June 30, 1980. [link](https://nyti.ms/2yfpKOo)
 - Tags: [carey](../tags/carey.md) [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
 
-## 1990s
-**November 12, 1995** - Fare increases from $1.25 to $1.50
-- Board voted to increase fare to $1.50 on October 19, 1995, a 20% increase
-- To take effect on November 12
-  - One week delay cost the MTA $5.3mil
-  - New token introduced to prevent hoarding, last before MetroCard
-- 20% increases had been avoided since 1984 by Govenor or Mayor eventually providing more funds
-- E. Virgil Conway was MTA chair at the time
-- New York Urban League and Straphanger's Campaign said they would sue MTA in federal court saying the fare increase would "violate the 1964 Civil Rights Act because it would affect the poor, blacks and Hispanic people most heavily"
-  - DID THIS HAPPEN?
-- Canceled fare increase on express buses from $4 to $5, saying they wouldn't be able to compete with private buses
-  - Express buses are biggest money losers in the system
-- Source: "THE $1.50 SUBWAY RIDE: THE OVERVIEW;M.T.A. VOTE RAISES FARE ON SUBWAYS AND BUSES TO $1.50," *The New York Times*, October 20, 1995. [link](http://www.nytimes.com/1995/10/20/nyregion/1.50-subway-ride-overview-mta-vote-raises-fare-subways-buses-1.50.html?pagewanted=all)
-- Tags: [conway](../tags/conway.md) [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
+**January 1, 1986** - Fare increases from 90 cents to $1
+- Legislature saved 90-cent fare at end of 1984 by extending a corporate tax surcharge that helps subsidize mass transit in the NYC metro
+- Increase came as Transit Authority faced potential $225mil operating defecit for 1986
+  - *When did they stop calling themselves the Transit Authority?*
+- Koch wanted to keep 90-cent fare for another year through a state increase of tax on real estate transactions greater than $1mil in the city
+- Cuomo said keeping 90-cent fare was not in his priorities, and wanted the legislature to focus on medical malpractice insurance
+  - Koch responded, "I mean, you have to be able to do more than chew gum."
+- Source: "THE REGION; THE LAST DAYS OF THE 90-CENT FARE," *The New York Times*, December 8, 1985. [link](http://www.nytimes.com/1985/12/08/weekinreview/the-region-the-last-days-of-the-90-cent-fare.html)
+- Tags: [cuomo-mario](../tags/cuomo-mario.md) [fare-increases](../tags/fare-increases.md) [koch](../tags/koch.md) [mta](../tags/mta.md)
 
+## 1990s
 **January 1, 1992** - Fare raised from $1.15 to $1.25
 - Took effect at midnight, handwritten signs announced day before
   - Passengers only allowed to buy 4 tokens at old fare to prevent hoarding
@@ -94,6 +104,20 @@
       - Senate Transportation Committee chairman Norman Levy claimed this, but MTA officials denied this
 - Source: "Token price rises 10 cents to $1.25 in New York City," *The New York Times*, January 1, 1992. [link](http://www.nytimes.com/1992/01/01/nyregion/token-price-rises-10-cents-to-1.25-in-new-york-city.html)
 - Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md) [stangl](../tags/stangl.md)
+
+**November 12, 1995** - Fare increases from $1.25 to $1.50
+- Board voted to increase fare to $1.50 on October 19, 1995, a 20% increase
+- To take effect on November 12
+  - One week delay cost the MTA $5.3mil
+  - New token introduced to prevent hoarding, last before MetroCard
+- 20% increases had been avoided since 1984 by Govenor or Mayor eventually providing more funds
+- E. Virgil Conway was MTA chair at the time
+- New York Urban League and Straphanger's Campaign said they would sue MTA in federal court saying the fare increase would "violate the 1964 Civil Rights Act because it would affect the poor, blacks and Hispanic people most heavily"
+  - *did this happen?*
+- Canceled fare increase on express buses from $4 to $5, saying they wouldn't be able to compete with private buses
+  - Express buses are biggest money losers in the system
+- Source: "THE $1.50 SUBWAY RIDE: THE OVERVIEW;M.T.A. VOTE RAISES FARE ON SUBWAYS AND BUSES TO $1.50," *The New York Times*, October 20, 1995. [link](http://www.nytimes.com/1995/10/20/nyregion/1.50-subway-ride-overview-mta-vote-raises-fare-subways-buses-1.50.html?pagewanted=all)
+- Tags: [conway](../tags/conway.md) [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
 
 ## 2010s
 **January 22, 2015** - Fare increases from $2.50 to $2.75

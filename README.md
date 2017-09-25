@@ -1,5 +1,28 @@
 # Urban History
 I'm studying urban history and these are my notes. Focus will be placed on all financial aspects, particularly those of New York City and the [Metropolitan Transportation Authority](http://www.mta.info).
+### Fare increases from 10 cents to 15 cents
+- Date: July 25, 1953
+- Legislature prohibits NYCTA running an operational deficit
+- Board at the time appears to be 5 members (pre-MTA)
+- For years, 5-cent fare had produced operating surplus
+  - Operatuing surplus of $28mil in 1941
+  - Operating deficits of $17mil and $31mil in 1947 and 1948, respectively
+- O'Dwyer ended the 5-cent fare in 1948 because it was effectively damaging schools and hospitals
+- The July 25th effective date for 15-cent fare is a week ahead of legal deadline
+- Ridership decline of 11% expected
+  - Ridership had been falling 2-3% annually, independent of fare increases
+- Recent changes to hurt transit finances
+  - Five-day work-week
+  - Longer vacations
+  - More paid holidays
+  - Increased private automobile use
+  - 40-hour work week
+- Transit agency payroll tripled in a decade
+- Deferred maintenance backlog estimated to be $75mil
+- General Hugh J. Casey was authority chairman
+- Source: "THE 15-CENT FARE," *The New York Times*, July 14, 1953. [link](https://nyti.ms/2yorMfe)
+- Tags: [fare-increases](tags/fare-increases.md) [mta](tags/mta.md)
+
 ### 63rd St Tunnel Connection Opens
 - Date: December 16, 2001
 - Start of V service was delayed by 9/11
@@ -292,7 +315,7 @@ I'm studying urban history and these are my notes. Focus will be placed on all f
 - 20% increases had been avoided since 1984 by Govenor or Mayor eventually providing more funds
 - E. Virgil Conway was MTA chair at the time
 - New York Urban League and Straphanger's Campaign said they would sue MTA in federal court saying the fare increase would "violate the 1964 Civil Rights Act because it would affect the poor, blacks and Hispanic people most heavily"
-  - DID THIS HAPPEN?
+  - *did this happen?*
 - Canceled fare increase on express buses from $4 to $5, saying they wouldn't be able to compete with private buses
   - Express buses are biggest money losers in the system
 - Source: "THE $1.50 SUBWAY RIDE: THE OVERVIEW;M.T.A. VOTE RAISES FARE ON SUBWAYS AND BUSES TO $1.50," *The New York Times*, October 20, 1995. [link](http://www.nytimes.com/1995/10/20/nyregion/1.50-subway-ride-overview-mta-vote-raises-fare-subways-buses-1.50.html?pagewanted=all)

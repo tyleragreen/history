@@ -1,4 +1,11 @@
 # mta
+### School Children Fare Debate
+- Date: 1963
+- Source: "The 20-Cent Fare Arrives," *The New York Times*, October 26, 1963. [link](https://nyti.ms/2jX2uSY)
+- Source: "City to Add 9 Million Aid To Help Keep 15c Fare," *The New York Times*, July 10, 1963. [link](https://nyti.ms/2jW4Mlg)
+- Source: "NEW TRANSIT AID IS LINKED TO FARE," *The New York Times*, October 16, 1963. [link](https://nyti.ms/2jYP8px)
+- Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
+
 ### Fare increases from $2.25 to $2.50
 - Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
 
@@ -93,7 +100,6 @@
 - [NYT in 1948](https://nyti.ms/2jWogXe) on high transit revenues
 - [NYT in 1914](https://nyti.ms/2jZJG5Q) on state railroad fares
 - [NYT in 1961](https://nyti.ms/2ynoNUm) on potential 20 cent fare
-- [NYT in 1963](https://nyti.ms/2jX2uSY) on city subsidizing school children under 15 cent fare
 - [City Journal](https://www.city-journal.org/html/how-save-subways%E2%80%94-it%E2%80%99s-too-late-12855.html) on some various MTA history
 - [MTA](https://web.archive.org/web/20101122052827/http://mta.info/mta/pdf/approved_fares.pdf) on late 2010 fares
 - [NYT](https://cityroom.blogs.nytimes.com/2009/03/25/mta-board-meets-to-vote-on-fare-hikes/) on 2009 fare increase

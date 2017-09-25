@@ -18,6 +18,8 @@
 - Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
 
 ### Fare increases from 15 cents to 20 cents
+- Date: July 5, 1966
+- Source: "REACTIONS MIXED TO 20-CENT FARE," *The New York Times*, July 6, 1966. [link](https://nyti.ms/2ynACd6)
 - Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
 
 ### Fare increases from 10 cents to 15 cents

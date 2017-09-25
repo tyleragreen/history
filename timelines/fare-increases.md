@@ -2,6 +2,7 @@
 ## Decades
 - [1940s](#1940s)
 - [1950s](#1950s)
+- [1960s](#1960s)
 - [1970s](#1970s)
 - [1980s](#1980s)
 - [1990s](#1990s)
@@ -33,6 +34,11 @@
 - Deferred maintenance backlog estimated to be $75mil
 - General Hugh J. Casey was authority chairman
 - Source: "THE 15-CENT FARE," *The New York Times*, July 14, 1953. [link](https://nyti.ms/2yorMfe)
+- Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
+
+## 1960s
+**July 5, 1966** - Fare increases from 15 cents to 20 cents
+- Source: "REACTIONS MIXED TO 20-CENT FARE," *The New York Times*, July 6, 1966. [link](https://nyti.ms/2ynACd6)
 - Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
 
 ## 1970s
@@ -149,9 +155,6 @@
 - Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md) [prendergast](../tags/prendergast.md)
 
 ## Undated Notes
-### Fare increases from 15 cents to 20 cents
-- Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
-
 ### Fare increases from 60 cents to 75 cents
 - Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
 

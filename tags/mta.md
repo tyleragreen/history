@@ -1,4 +1,25 @@
 # mta
+### Fare increases from $2.25 to $2.50
+- Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
+
+### Fare increases from $2 to $2.25
+- Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
+
+### Fare increases from $1.50 to $2
+- Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
+
+### Fare increases from $1 to $1.15
+- Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
+
+### Fare increases from 75 cents to 90 cents
+- Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
+
+### Fare increases from 60 cents to 75 cents
+- Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
+
+### Fare increases from 15 cents to 20 cents
+- Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
+
 ### Fare increases from 10 cents to 15 cents
 - Date: July 25, 1953
 - Legislature prohibits NYCTA running an operational deficit

@@ -1,5 +1,6 @@
 # fare-increases Timeline
 ## Decades
+- [1900s](#1900s)
 - [1940s](#1940s)
 - [1950s](#1950s)
 - [1960s](#1960s)
@@ -7,6 +8,12 @@
 - [1980s](#1980s)
 - [1990s](#1990s)
 - [2010s](#2010s)
+
+## 1900s
+**October 27, 1904** - Fare starts at 5 cents
+- "And would the uniform five-cent fare, stipulated by the Rapid Transit Acts of 1891 and 1894, be enough to cover these contingencies?"
+- Source: Wallace B. Katz, "The New York Rapid Transit Decision of 1900," *Historic American Engineering Record*, 2-144, 1979. [link](https://www.nycsubway.org/wiki/The_New_York_Rapid_Transit_Decision_of_1900_(Katz))
+- Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
 
 ## 1940s
 **July 1, 1948** - Fare increases from 5 cents to 10 cents
@@ -162,21 +169,21 @@
 - Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md) [prendergast](../tags/prendergast.md)
 
 ## Undated Notes
-### Fare increases from 60 cents to 75 cents
-- Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
-
-### Fare increases from 75 cents to 90 cents
-- Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
-
 ### Fare increases from $1 to $1.15
+- Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
+
+### Fare increases from 60 cents to 75 cents
 - Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
 
 ### Fare increases from $1.50 to $2
 - Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
 
-### Fare increases from $2 to $2.25
+### Fare increases from 75 cents to 90 cents
 - Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
 
 ### Fare increases from $2.25 to $2.50
+- Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
+
+### Fare increases from $2 to $2.25
 - Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
 

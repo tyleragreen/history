@@ -1,4 +1,8 @@
 # todo
+### HUD Vouchers
+- Source: Michael Winerip, "In New York,, H.U.D.'s Vouchers Pay for Already Cheap Housing," *The New York Times*, December 31, 1989. [link](https://nyti.ms/2yq98DU)
+- Tags: [housing](../tags/housing.md) [nyc](../tags/nyc.md) [todo](../tags/todo.md)
+
 ### Board of Estimate approves Second Avenue bond vote
 - Source: "$500,000,000 VOTED FOR 2D AVE. SUBWAY BY ESTIMATE BOARD," *The New York Times*, September 14, 1951. [link](https://nyti.ms/2yeYK1C)
 - Tags: [bonds](../tags/bonds.md) [mta](../tags/mta.md) [second-avenue](../tags/second-avenue.md) [todo](../tags/todo.md)

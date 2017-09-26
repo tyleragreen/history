@@ -1,4 +1,8 @@
 # nyc
+### HUD Vouchers
+- Source: Michael Winerip, "In New York,, H.U.D.'s Vouchers Pay for Already Cheap Housing," *The New York Times*, December 31, 1989. [link](https://nyti.ms/2yq98DU)
+- Tags: [housing](../tags/housing.md) [nyc](../tags/nyc.md)
+
 ### Stuyvesant Town and Peter Cooper Village Sold
 - Sold to Tishman Speyer Properties for $5.4bil
 - Built by MetLife

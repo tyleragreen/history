@@ -1,5 +1,9 @@
 # Urban History
 This document accompanies my urban history studies. Focus will be placed on all financial aspects of public policy, particularly those of New York City and the [Metropolitan Transportation Authority](http://www.mta.info).
+### HUD Vouchers
+- Source: Michael Winerip, "In New York,, H.U.D.'s Vouchers Pay for Already Cheap Housing," *The New York Times*, December 31, 1989. [link](https://nyti.ms/2yq98DU)
+- Tags: [housing](tags/housing.md) [nyc](tags/nyc.md)
+
 ### Fare starts at 5 cents
 - Date: October 27, 1904
 - "And would the uniform five-cent fare, stipulated by the Rapid Transit Acts of 1891 and 1894, be enough to cover these contingencies?"

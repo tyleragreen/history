@@ -38,7 +38,23 @@ This document accompanies my urban history studies. Focus will be placed on all 
 - Tags: [fare-increases](tags/fare-increases.md) [mta](tags/mta.md)
 
 ### Fare increases from $1 to $1.15
-- Tags: [fare-increases](tags/fare-increases.md) [mta](tags/mta.md)
+- Date: January 1, 1990
+- A 1987 agreement with the unions, Governor, and Legislature "provided for the $1.15 fare" [1]
+  - Occurred while approving 1987 $8.5bil capital plan
+  - Written primarily by Felix Rohatyn
+- Increase of 15% was to close $200mil budget defecit
+- There was a political retreat from a $1.25 fare
+  - Some say due to public outcry, others say it was a political gimmick
+- Kiley said in July 1989 that more than a $1.15 fare may be necessary
+  - Ridership had not increased, resulting in $15mil less revenue than expected
+  - Corporate-tax revenues were down $15mil
+  - Federal aid was $25 less than expected
+- "Technically, the M.T.A. can approve fare increases without the agreement of lawmakers. The Legislature, however, controls the authorities huge capital plans, giving it strong influence." [2]
+- Source: "Turnstile Politics: Preparing for the $1.15 Token," *The New York Times*, December 3, 1989. [link](https://nyti.ms/2jZIwXH)
+- Source: "Kiley Says Fares Could Increase Beyond $1.15 Planned for 1990," *The New York Times*, June 1, 1989. [link](https://nyti.ms/2k2gg78)
+- Source: David E. Pitt, "A $1.15 Token Now Supported By Transit Staff," *The New York Times*, December 2, 1989. [link](https://nyti.ms/2k2gg78)
+- Source: Eric Schmitt, "Transit Lines Brace for Test Of $1.15 Fare," *The New York Times*, January 2, 1990. [link](https://nyti.ms/2yqt5dw)
+- Tags: [fare-increases](tags/fare-increases.md) [kiley](tags/kiley.md) [mta](tags/mta.md) [rohatyn](tags/rohatyn.md)
 
 ### Fare increases from 75 cents to 90 cents
 - Tags: [fare-increases](tags/fare-increases.md) [mta](tags/mta.md)
@@ -498,7 +514,11 @@ This document accompanies my urban history studies. Focus will be placed on all 
     - it would represent a suburban->urban transfer (which was opposed by Republication legislators)
     - and because of transfer of capital funds to operating funds
       - Senate Transportation Committee chairman Norman Levy claimed this, but MTA officials denied this
+      - Levy argued this transfer would be similar to 1960s and 70s, when MTA several deferred maintenance on its infrastructure
+- Subway and bus farebox recovery was 61% in 1991, commuter railroads was less than 50%
+- Operating deficit was caused by a sharp downturn in the local economy
 - Source: "Token price rises 10 cents to $1.25 in New York City," *The New York Times*, January 1, 1992. [link](http://www.nytimes.com/1992/01/01/nyregion/token-price-rises-10-cents-to-1.25-in-new-york-city.html)
+- Source: Sam Howe Verhovek, "G.O.P. Senator Opposes Using Rail Funds to Limit Subway Fare," *The New York Times*, December 5, 1991. [link](https://nyti.ms/2jXwI8m)
 - Tags: [fare-increases](tags/fare-increases.md) [mta](tags/mta.md) [stangl](tags/stangl.md)
 
 ### Board of Estimate approves Second Avenue Subway and 11 other new routes

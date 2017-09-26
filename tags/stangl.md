@@ -14,6 +14,10 @@
     - it would represent a suburban->urban transfer (which was opposed by Republication legislators)
     - and because of transfer of capital funds to operating funds
       - Senate Transportation Committee chairman Norman Levy claimed this, but MTA officials denied this
+      - Levy argued this transfer would be similar to 1960s and 70s, when MTA several deferred maintenance on its infrastructure
+- Subway and bus farebox recovery was 61% in 1991, commuter railroads was less than 50%
+- Operating deficit was caused by a sharp downturn in the local economy
 - Source: "Token price rises 10 cents to $1.25 in New York City," *The New York Times*, January 1, 1992. [link](http://www.nytimes.com/1992/01/01/nyregion/token-price-rises-10-cents-to-1.25-in-new-york-city.html)
+- Source: Sam Howe Verhovek, "G.O.P. Senator Opposes Using Rail Funds to Limit Subway Fare," *The New York Times*, December 5, 1991. [link](https://nyti.ms/2jXwI8m)
 - Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md) [stangl](../tags/stangl.md)
 

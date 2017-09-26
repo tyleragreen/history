@@ -141,6 +141,11 @@
 - Tags: [conway](../tags/conway.md) [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
 
 ## 2000s
+**May 4, 2003** - Fare increases from $1.50 to $2
+- 30-day pass raised to $70, 7-day pass to $21, 1-day pass to $7
+- Source: [mta](https://web.archive.org/web/20030614085656/http://www.mta.info/mta/news/public/fares/nyct.htm)
+- Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
+
 **June 28, 2009** - Fare increases from $2 to $2.25
 - MTA considered raising base fare to $3, but "state approved a bailout last month boosting mass transit subsidies"
 - Payroll mobility tax on 12-county MTA region was created, vehicle registration and parking fees were increased
@@ -191,10 +196,5 @@
 - Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
 
 ### Fare increases from $1 to $1.15
-- Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
-
-### Fare increases from $1.50 to $2
-- 30-day pass raised to $70, 7-day pass to $21, 1-day pass to $7
-- Source: [mta](https://web.archive.org/web/20030614085656/http://www.mta.info/mta/news/public/fares/nyct.htm)
 - Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
 

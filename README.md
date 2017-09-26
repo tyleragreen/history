@@ -28,6 +28,8 @@ This document accompanies my urban history studies. Focus will be placed on all 
 - Tags: [fare-increases](tags/fare-increases.md) [mta](tags/mta.md)
 
 ### Fare increases from $1.50 to $2
+- 30-day pass raised to $70, 7-day pass to $21, 1-day pass to $7
+- Source: [mta](https://web.archive.org/web/20030614085656/http://www.mta.info/mta/news/public/fares/nyct.htm)
 - Tags: [fare-increases](tags/fare-increases.md) [mta](tags/mta.md)
 
 ### Fare increases from $1 to $1.15

@@ -7,6 +7,7 @@
 - [1970s](#1970s)
 - [1980s](#1980s)
 - [1990s](#1990s)
+- [2000s](#2000s)
 - [2010s](#2010s)
 
 ## 1900s
@@ -139,6 +140,20 @@
 - Source: "THE $1.50 SUBWAY RIDE: THE OVERVIEW;M.T.A. VOTE RAISES FARE ON SUBWAYS AND BUSES TO $1.50," *The New York Times*, October 20, 1995. [link](http://www.nytimes.com/1995/10/20/nyregion/1.50-subway-ride-overview-mta-vote-raises-fare-subways-buses-1.50.html?pagewanted=all)
 - Tags: [conway](../tags/conway.md) [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
 
+## 2000s
+**June 28, 2009** - Fare increases from $2 to $2.25
+- MTA considered raising base fare to $3, but "state approved a bailout last month boosting mass transit subsidies"
+- Payroll mobility tax on 12-county MTA region was created, vehicle registration and parking fees were increased
+- Hike was coupled with service cuts
+- Unlimited ride MetroCard increases
+  - 1-day: $7.50 to $8.25
+  - 7-day: $25 to $27
+  - 14-day: $47 to $51.50
+  - 30-day: $81 to $89
+- Pay-per-ride bonus remains at 8%
+- Source: "Farewell $2, hi $2.25," *New York Daily News*, June 28, 2009. [link](http://www.nydailynews.com/new-york/mta-subway-fare-hike-takes-effect-sunday-price-rises-2-25-ride-article-1.373236)
+- Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
+
 ## 2010s
 **March 3, 2013** - Fare increases from $2.25 to $2.50
 - Bonus decreased from 7% to 5%
@@ -169,21 +184,15 @@
 - Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md) [prendergast](../tags/prendergast.md)
 
 ## Undated Notes
-### Fare increases from $1 to $1.15
-- Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
-
 ### Fare increases from 60 cents to 75 cents
-- Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
-
-### Fare increases from $1.50 to $2
 - Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
 
 ### Fare increases from 75 cents to 90 cents
 - Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
 
-### Fare increases from $2.25 to $2.50
+### Fare increases from $1 to $1.15
 - Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
 
-### Fare increases from $2 to $2.25
+### Fare increases from $1.50 to $2
 - Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
 

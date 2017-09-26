@@ -14,10 +14,17 @@ This document accompanies my urban history studies. Focus will be placed on all 
 - Source: "NEW TRANSIT AID IS LINKED TO FARE," *The New York Times*, October 16, 1963. [link](https://nyti.ms/2jYP8px)
 - Tags: [fare-increases](tags/fare-increases.md) [mta](tags/mta.md)
 
-### Fare increases from $2.25 to $2.50
-- Tags: [fare-increases](tags/fare-increases.md) [mta](tags/mta.md)
-
 ### Fare increases from $2 to $2.25
+- MTA considered raising base fare to $3, but "state approved a bailout last month boosting mass transit subsidies"
+- Payroll mobility tax on 12-county MTA region was created, vehicle registration and parking fees were increased
+- Hike was coupled with service cuts
+- Unlimited ride MetroCard increases
+  - 1-day: $7.50 to $8.25
+  - 7-day: $25 to $27
+  - 14-day: $47 to $51.50
+  - 30-day: $81 to $89
+- Pay-per-ride bonus remains at 8%
+- Source: "Farewell $2, hi $2.25," *New York Daily News*, June 28, 2009. [link](http://www.nydailynews.com/new-york/mta-subway-fare-hike-takes-effect-sunday-price-rises-2-25-ride-article-1.373236)
 - Tags: [fare-increases](tags/fare-increases.md) [mta](tags/mta.md)
 
 ### Fare increases from $1.50 to $2

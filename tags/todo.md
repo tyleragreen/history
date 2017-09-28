@@ -81,6 +81,7 @@
     - [NYT](http://www.nytimes.com/1982/02/22/nyregion/unions-and-city-hoping-to-avert-a-transit-strike.html) [Untapped Cities](http://untappedcities.com/2015/04/07/35-years-ago-this-week-the-mta-strikes-for-11-days-nyc-bringing-transit-to-a-halt/)
 - [Politico NY on Ravitch](http://www.politico.com/states/new-york/albany/story/2014/05/lessons-from-a-transit-savior-080025)
 - [NY Mag on Ravitch](http://nymag.com/news/intelligencer/encounter/58184/)
+- [NYT on Ravitch](https://nyti.ms/2fC3NWe)
 - Investment Tax Credit - Enacted in 1962 by the IRS to stimulate private investment
 - Steve Polan
   - [Google](https://www.google.com/search?q=steve+polan+mta&safe=off&ei=uzyoWebHKejdjwSfs6_YBg&start=0&sa=N&biw=1193&bih=1343) brings up a strong list

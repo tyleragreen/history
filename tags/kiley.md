@@ -18,6 +18,21 @@
 - Source: Eric Schmitt, "Transit Lines Brace for Test Of $1.15 Fare," *The New York Times*, January 2, 1990. [link](https://nyti.ms/2yqt5dw)
 - Tags: [fare-increases](../tags/fare-increases.md) [kiley](../tags/kiley.md) [mta](../tags/mta.md) [rohatyn](../tags/rohatyn.md)
 
+### Fare increases from 75 cents to 90 cents
+- Date: January 2, 1984
+- Kiley defends increases to make up operating deficits
+- 1984 budget is $3.7bil
+- New fares and tolls expected to generate $270mil
+- Elderly and handicapped returned to half fare 24 hours a day
+  - Had been half fare only outside of 7am and 9am
+- City Council President Carol Bellamy had several criticisms
+  - Questioned whether $38mil reserve fund for track work was necessary
+  - Thought some operating budget items should actually be capital budget items
+  - Thought budget was too conservative in "failing to count on receiving certain Federal financing"
+- Board endorsed Koch's proposal to have MTA set up administrative board to prosecute fare evadors, rather than sending them to court, as was currently done
+- Source: Suzanne Daley, "M.T.A. RAISES FARES AND TOLLS BY 20% ACROSS THE BOARD," *The New York Times*, December 17, 1983. [link](https://nyti.ms/2fBVHwX)
+- Tags: [fare-increases](../tags/fare-increases.md) [kiley](../tags/kiley.md) [mta](../tags/mta.md)
+
 ### Bob Kiley appointed MTA Chair
 - Date: October 5, 1983
 - Tags: [kiley](../tags/kiley.md) [mta](../tags/mta.md) [todo](../tags/todo.md)

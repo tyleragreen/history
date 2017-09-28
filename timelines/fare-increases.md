@@ -98,6 +98,14 @@
 - Source: "Transit Officials Brace for Rush on Tokens," *The New York Times*, June 30, 1980. [link](https://nyti.ms/2yfpKOo)
 - Tags: [carey](../tags/carey.md) [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
 
+**July 3, 1981** - Fare increases from 60 cents to 75 cents
+- Approved by the MTA on July 2nd, took effect on July 3rd
+- Continued to use 60 cent token
+- A two-step increase was approved: fare would increase again to $1 in two weeks(!) if no additional state aid was provided
+- Without second increase or addition state aid, NYC Transit Authority would still face annual defecit of $240mil
+- Source: Judith Cummings, "City's Fare Rises to 75 cents and Rails Increase by 25%," *The New York Times*, July 3, 1981. [link](https://nyti.ms/2yuN1fs)
+- Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
+
 **January 1, 1986** - Fare increases from 90 cents to $1
 - Legislature saved 90-cent fare at end of 1984 by extending a corporate tax surcharge that helps subsidize mass transit in the NYC metro
 - Increase came as Transit Authority faced potential $225mil operating defecit for 1986
@@ -209,11 +217,4 @@
 - Plan to unveil new fare payment system in 2020 and remove MetroCards by end of 2022
 - Source: "M.T.A. Is Raising Fares and Tolls; One Subway or Bus Ride Will Cost $2.75," *The New York Times*, January 22, 2015. [link](https://www.nytimes.com/2015/01/23/nyregion/mta-raises-fares-subways-and-buses.html)
 - Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md) [prendergast](../tags/prendergast.md)
-
-## Undated Notes
-### Fare increases from 60 cents to 75 cents
-- Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
-
-### Fare increases from 75 cents to 90 cents
-- Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
 

@@ -55,6 +55,11 @@
 - Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
 
 ### Fare increases from 60 cents to 75 cents
+- Approved by the MTA on July 2nd, took effect on July 3rd
+- Continued to use 60 cent token
+- A two-step increase was approved: fare would increase again to $1 in two weeks(!) if no additional state aid was provided
+- Without second increase or addition state aid, NYC Transit Authority would still face annual defecit of $240mil
+- Source: Judith Cummings, "City's Fare Rises to 75 cents and Rails Increase by 25%," *The New York Times*, July 3, 1981. [link](https://nyti.ms/2yuN1fs)
 - Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
 
 ### Fare increases from 15 cents to 20 cents
@@ -438,6 +443,7 @@
   - "A corporate franchise tax of 0.75 percent on the gross returns from the in-state portion of interstate communications and commercial transport." Known as the "long lines" tax.
 - *I think these all still exist. Should annotate individually.*
 - Source: "FIVE TAXES VOTED IN ALBANY TO GIVE MASS-TRANSIT AID," *The New York Times*, July 10, 1981. [link](http://www.nytimes.com/1981/07/10/nyregion/five-taxes-voted-in-albany-to-give-mass-transit-aid.html)
+- Source: [nyt](https://nyti.ms/2fCxIgS)
 - Tags: [mta](../tags/mta.md) [taxes](../tags/taxes.md)
 
 ### Third Avenue El closes in the Bronx

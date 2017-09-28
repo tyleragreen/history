@@ -8,5 +8,6 @@
   - Expected the morning rush to continue through 10 A.M., rather than the usual 9 A.M.
 - Source: "Old and New Commuter Fares in New York Area," *The New York Times*, June 30, 1980. [link](https://query.nytimes.com/gst/abstract.html?res=9D02E1D71230E532A25753C3A9609C94619FD6CF&legacy=true)
 - Source: "Transit Officials Brace for Rush on Tokens," *The New York Times*, June 30, 1980. [link](https://nyti.ms/2yfpKOo)
+- Source: ""Ravitch Predicts 75 Transit Fare If Legislature Doesn't Act By July," *The New York Times*, April 21, 1980. [link](https://nyti.ms/2yw59FH)
 - Tags: [carey](../tags/carey.md) [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
 

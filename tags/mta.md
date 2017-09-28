@@ -150,6 +150,13 @@
 - [NYT in 1948](https://nyti.ms/2jWogXe) on high transit revenues
 - [NYT in 1914](https://nyti.ms/2jZJG5Q) on state railroad fares
 - [NYT in 1961](https://nyti.ms/2ynoNUm) on potential 20 cent fare
+- [NYT in 1982](https://nyti.ms/2fC1J0o) on Ravitch's potential 40% fare rise
+- [NYT in 1981](https://nyti.ms/2fBH78i) on Ravitch's worry about federal aid cuts
+- [NYT in 1982](https://nyti.ms/2fBqU31) on Ravitch's fare control policies
+- [NYT in 1980](https://nyti.ms/2fBiB7y) on Ravitch and Carey with MTA productivity measures
+- [NYT in 1980](https://nyti.ms/2yw0fbV) on MTA ending half-fare pupil program
+- [NYT in 1980](https://nyti.ms/2yw68WD) on taxes to hold 50 cent fare
+- [NYT in 1982](https://nyti.ms/2yvgCFH) on MTA's low federal aid
 - [City Journal](https://www.city-journal.org/html/how-save-subways%E2%80%94-it%E2%80%99s-too-late-12855.html) on some various MTA history
 - [MTA](https://web.archive.org/web/20101122052827/http://mta.info/mta/pdf/approved_fares.pdf) on late 2010 fares
 - [NYT](https://cityroom.blogs.nytimes.com/2009/03/25/mta-board-meets-to-vote-on-fare-hikes/) on 2009 fare increase

@@ -35,6 +35,7 @@ This document accompanies my urban history studies. Focus will be placed on all 
   - MTA executive director Elliot G. Sander referred to capital construction binge from 2000 to 2004 as being put "on a credit card"
 - Source: "Farewell $2, hi $2.25," *New York Daily News*, June 28, 2009. [link](http://www.nydailynews.com/new-york/mta-subway-fare-hike-takes-effect-sunday-price-rises-2-25-ride-article-1.373236)
 - Source: "M.T.A. Increases Fares and Cuts Services," *The New York Times*, March 25, 2009. [link](https://cityroom.blogs.nytimes.com/2009/03/25/mta-board-meets-to-vote-on-fare-hikes/)
+- Source: "Approved Fares for NYC Transit, MTA Bus, Long Island Bus and the Staten Island Railway," *Metropolitan Transportation Authority*, December 30, 2010. [link](https://web.archive.org/web/20101122052827/http://mta.info/mta/pdf/approved_fares.pdf)
 - Tags: [fare-increases](tags/fare-increases.md) [mta](tags/mta.md) [sanders](tags/sanders.md)
 
 ### Fare increases from $1.50 to $2

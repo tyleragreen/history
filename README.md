@@ -55,13 +55,13 @@ This document accompanies my urban history studies. Focus will be placed on all 
 - Kiley said in July 1989 that more than a $1.15 fare may be necessary
   - Ridership had not increased, resulting in $15mil less revenue than expected
   - Corporate-tax revenues were down $15mil
-  - Federal aid was $25 less than expected
+  - Federal aid was $25mil less than expected
 - "Technically, the M.T.A. can approve fare increases without the agreement of lawmakers. The Legislature, however, controls the authorities huge capital plans, giving it strong influence." [2]
 - Source: "Turnstile Politics: Preparing for the $1.15 Token," *The New York Times*, December 3, 1989. [link](https://nyti.ms/2jZIwXH)
 - Source: "Kiley Says Fares Could Increase Beyond $1.15 Planned for 1990," *The New York Times*, June 1, 1989. [link](https://nyti.ms/2k2gg78)
 - Source: David E. Pitt, "A $1.15 Token Now Supported By Transit Staff," *The New York Times*, December 2, 1989. [link](https://nyti.ms/2k2gg78)
 - Source: Eric Schmitt, "Transit Lines Brace for Test Of $1.15 Fare," *The New York Times*, January 2, 1990. [link](https://nyti.ms/2yqt5dw)
-- Tags: [fare-increases](tags/fare-increases.md) [kiley](tags/kiley.md) [mta](tags/mta.md) [rohatyn](tags/rohatyn.md)
+- Tags: [fare-increases](tags/fare-increases.md) [federal-assistance](tags/federal-assistance.md) [kiley](tags/kiley.md) [mta](tags/mta.md) [rohatyn](tags/rohatyn.md)
 
 ### Fare increases from 75 cents to 90 cents
 - Date: January 2, 1984
@@ -76,7 +76,7 @@ This document accompanies my urban history studies. Focus will be placed on all 
   - Thought budget was too conservative in "failing to count on receiving certain Federal financing"
 - Board endorsed Koch's proposal to have MTA set up administrative board to prosecute fare evadors, rather than sending them to court, as was currently done
 - Source: Suzanne Daley, "M.T.A. RAISES FARES AND TOLLS BY 20% ACROSS THE BOARD," *The New York Times*, December 17, 1983. [link](https://nyti.ms/2fBVHwX)
-- Tags: [fare-increases](tags/fare-increases.md) [kiley](tags/kiley.md) [mta](tags/mta.md)
+- Tags: [fare-increases](tags/fare-increases.md) [federal-assistance](tags/federal-assistance.md) [kiley](tags/kiley.md) [mta](tags/mta.md)
 
 ### Fare increases from 60 cents to 75 cents
 - Approved by the MTA on July 2nd, took effect on July 3rd
@@ -276,7 +276,7 @@ This document accompanies my urban history studies. Focus will be placed on all 
 - Mentions an experiment train that would have lower energy usage
   - *not sure which model this would be*
 - Source: "Costlier Token," *The New York Times*, September 2, 1975. [link](http://www.nytimes.com/1975/09/02/archives/costlier-token.html)
-- Tags: [fare-increases](tags/fare-increases.md) [mta](tags/mta.md)
+- Tags: [fare-increases](tags/fare-increases.md) [federal-assistance](tags/federal-assistance.md) [mta](tags/mta.md)
 
 ### Fare increases from 20 cents to 30 cents
 - Date: January 4, 1970

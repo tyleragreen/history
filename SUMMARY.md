@@ -21,6 +21,7 @@
   - [fare-increases](tags/fare-increases.md)
   - [fares](tags/fares.md)
   - [federal](tags/federal.md)
+  - [federal-assistance](tags/federal-assistance.md)
   - [housing](tags/housing.md)
   - [institutions](tags/institutions.md)
   - [javits](tags/javits.md)

@@ -1,28 +1,6 @@
-; title Fare increases from 50 cents to 60 cents
-; date June 28, 1980
-; source-title Old and New Commuter Fares in New York Area
-; source-url https://query.nytimes.com/gst/abstract.html?res=9D02E1D71230E532A25753C3A9609C94619FD6CF&legacy=true
-; source-date June 30, 1980
-; source-id nyt
-; source-publication The New York Times
-; 2-source-date June 30, 1980
-; 2-source-title Transit Officials Brace for Rush on Tokens
-; 2-source-id nyt
-; 2-source-publication The New York Times
-; 2-source-url https://nyti.ms/2yfpKOo
-; 3-source-id nyt
-; 3-source-publication The New York Times
-; 3-source-url https://nyti.ms/2yw59FH
-; 3-source-title Ravitch Predicts 75 Transit Fare If Legislature Doesn't Act By July
-; 3-source-date April 21, 1980
-; 4-source-id nyt
-; 4-source-publication The New York Times
-; 4-source-title $170 Million in New Taxes Called the Key to 50 Fare
-; 4-source-author David A. Andelman
-; 4-source-url https://nyti.ms/2yw68WD
-; 4-source-date April 26, 1980
-; tags mta fare-increases carey ravitch strike-1980
-
+# strike-1980
+### Fare increases from 50 cents to 60 cents
+- Date: June 28, 1980
 - Carey refused to rule out another increase
 - MNR referred to as "Conrail's commuter lines north of the city"
 - Sidney Schwartz, New York state's special fiscal monitor for the city, warned that fares may have to rise to 75 cents in 1981 unless "the financially troubled Transit Authority gets more aid and improves its management."
@@ -45,3 +23,9 @@
     - $19mil in additonal benefits payments
   - Productivity gains from new agreement with TWU estimated $15mil savings due to "addition of 20 minutes of productive work time"
     - *assuming this means less overtime pay*
+- Source: "Old and New Commuter Fares in New York Area," *The New York Times*, June 30, 1980. [link](https://query.nytimes.com/gst/abstract.html?res=9D02E1D71230E532A25753C3A9609C94619FD6CF&legacy=true)
+- Source: "Transit Officials Brace for Rush on Tokens," *The New York Times*, June 30, 1980. [link](https://nyti.ms/2yfpKOo)
+- Source: "Ravitch Predicts 75 Transit Fare If Legislature Doesn't Act By July," *The New York Times*, April 21, 1980. [link](https://nyti.ms/2yw59FH)
+- Source: David A. Andelman, "$170 Million in New Taxes Called the Key to 50 Fare," *The New York Times*, April 26, 1980. [link](https://nyti.ms/2yw68WD)
+- Tags: [carey](../tags/carey.md) [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md) [ravitch](../tags/ravitch.md) [strike-1980](../tags/strike-1980.md)
+

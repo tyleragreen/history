@@ -51,7 +51,7 @@
 - Source: "Transit Officials Brace for Rush on Tokens," *The New York Times*, June 30, 1980. [link](https://nyti.ms/2yfpKOo)
 - Source: "Ravitch Predicts 75 Transit Fare If Legislature Doesn't Act By July," *The New York Times*, April 21, 1980. [link](https://nyti.ms/2yw59FH)
 - Source: David A. Andelman, "$170 Million in New Taxes Called the Key to 50 Fare," *The New York Times*, April 26, 1980. [link](https://nyti.ms/2yw68WD)
-- Tags: [carey](../tags/carey.md) [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md) [ravitch](../tags/ravitch.md)
+- Tags: [carey](../tags/carey.md) [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md) [ravitch](../tags/ravitch.md) [strike-1980](../tags/strike-1980.md)
 
 ### New Yorker on Ravitch-era capital plans
 - Date: June 25, 1984

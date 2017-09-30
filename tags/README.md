@@ -48,6 +48,7 @@
   - [second-avenue](./second-avenue.md)
   - [stangl](./stangl.md)
   - [state-assistance](./state-assistance.md)
+  - [strike-1980](./strike-1980.md)
   - [student-fares](./student-fares.md)
   - [tax-policy](./tax-policy.md)
   - [taxes](./taxes.md)

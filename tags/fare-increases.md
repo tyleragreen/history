@@ -219,7 +219,7 @@
 - Source: "Transit Officials Brace for Rush on Tokens," *The New York Times*, June 30, 1980. [link](https://nyti.ms/2yfpKOo)
 - Source: "Ravitch Predicts 75 Transit Fare If Legislature Doesn't Act By July," *The New York Times*, April 21, 1980. [link](https://nyti.ms/2yw59FH)
 - Source: David A. Andelman, "$170 Million in New Taxes Called the Key to 50 Fare," *The New York Times*, April 26, 1980. [link](https://nyti.ms/2yw68WD)
-- Tags: [carey](../tags/carey.md) [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md) [ravitch](../tags/ravitch.md)
+- Tags: [carey](../tags/carey.md) [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md) [ravitch](../tags/ravitch.md) [strike-1980](../tags/strike-1980.md)
 
 ### Fare increases from 35 cents to 50 cents
 - Interesting era for transit funding, with city in fiscal trouble and federal dollars for transit beginning: "In this city, so close to insolvency, little more can be expected in direct subsidy out of existing tax funds. But there is need for quick action on a new regional tax to underwrite mass transit, of the kind now under study by a state legislative committee. There is also need for more substantial financial support from Washington, now that the initial breakthrough has been made on Federal subsidy for both operating and capital costs."

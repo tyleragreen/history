@@ -18,7 +18,16 @@
 
 ## 1940s
 **July 1, 1948** - Fare increases from 5 cents to 10 cents
+- $37.5mil increase in fare revenue during last 6 months of 1948
+  - But 12% drop in ridership (25.5mil less)
+- Average fare paid was 9.53 cents
+  - Less than the actual fare of 10 cents because a combined subway and surface line fare was 12 cents
+  - Rather than 10 cents plus 7 cents
+- Other interesting items:
+  - Board of Transportation added 1272 staff, 940 which "were permanent under civil service"
+  - 14 deoderizing and germ-killing lamps were installed in IRT stations at Times Square and Grand Central
 - Source: "Report for the three and one-half years ending June 30, 1949.," *The City of New York Board of Transportation*, 82, 1949. [link](https://hdl.handle.net/2027/mdp.39015023094926)
+- Source: Paul Crowell, "City Gains $37,520,822 in 6 Months Under New Fares, but Fewer Ride," *The New York Times*, February 17, 1949. [link](https://nyti.ms/2ynT99o)
 - Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md) [reports](../tags/reports.md)
 
 ## 1950s

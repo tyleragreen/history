@@ -1,11 +1,7 @@
 # fares
 ### MTA Fares Misc
-- [NYT in 1949](https://nyti.ms/2ynT99o) on revenue gains from 10 cent fare
-- [NYT in 1942](https://nyti.ms/2yotygb) on inadequacy of 5 cent fare
 - [NYT in 1982](https://nyti.ms/2yo3XUW) on tax package falling short
-- [NYT in 1948](https://nyti.ms/2jWogXe) on high transit revenues
 - [NYT in 1914](https://nyti.ms/2jZJG5Q) on state railroad fares
-- [NYT in 1961](https://nyti.ms/2ynoNUm) on potential 20 cent fare
 - [NYT in 1982](https://nyti.ms/2fC1J0o) on Ravitch's potential 40% fare rise
 - [NYT in 1981](https://nyti.ms/2fBH78i) on Ravitch's worry about federal aid cuts
 - [NYT in 1982](https://nyti.ms/2fBqU31) on Ravitch's fare control policies

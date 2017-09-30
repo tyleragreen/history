@@ -174,7 +174,6 @@ This document accompanies my urban history studies. Focus will be placed on all 
 - [NYT in 1982](https://nyti.ms/2fBqU31) on Ravitch's fare control policies
 - [NYT in 1980](https://nyti.ms/2fBiB7y) on Ravitch and Carey with MTA productivity measures
 - [NYT in 1980](https://nyti.ms/2yw0fbV) on MTA ending half-fare pupil program
-- [NYT in 1980](https://nyti.ms/2yw68WD) on taxes to hold 50 cent fare
 - [NYT in 1982](https://nyti.ms/2yvgCFH) on MTA's low federal aid
 - [City Journal](https://www.city-journal.org/html/how-save-subways%E2%80%94-it%E2%80%99s-too-late-12855.html) on some various MTA history
 - Lists on fare increses: [NYSubway.com](http://www.nysubway.com/stories/subway-fares.html) and [Wikipedia](https://en.wikipedia.org/wiki/New_York_City_transit_fares#Fare_history)

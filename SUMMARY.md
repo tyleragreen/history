@@ -53,6 +53,7 @@
   - [second-avenue](tags/second-avenue.md)
   - [stangl](tags/stangl.md)
   - [state-assistance](tags/state-assistance.md)
+  - [student-fares](tags/student-fares.md)
   - [tax-policy](tags/tax-policy.md)
   - [taxes](tags/taxes.md)
   - [tfl](tags/tfl.md)

@@ -22,12 +22,12 @@
 - Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
 
 ### School Children Fare Debate
-- Date: 1963
 - *Was this the beginning of the end for 100% farebox recovery?*
 - Source: "The 20-Cent Fare Arrives," *The New York Times*, October 26, 1963. [link](https://nyti.ms/2jX2uSY)
 - Source: "City to Add 9 Million Aid To Help Keep 15c Fare," *The New York Times*, July 10, 1963. [link](https://nyti.ms/2jW4Mlg)
 - Source: "NEW TRANSIT AID IS LINKED TO FARE," *The New York Times*, October 16, 1963. [link](https://nyti.ms/2jYP8px)
-- Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
+- Source: E.R. Shipp, "M.T.A. Drops Pupil Half-Fare Program," *The New York Times*, June 14, 1980. [link](https://nyti.ms/2yAM3OJ)
+- Tags: [fares](../tags/fares.md) [mta](../tags/mta.md) [student-fares](../tags/student-fares.md)
 
 ### Fare increases from $2 to $2.25
 - Date: June 28, 2009
@@ -179,7 +179,6 @@
 - [NYT in 1981](https://nyti.ms/2fBH78i) on Ravitch's worry about federal aid cuts
 - [NYT in 1982](https://nyti.ms/2fBqU31) on Ravitch's fare control policies
 - [NYT in 1980](https://nyti.ms/2fBiB7y) on Ravitch and Carey with MTA productivity measures
-- [NYT in 1980](https://nyti.ms/2yw0fbV) on MTA ending half-fare pupil program
 - [City Journal](https://www.city-journal.org/html/how-save-subways%E2%80%94-it%E2%80%99s-too-late-12855.html) on some various MTA history
 - Lists on fare increses: [NYSubway.com](http://www.nysubway.com/stories/subway-fares.html) and [Wikipedia](https://en.wikipedia.org/wiki/New_York_City_transit_fares#Fare_history)
 - Tags: [fares](../tags/fares.md) [mta](../tags/mta.md)

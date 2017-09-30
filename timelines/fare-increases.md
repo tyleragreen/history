@@ -75,13 +75,6 @@
 - Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
 
 ## 1960s
-**1963** - School Children Fare Debate
-- *Was this the beginning of the end for 100% farebox recovery?*
-- Source: "The 20-Cent Fare Arrives," *The New York Times*, October 26, 1963. [link](https://nyti.ms/2jX2uSY)
-- Source: "City to Add 9 Million Aid To Help Keep 15c Fare," *The New York Times*, July 10, 1963. [link](https://nyti.ms/2jW4Mlg)
-- Source: "NEW TRANSIT AID IS LINKED TO FARE," *The New York Times*, October 16, 1963. [link](https://nyti.ms/2jYP8px)
-- Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
-
 **July 5, 1966** - Fare increases from 15 cents to 20 cents
 - Fifth Avenue Coach Lines, a private bus company, wanted Wagner administration to increase fare to 20 cents in 1961 [2]
   - *seems to imply NYCTA-specified fare applied to more than NYCTA*

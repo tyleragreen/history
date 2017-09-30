@@ -5,14 +5,6 @@
 - Source: Wallace B. Katz, "The New York Rapid Transit Decision of 1900," *Historic American Engineering Record*, 2-144, 1979. [link](https://www.nycsubway.org/wiki/The_New_York_Rapid_Transit_Decision_of_1900_(Katz))
 - Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
 
-### School Children Fare Debate
-- Date: 1963
-- *Was this the beginning of the end for 100% farebox recovery?*
-- Source: "The 20-Cent Fare Arrives," *The New York Times*, October 26, 1963. [link](https://nyti.ms/2jX2uSY)
-- Source: "City to Add 9 Million Aid To Help Keep 15c Fare," *The New York Times*, July 10, 1963. [link](https://nyti.ms/2jW4Mlg)
-- Source: "NEW TRANSIT AID IS LINKED TO FARE," *The New York Times*, October 16, 1963. [link](https://nyti.ms/2jYP8px)
-- Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
-
 ### Fare increases from $2 to $2.25
 - Date: June 28, 2009
 - MTA considered raising base fare to $3, but "state approved a bailout last month boosting mass transit subsidies"

@@ -1,5 +1,9 @@
 # Urban History
 This document accompanies my urban history studies. Focus will be placed on all financial aspects of public policy, particularly those of New York City and the [Metropolitan Transportation Authority](http://www.mta.info).
+### Trump ends safe harbor provisions for cities to manage private-sector pensions
+- Source: Hazel Bradford, "Trump signs bill ending safe harbor for city secure choice programs," *Pensions & Investments*, April 14, 2017. [link](http://www.pionline.com/article/20170414/ONLINE/170419912/trump-signs-bill-ending-safe-harbor-for-city-secure-choice-programs)
+- Tags: [federal](tags/federal.md) [pension-policy](tags/pension-policy.md)
+
 ### Program Planners Study on Federal Operating Assistance
 - NYCTA received 7.5% of operating budget from federal aid ($127mil of $1.7bil) versus 17.6% for LA [1]
   - Study by Program Planners Inc and Jack Bigel (*yes, the one from union talks*)

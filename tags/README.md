@@ -40,6 +40,7 @@
   - [rohatyn](./rohatyn.md)
   - [ronan](./ronan.md)
   - [safety](./safety.md)
+  - [sanders](./sanders.md)
   - [second-avenue](./second-avenue.md)
   - [stangl](./stangl.md)
   - [tax-policy](./tax-policy.md)

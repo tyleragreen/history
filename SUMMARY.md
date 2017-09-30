@@ -45,6 +45,7 @@
   - [rohatyn](tags/rohatyn.md)
   - [ronan](tags/ronan.md)
   - [safety](tags/safety.md)
+  - [sanders](tags/sanders.md)
   - [second-avenue](tags/second-avenue.md)
   - [stangl](tags/stangl.md)
   - [tax-policy](tags/tax-policy.md)

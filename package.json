@@ -1,0 +1,23 @@
+{
+  "name": "history",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "notetime": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tyleragreen/history.git"
+  },
+  "author": "Tyler A. Green",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tyleragreen/history/issues"
+  },
+  "homepage": "https://github.com/tyleragreen/history#readme"
+}

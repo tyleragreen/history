@@ -640,7 +640,7 @@ This document accompanies my urban history studies. Focus will be placed on all 
 ### New York City Loan Guarantee Act
 - Date: 1978
 - Source: [nycm](http://www.nyc.gov/html/records/pdf/executive_orders/1978EO026.PDF)
-- Tags: [nyc](tags/nyc.md) [nycfc](tags/nycfc.md) [totimeline](tags/totimeline.md)
+- Tags: [fiscal-crisis](tags/fiscal-crisis.md) [nyc](tags/nyc.md)
 
 ### Jacob Javits pleads for federal load guarantees for New York City
 - Date: March 16, 1978
@@ -650,7 +650,7 @@ This document accompanies my urban history studies. Focus will be placed on all 
 
 ### New York City Seasonal Financing Act
 - Date: 1975
-- Tags: [nyc](tags/nyc.md) [nycfc](tags/nycfc.md) [totimeline](tags/totimeline.md)
+- Tags: [fiscal-crisis](tags/fiscal-crisis.md) [nyc](tags/nyc.md)
 
 ### NYC Misc
 - [Ford Library Museum](https://www.fordlibrarymuseum.gov/library/document/0055/1669138.pdf) - New York City Seasonal Financing Act of 1975

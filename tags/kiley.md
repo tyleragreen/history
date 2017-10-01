@@ -11,7 +11,7 @@
   - Ridership had not increased, resulting in $15mil less revenue than expected
   - Corporate-tax revenues were down $15mil
   - Federal aid was $25mil less than expected
-- "Technically, the M.T.A. can approve fare increases without the agreement of lawmakers. The Legislature, however, controls the authorities huge capital plans, giving it strong influence." [2]
+- "Technically, the M.T.A. can approve fare increases without the agreement of lawmakers. The Legislature, however, controls the authority's huge capital plans, giving it strong influence." [2]
 - Source: "Turnstile Politics: Preparing for the $1.15 Token," *The New York Times*, December 3, 1989. [link](https://nyti.ms/2jZIwXH)
 - Source: "Kiley Says Fares Could Increase Beyond $1.15 Planned for 1990," *The New York Times*, June 1, 1989. [link](https://nyti.ms/2k2gg78)
 - Source: David E. Pitt, "A $1.15 Token Now Supported By Transit Staff," *The New York Times*, December 2, 1989. [link](https://nyti.ms/2k2gg78)

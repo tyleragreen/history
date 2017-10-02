@@ -1,5 +1,6 @@
 # foran
 ### Fare increases from $2.50 to $2.75
+- Date: March 22, 2015
 - Increases scheduled to occur every two years as part of the "authority's long-term revenue plans"
 - Using borrowing to close capital gap could increase pressure to raise fares faster than scheduled
   - *This implies to me that debt service increases aren't scheduled, why not?*

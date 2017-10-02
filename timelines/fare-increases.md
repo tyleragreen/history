@@ -286,3 +286,10 @@
 - Source: "M.T.A. Is Raising Fares and Tolls; One Subway or Bus Ride Will Cost $2.75," *The New York Times*, January 22, 2015. [link](https://www.nytimes.com/2015/01/23/nyregion/mta-raises-fares-subways-and-buses.html)
 - Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md) [prendergast](../tags/prendergast.md)
 
+**March 19, 2017** - Fare remains at $2.75, but week and month pass rise
+- Base fare remains $2.75, bonus lowered from 11% to 5%
+- Weekly pass increases from $31 to $32
+- Monthly pass increases from $116.50 to $121
+- Source: Emma G. Fitzsimmons, "M.T.A. Votes to Raise Fares and Tolls: What You Need to Know," *The New York Times*, January 25, 2017. [link](https://www.nytimes.com/2017/01/25/nyregion/mta-subway-bus-toll-metrocard-fare-increase.html)
+- Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
+

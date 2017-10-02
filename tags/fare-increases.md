@@ -1,4 +1,12 @@
 # fare-increases
+### Fare remains at $2.75, but week and month pass rise
+- Date: March 19, 2017
+- Base fare remains $2.75, bonus lowered from 11% to 5%
+- Weekly pass increases from $31 to $32
+- Monthly pass increases from $116.50 to $121
+- Source: Emma G. Fitzsimmons, "M.T.A. Votes to Raise Fares and Tolls: What You Need to Know," *The New York Times*, January 25, 2017. [link](https://www.nytimes.com/2017/01/25/nyregion/mta-subway-bus-toll-metrocard-fare-increase.html)
+- Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
+
 ### Fare starts at 5 cents
 - Date: October 27, 1904
 - "And would the uniform five-cent fare, stipulated by the Rapid Transit Acts of 1891 and 1894, be enough to cover these contingencies?"

@@ -1,4 +1,8 @@
 # mta
+### Ravitch named MTA chairman
+- Source: Leslie Maitland, "Carey Asks Richard Ravitch to Be Head of the M.T.A.," *The New York Times*, October 12, 1979. [link](https://nyti.ms/2yCXV2S)
+- Tags: [chairmen](../tags/chairmen.md) [mta](../tags/mta.md) [ravitch](../tags/ravitch.md)
+
 ### Program Planners Study on Federal Operating Assistance
 - NYCTA received 7.5% of operating budget from federal aid ($127mil of $1.7bil) versus 17.6% for LA [1]
   - Study by Program Planners Inc and Jack Bigel (*yes, the one from union talks*)

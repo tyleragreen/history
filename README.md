@@ -1,5 +1,9 @@
 # Urban History
 This document accompanies my urban history studies. Focus will be placed on all financial aspects of public policy, particularly those of New York City and the [Metropolitan Transportation Authority](http://www.mta.info).
+### Ravitch named MTA chairman
+- Source: Leslie Maitland, "Carey Asks Richard Ravitch to Be Head of the M.T.A.," *The New York Times*, October 12, 1979. [link](https://nyti.ms/2yCXV2S)
+- Tags: [chairmen](tags/chairmen.md) [mta](tags/mta.md) [ravitch](tags/ravitch.md)
+
 ### Trump ends safe harbor provisions for cities to manage private-sector pensions
 - Source: Hazel Bradford, "Trump signs bill ending safe harbor for city secure choice programs," *Pensions & Investments*, April 14, 2017. [link](http://www.pionline.com/article/20170414/ONLINE/170419912/trump-signs-bill-ending-safe-harbor-for-city-secure-choice-programs)
 - Tags: [federal](tags/federal.md) [pension-policy](tags/pension-policy.md)

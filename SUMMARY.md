@@ -12,6 +12,7 @@
   - [budget](tags/budget.md)
   - [capital-plan](tags/capital-plan.md)
   - [carey](tags/carey.md)
+  - [chairmen](tags/chairmen.md)
   - [city-assistance](tags/city-assistance.md)
   - [congestion-pricing](tags/congestion-pricing.md)
   - [conway](tags/conway.md)

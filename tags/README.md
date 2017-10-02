@@ -6,6 +6,7 @@
   - [budget](./budget.md)
   - [capital-plan](./capital-plan.md)
   - [carey](./carey.md)
+  - [chairmen](./chairmen.md)
   - [city-assistance](./city-assistance.md)
   - [congestion-pricing](./congestion-pricing.md)
   - [conway](./conway.md)

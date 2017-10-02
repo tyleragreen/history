@@ -22,6 +22,7 @@
   - [federal](./federal.md)
   - [federal-assistance](./federal-assistance.md)
   - [fiscal-crisis](./fiscal-crisis.md)
+  - [foran](./foran.md)
   - [housing](./housing.md)
   - [institutions](./institutions.md)
   - [javits](./javits.md)

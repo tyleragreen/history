@@ -1,17 +1,5 @@
-; title Fare increases from $2.50 to $2.75
-; source-url https://www.nytimes.com/2015/01/23/nyregion/mta-raises-fares-subways-and-buses.html
-; source-id nyt
-; source-publication The New York Times
-; source-title M.T.A. Is Raising Fares and Tolls; One Subway or Bus Ride Will Cost $2.75
-; source-date January 22, 2015
-; 2-source-id nyt
-; 2-source-publication The New York Times
-; 2-source-date November 13, 2013
-; 2-source-url http://www.nytimes.com/2013/11/14/nyregion/mta-sees-smaller-rise-for-its-fares-in-15-and-17.html
-; 2-source-author Matt Flegenheimer
-; 2-source-title M.T.A. Sees Smaller Fare Increases in ’15 and ’17
-; tags mta fare-increases prendergast foran
-
+# foran
+### Fare increases from $2.50 to $2.75
 - Increases scheduled to occur every two years as part of the "authority's long-term revenue plans"
 - Using borrowing to close capital gap could increase pressure to raise fares faster than scheduled
   - *This implies to me that debt service increases aren't scheduled, why not?*
@@ -27,3 +15,7 @@
   - "The regularly scheduled increases are part of a rescue plan approved by the State Legislature in 2009."
   - This plan reduced expected revenues by over $900mil
     - To be balanced by 3 years of "net zero" labor cost increases
+- Source: "M.T.A. Is Raising Fares and Tolls; One Subway or Bus Ride Will Cost $2.75," *The New York Times*, January 22, 2015. [link](https://www.nytimes.com/2015/01/23/nyregion/mta-raises-fares-subways-and-buses.html)
+- Source: Matt Flegenheimer, "M.T.A. Sees Smaller Fare Increases in ’15 and ’17," *The New York Times*, November 13, 2013. [link](http://www.nytimes.com/2013/11/14/nyregion/mta-sees-smaller-rise-for-its-fares-in-15-and-17.html)
+- Tags: [fare-increases](../tags/fare-increases.md) [foran](../tags/foran.md) [mta](../tags/mta.md) [prendergast](../tags/prendergast.md)
+

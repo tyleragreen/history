@@ -28,6 +28,7 @@
   - [federal](tags/federal.md)
   - [federal-assistance](tags/federal-assistance.md)
   - [fiscal-crisis](tags/fiscal-crisis.md)
+  - [foran](tags/foran.md)
   - [housing](tags/housing.md)
   - [institutions](tags/institutions.md)
   - [javits](tags/javits.md)

@@ -17,6 +17,7 @@
   - [elevated](./elevated.md)
   - [expansion](./expansion.md)
   - [fare-increases](./fare-increases.md)
+  - [fare-payment](./fare-payment.md)
   - [fares](./fares.md)
   - [federal](./federal.md)
   - [federal-assistance](./federal-assistance.md)

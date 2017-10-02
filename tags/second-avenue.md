@@ -1,4 +1,8 @@
 # second-avenue
+### 2015 MTA Budget
+- Source: Emma G. Fitzsimmons, "M.T.A. Approves Budget, but Deal Cuts 2nd Ave. Line Funding," *The New York Times*, October 28, 2015. [link](https://www.nytimes.com/2015/10/29/nyregion/mta-approves-dollar29-billion-budget-plan.html)
+- Tags: [budget](../tags/budget.md) [mta](../tags/mta.md) [second-avenue](../tags/second-avenue.md) [todo](../tags/todo.md)
+
 ### Board of Estimate approves Second Avenue bond vote
 - Source: "$500,000,000 VOTED FOR 2D AVE. SUBWAY BY ESTIMATE BOARD," *The New York Times*, September 14, 1951. [link](https://nyti.ms/2yeYK1C)
 - Tags: [bonds](../tags/bonds.md) [mta](../tags/mta.md) [second-avenue](../tags/second-avenue.md) [todo](../tags/todo.md)

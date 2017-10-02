@@ -23,6 +23,7 @@
   - [elevated](tags/elevated.md)
   - [expansion](tags/expansion.md)
   - [fare-increases](tags/fare-increases.md)
+  - [fare-payment](tags/fare-payment.md)
   - [fares](tags/fares.md)
   - [federal](tags/federal.md)
   - [federal-assistance](tags/federal-assistance.md)

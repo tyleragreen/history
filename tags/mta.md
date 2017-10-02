@@ -1,4 +1,12 @@
 # mta
+### 2015 MTA Budget
+- Source: Emma G. Fitzsimmons, "M.T.A. Approves Budget, but Deal Cuts 2nd Ave. Line Funding," *The New York Times*, October 28, 2015. [link](https://www.nytimes.com/2015/10/29/nyregion/mta-approves-dollar29-billion-budget-plan.html)
+- Tags: [budget](../tags/budget.md) [mta](../tags/mta.md) [second-avenue](../tags/second-avenue.md) [todo](../tags/todo.md)
+
+### undefined
+- Source: Emma G. Fitzsimmons, "From Swipes to Taps: A Look at the End for MetroCards," *The New York Times*, April 18, 2016. [link](https://www.nytimes.com/2016/04/19/nyregion/from-swipes-to-taps-a-look-at-the-end-for-metrocards.html)
+- Tags: [fare-payment](../tags/fare-payment.md) [mta](../tags/mta.md) [todo](../tags/todo.md)
+
 ### Fare remains at $2.75, but week and month pass rise
 - Date: March 19, 2017
 - Base fare remains $2.75, bonus lowered from 11% to 5%

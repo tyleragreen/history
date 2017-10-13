@@ -1,4 +1,9 @@
 # koch
+### Ross Sandler
+- Koch administration's "in-house expert on public transportation"
+- Source: Ed Koch, "Mayor", 1984, 334
+- Tags: [koch](../tags/koch.md) [people](../tags/people.md)
+
 ### Fare increases from 90 cents to $1
 - Date: January 1, 1986
 - Legislature saved 90-cent fare at end of 1984 by extending a corporate tax surcharge that helps subsidize mass transit in the NYC metro

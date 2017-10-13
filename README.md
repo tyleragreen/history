@@ -1,5 +1,10 @@
 # Urban History
 This document accompanies my urban history studies. Focus will be placed on all financial aspects of public policy, particularly those of New York City and the [Metropolitan Transportation Authority](http://www.mta.info).
+### Ross Sandler
+- Koch administration's "in-house expert on public transportation"
+- Source: Ed Koch, "Mayor", 1984, 334
+- Tags: [koch](tags/koch.md) [people](tags/people.md)
+
 ### Fare remains at $2.50, but week and month pass rise
 - Date: December 30, 2010
 - Base fare remains at $2.25 [1]

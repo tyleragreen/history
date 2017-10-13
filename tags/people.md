@@ -1,4 +1,9 @@
 # people
+### Ross Sandler
+- Koch administration's "in-house expert on public transportation"
+- Source: Ed Koch, "Mayor", 1984, 334
+- Tags: [koch](../tags/koch.md) [people](../tags/people.md)
+
 ### Joseph Giulietti
 - Announced President of Metro North on January 9, 2014
   - Source: [MTA](http://www.mta.info/press-release/metro-north/mta-announces-new-president-metro-north-railroad)

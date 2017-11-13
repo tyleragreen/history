@@ -13,7 +13,7 @@
 ## 1900s
 **October 27, 1904** - Fare starts at 5 cents
 - "And would the uniform five-cent fare, stipulated by the Rapid Transit Acts of 1891 and 1894, be enough to cover these contingencies?"
-- Source: Wallace B. Katz, "The New York Rapid Transit Decision of 1900," *Historic American Engineering Record*, 2-144, 1979. [link](https://www.nycsubway.org/wiki/The_New_York_Rapid_Transit_Decision_of_1900_(Katz))
+- Source: Wallace B. Katz, "The New York Rapid Transit Decision of 1900," *Historic American Engineering Record*, pp2-144, 1979. [link](https://www.nycsubway.org/wiki/The_New_York_Rapid_Transit_Decision_of_1900_(Katz))
 - Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
 
 ## 1940s

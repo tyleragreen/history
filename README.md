@@ -1,8 +1,20 @@
 # Urban History
 This document accompanies my urban history studies. Focus will be placed on all financial aspects of public policy, particularly those of New York City and the [Metropolitan Transportation Authority](http://www.mta.info).
+### Rockefeller proposes state take over Harlem and Hudson lines
+- Rockefeller also announced modernization plans, pending legislative approval of the bond authority
+  - *not sure what bond authority is here*
+- Purchase of 80 new Penn Central cars finances with $21mil in bonds through New York State Commuter Car Program
+  - NYS CCP administered by Port Authority, which was then still called the Port of New York Authority
+  - Port Authority would buy cars and lease them to the state
+- Rest of modernization financed by $44mil in bonds from State Transportation Bond Fund
+- Ronan said Penn Central would manage the line under MTA's direction, and MTA would pay them for maintenance and oprating costs, which would be paid out of operating revenue
+- Plans for take-over started with state transit master plan in 1968
+- Source: Bill Kovach, "STATE TO ACQUIRE 2 COMMUTER RUNS," *The New York Times*, April 17, 1970. [link](https://nyti.ms/2jnjXE8)
+- Tags: [metro-north](tags/metro-north.md) [penn-central](tags/penn-central.md) [rockefeller](tags/rockefeller.md) [ronan](tags/ronan.md)
+
 ### Ross Sandler
 - Koch administration's "in-house expert on public transportation"
-- Source: Ed Koch, "Mayor", 1984, 334
+- Source: Ed Koch, "Mayor", 1984, pp334.
 - Tags: [koch](tags/koch.md) [people](tags/people.md)
 
 ### Fare remains at $2.50, but week and month pass rise
@@ -69,7 +81,7 @@ This document accompanies my urban history studies. Focus will be placed on all 
 ### Fare starts at 5 cents
 - Date: October 27, 1904
 - "And would the uniform five-cent fare, stipulated by the Rapid Transit Acts of 1891 and 1894, be enough to cover these contingencies?"
-- Source: Wallace B. Katz, "The New York Rapid Transit Decision of 1900," *Historic American Engineering Record*, 2-144, 1979. [link](https://www.nycsubway.org/wiki/The_New_York_Rapid_Transit_Decision_of_1900_(Katz))
+- Source: Wallace B. Katz, "The New York Rapid Transit Decision of 1900," *Historic American Engineering Record*, pp2-144, 1979. [link](https://www.nycsubway.org/wiki/The_New_York_Rapid_Transit_Decision_of_1900_(Katz))
 - Tags: [fare-increases](tags/fare-increases.md) [mta](tags/mta.md)
 
 ### School Children Fare Debate
@@ -429,7 +441,7 @@ This document accompanies my urban history studies. Focus will be placed on all 
   - *what is speed limit in today's restricted areas?*
   - Subway track was supposed to receive two walking inspections a week
 - City's water table had risen 10 feet over previous 30 years, sitting tunnels on water rather than ground
-- Source: Lardner, James, "Painting the Elephant," *The New Yorker*, 42-71, June 25, 1984. [link](https://www.newyorker.com/magazine/1984/06/25/painting-the-elephant)
+- Source: Lardner, James, "Painting the Elephant," *The New Yorker*, pp42-71, June 25, 1984. [link](https://www.newyorker.com/magazine/1984/06/25/painting-the-elephant)
 - Tags: [articles](tags/articles.md) [capital-plan](tags/capital-plan.md) [mta](tags/mta.md) [ravitch](tags/ravitch.md)
 
 ### I searched "people mover midtown" in the Times Machine and this is what I got

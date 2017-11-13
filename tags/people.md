@@ -1,7 +1,7 @@
 # people
 ### Ross Sandler
 - Koch administration's "in-house expert on public transportation"
-- Source: Ed Koch, "Mayor", 1984, 334
+- Source: Ed Koch, "Mayor", 1984, pp334.
 - Tags: [koch](../tags/koch.md) [people](../tags/people.md)
 
 ### Joseph Giulietti

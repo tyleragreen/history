@@ -1,5 +1,9 @@
 # Urban History
 This document accompanies my urban history studies. Focus will be placed on all financial aspects of public policy, particularly those of New York City and the [Metropolitan Transportation Authority](http://www.mta.info).
+### David Gunn leaves MTA
+- Source: William G. Blair, "Gunn to Leave Transit Agency; Says System Is Now Acceptable," *The New York Times*, January 6, 1990. [link](http://www.nytimes.com/1990/01/06/nyregion/gunn-to-leave-transit-agency-says-system-is-now-acceptable.html)
+- Tags: [gunn](tags/gunn.md) [mta](tags/mta.md) [mta-leadership](tags/mta-leadership.md) [todo](tags/todo.md)
+
 ### Portal Bridge replacement mulled
 - Source: Patrick McGeehan, "104-Year-Old Portal Bridge Presents $900 Million Problem for Rail Commuters," *The New York Times*, September 25, 2014. [link](https://www.nytimes.com/2014/09/26/nyregion/portal-bridge-presents-northeast-rail-commuters-with-a-104-year-old-problem.html)
 - Tags: [northeast-corridor](tags/northeast-corridor.md) [portal-bridge](tags/portal-bridge.md)

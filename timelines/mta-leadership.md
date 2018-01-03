@@ -9,6 +9,11 @@
 - Tags: [gunn](../tags/gunn.md) [mta](../tags/mta.md) [mta-leadership](../tags/mta-leadership.md) [todo](../tags/todo.md)
 
 ## 2010s
+**April 19, 2017** - Janno Lieber becomes MTA Chief Development Offficer
+- Was at Silverstein Properties
+- Source: Emma Fitzsimmons, "World Trade Center Developer to Oversee M.T.A. Expansion Projects," *The New York Times*, April 19, 2017. [link](https://www.nytimes.com/2017/04/19/nyregion/janno-lieber-mta-world-trade-center-silverstein.html)
+- Tags: [lieber](../tags/lieber.md) [mta](../tags/mta.md) [mta-leadership](../tags/mta-leadership.md) [todo](../tags/todo.md)
+
 **November 21, 2017** - Andy Byford named president of MTA New York City Transit
 - Byford caught Cuomo's eye after his participation in the 2014 MTA Reinvention Commission
 - Byford "first rode the New York City subway in 1994 when he was on his honeymoon and 'marveled at its complexity.'"

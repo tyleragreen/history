@@ -1,5 +1,10 @@
 # Urban History
 This document accompanies my urban history studies. Focus will be placed on all financial aspects of public policy, particularly those of New York City and the [Metropolitan Transportation Authority](http://www.mta.info).
+### Janno Lieber becomes MTA Chief Development Offficer
+- Was at Silverstein Properties
+- Source: Emma Fitzsimmons, "World Trade Center Developer to Oversee M.T.A. Expansion Projects," *The New York Times*, April 19, 2017. [link](https://www.nytimes.com/2017/04/19/nyregion/janno-lieber-mta-world-trade-center-silverstein.html)
+- Tags: [lieber](tags/lieber.md) [mta](tags/mta.md) [mta-leadership](tags/mta-leadership.md) [todo](tags/todo.md)
+
 ### David Gunn leaves MTA
 - Source: William G. Blair, "Gunn to Leave Transit Agency; Says System Is Now Acceptable," *The New York Times*, January 6, 1990. [link](http://www.nytimes.com/1990/01/06/nyregion/gunn-to-leave-transit-agency-says-system-is-now-acceptable.html)
 - Tags: [gunn](tags/gunn.md) [mta](tags/mta.md) [mta-leadership](tags/mta-leadership.md) [todo](tags/todo.md)

@@ -2,6 +2,7 @@
   - [articles](./articles.md)
   - [ballan](./ballan.md)
   - [bigel](./bigel.md)
+  - [boggs-report](./boggs-report.md)
   - [bonds](./bonds.md)
   - [budget](./budget.md)
   - [byford](./byford.md)

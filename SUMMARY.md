@@ -9,6 +9,7 @@
   - [articles](tags/articles.md)
   - [ballan](tags/ballan.md)
   - [bigel](tags/bigel.md)
+  - [boggs-report](tags/boggs-report.md)
   - [bonds](tags/bonds.md)
   - [budget](tags/budget.md)
   - [byford](tags/byford.md)

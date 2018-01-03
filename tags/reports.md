@@ -1,4 +1,9 @@
 # reports
+### Worker Killed on Seventh Avenue Line
+- Date: April 24, 2007
+- Source: [mta](http://www.nytimes.com/packages/pdf/nyregion/city_room/20070802_boggsreport.pdf)
+- Tags: [boggs-report](../tags/boggs-report.md) [mta](../tags/mta.md) [reports](../tags/reports.md)
+
 ### Fare increases from 5 cents to 10 cents
 - Date: July 1, 1948
 - $37.5mil increase in fare revenue during last 6 months of 1948 [2]

@@ -1,5 +1,10 @@
 # Urban History
 This document accompanies my urban history studies. Focus will be placed on all financial aspects of public policy, particularly those of New York City and the [Metropolitan Transportation Authority](http://www.mta.info).
+### Worker Killed on Seventh Avenue Line
+- Date: April 24, 2007
+- Source: [mta](http://www.nytimes.com/packages/pdf/nyregion/city_room/20070802_boggsreport.pdf)
+- Tags: [boggs-report](tags/boggs-report.md) [mta](tags/mta.md) [reports](tags/reports.md)
+
 ### Janno Lieber becomes MTA Chief Development Offficer
 - Was at Silverstein Properties
 - Source: Emma Fitzsimmons, "World Trade Center Developer to Oversee M.T.A. Expansion Projects," *The New York Times*, April 19, 2017. [link](https://www.nytimes.com/2017/04/19/nyregion/janno-lieber-mta-world-trade-center-silverstein.html)

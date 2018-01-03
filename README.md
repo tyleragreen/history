@@ -1,5 +1,10 @@
 # Urban History
 This document accompanies my urban history studies. Focus will be placed on all financial aspects of public policy, particularly those of New York City and the [Metropolitan Transportation Authority](http://www.mta.info).
+### Christie kills Hudson tunnel
+- Date: October 6, 2010
+- Source: Patrick McGeehan, "Christie Halts Train Tunnel, Citing Its Cost," *The New York Times*, October 7, 2010. [link](http://www.nytimes.com/2010/10/08/nyregion/08tunnel.html)
+- Tags: [christie](tags/christie.md) [hudson-tunnels](tags/hudson-tunnels.md)
+
 ### Andy Byford named president of MTA New York City Transit
 - Byford caught Cuomo's eye after his participation in the 2014 MTA Reinvention Commission
 - Byford "first rode the New York City subway in 1994 when he was on his honeymoon and 'marveled at its complexity.'"
@@ -22,7 +27,7 @@ This document accompanies my urban history studies. Focus will be placed on all 
 ### Pennslyvania Railroad receives approval for terminal and tunnels
 - Board of Aldermen approved tunnel franchise by one vote
 - Source: "THE ALDERMEN YIELD," *The New York Times*, December 17, 1902. [link](https://nyti.ms/2i8QRs0)
-- Tags: [penn-station](tags/penn-station.md) [pennrr](tags/pennrr.md)
+- Tags: [hudson-tunnels](tags/hudson-tunnels.md) [penn-station](tags/penn-station.md) [pennrr](tags/pennrr.md)
 
 ### Rockefeller proposes state take over Harlem and Hudson lines
 - Rockefeller also announced modernization plans, pending legislative approval of the bond authority

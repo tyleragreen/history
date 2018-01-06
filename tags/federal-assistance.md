@@ -28,10 +28,10 @@
   - Corporate-tax revenues were down $15mil
   - Federal aid was $25mil less than expected
 - "Technically, the M.T.A. can approve fare increases without the agreement of lawmakers. The Legislature, however, controls the authority's huge capital plans, giving it strong influence." [2]
-- Source: "Turnstile Politics: Preparing for the $1.15 Token," *The New York Times*, December 3, 1989. [link](https://nyti.ms/2jZIwXH)
 - Source: "Kiley Says Fares Could Increase Beyond $1.15 Planned for 1990," *The New York Times*, June 1, 1989. [link](https://nyti.ms/2k2gg78)
 - Source: David E. Pitt, "A $1.15 Token Now Supported By Transit Staff," *The New York Times*, December 2, 1989. [link](https://nyti.ms/2k2gg78)
 - Source: Eric Schmitt, "Transit Lines Brace for Test Of $1.15 Fare," *The New York Times*, January 2, 1990. [link](https://nyti.ms/2yqt5dw)
+- Source: "Turnstile Politics: Preparing for the $1.15 Token," *The New York Times*, December 3, 1989. [link](https://nyti.ms/2jZIwXH)
 - Tags: [fare-increases](../tags/fare-increases.md) [federal-assistance](../tags/federal-assistance.md) [kiley](../tags/kiley.md) [mta](../tags/mta.md) [rohatyn](../tags/rohatyn.md)
 
 ### Fare increases from 75 cents to 90 cents

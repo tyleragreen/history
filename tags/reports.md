@@ -33,10 +33,10 @@
   - 2-cent transfer charge for Brooklyn surface lines eliminated
   - On 12 cent fare with transfer to rapid transit, surface lines only collecting share of 5 cents
     - *seems like an internal NYCTA policy*
-- Source: "Report for the three and one-half years ending June 30, 1949.," *The City of New York Board of Transportation*, 82, 1949. [link](https://hdl.handle.net/2027/mdp.39015023094926)
 - Source: Paul Crowell, "City Gains $37,520,822 in 6 Months Under New Fares, but Fewer Ride," *The New York Times*, February 17, 1949. [link](https://nyti.ms/2ynT99o)
 - Source: "THE FIVE-CENT FARE," *The New York Times*, January 13, 1942. [link](https://nyti.ms/2yzoHZG)
 - Source: "TRANSIT REVENUES UP 56.77% IN JULY," *The New York Times*, August 14, 1948. [link](https://nyti.ms/2fG6XIz)
+- Source: "Report for the three and one-half years ending June 30, 1949.," *The City of New York Board of Transportation*, 82, 1949. [link](https://hdl.handle.net/2027/mdp.39015023094926)
 - Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md) [reports](../tags/reports.md)
 
 ### From Rescue to Renaissance: The Achievements of the MTA Capital Program 1982 - 2004

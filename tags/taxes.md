@@ -19,8 +19,8 @@
   - "A tax based on the net income and capital of oil companies' outof-state and international operations."
   - "A corporate franchise tax of 0.75 percent on the gross returns from the in-state portion of interstate communications and commercial transport." Known as the "long lines" tax.
 - *I think these all still exist. Should annotate individually.*
-- Source: "FIVE TAXES VOTED IN ALBANY TO GIVE MASS-TRANSIT AID," *The New York Times*, July 10, 1981. [link](http://www.nytimes.com/1981/07/10/nyregion/five-taxes-voted-in-albany-to-give-mass-transit-aid.html)
 - Source: Richard J. Meislin, "FARE RISES TO 75 CENTS; TRANSIT TAX PLAN DRAWN IN ALBANY," *The New York Times*, July 3, 1981. [link](https://nyti.ms/2fCxIgS)
+- Source: "FIVE TAXES VOTED IN ALBANY TO GIVE MASS-TRANSIT AID," *The New York Times*, July 10, 1981. [link](http://www.nytimes.com/1981/07/10/nyregion/five-taxes-voted-in-albany-to-give-mass-transit-aid.html)
 - Tags: [mta](../tags/mta.md) [taxes](../tags/taxes.md)
 
 ### Commuter Tax Repealed

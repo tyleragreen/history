@@ -45,9 +45,9 @@
   - Before Ravitch Commission report was adopted in the legislature, which created Payroll Mobility Tax
   - Report also suggested tolls on East River and Harlem River bridges
   - MTA executive director Elliot G. Sander referred to capital construction binge from 2000 to 2004 as being put "on a credit card"
-- Source: "Farewell $2, hi $2.25," *New York Daily News*, June 28, 2009. [link](http://www.nydailynews.com/new-york/mta-subway-fare-hike-takes-effect-sunday-price-rises-2-25-ride-article-1.373236)
 - Source: "M.T.A. Increases Fares and Cuts Services," *The New York Times*, March 25, 2009. [link](https://cityroom.blogs.nytimes.com/2009/03/25/mta-board-meets-to-vote-on-fare-hikes/)
 - Source: "Approved Fares for NYC Transit, MTA Bus, Long Island Bus and the Staten Island Railway," *Metropolitan Transportation Authority*, December 30, 2010. [link](https://web.archive.org/web/20101122052827/http://mta.info/mta/pdf/approved_fares.pdf)
+- Source: "Farewell $2, hi $2.25," *New York Daily News*, June 28, 2009. [link](http://www.nydailynews.com/new-york/mta-subway-fare-hike-takes-effect-sunday-price-rises-2-25-ride-article-1.373236)
 - Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md) [sanders](../tags/sanders.md)
 
 ### Fare increases from $1.50 to $2
@@ -69,10 +69,10 @@
   - Corporate-tax revenues were down $15mil
   - Federal aid was $25mil less than expected
 - "Technically, the M.T.A. can approve fare increases without the agreement of lawmakers. The Legislature, however, controls the authority's huge capital plans, giving it strong influence." [2]
-- Source: "Turnstile Politics: Preparing for the $1.15 Token," *The New York Times*, December 3, 1989. [link](https://nyti.ms/2jZIwXH)
 - Source: "Kiley Says Fares Could Increase Beyond $1.15 Planned for 1990," *The New York Times*, June 1, 1989. [link](https://nyti.ms/2k2gg78)
 - Source: David E. Pitt, "A $1.15 Token Now Supported By Transit Staff," *The New York Times*, December 2, 1989. [link](https://nyti.ms/2k2gg78)
 - Source: Eric Schmitt, "Transit Lines Brace for Test Of $1.15 Fare," *The New York Times*, January 2, 1990. [link](https://nyti.ms/2yqt5dw)
+- Source: "Turnstile Politics: Preparing for the $1.15 Token," *The New York Times*, December 3, 1989. [link](https://nyti.ms/2jZIwXH)
 - Tags: [fare-increases](../tags/fare-increases.md) [federal-assistance](../tags/federal-assistance.md) [kiley](../tags/kiley.md) [mta](../tags/mta.md) [rohatyn](../tags/rohatyn.md)
 
 ### Fare increases from 75 cents to 90 cents
@@ -105,8 +105,8 @@
   - 15-cent fare possible because taxpayer subsidizes all NYCTA capital costs
     - 1961 debt service was $92mil
   - City-owned NYCTA did not pay taxes, Fifth Avenue coaches paid more than $4mil annually in taxes
-- Source: "REACTIONS MIXED TO 20-CENT FARE," *The New York Times*, July 6, 1966. [link](https://nyti.ms/2ynACd6)
 - Source: "A 20-Cent Fare?," *The New York Times*, May 5, 1961. [link](https://nyti.ms/2yyOpxy)
+- Source: "REACTIONS MIXED TO 20-CENT FARE," *The New York Times*, July 6, 1966. [link](https://nyti.ms/2ynACd6)
 - Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
 
 ### Fare increases from 10 cents to 15 cents
@@ -142,9 +142,9 @@
 - Lhota announced his resignation to run for mayor after December 18th board meeting
 - Fare and toll increases expected to raise $450mil annually
 - Board members wished for greater transit subsidies rather than biannual fare increases
-- Source: "Increase in Base Subway Fare and 30-Day Pass Is Approved," *The New York Times*, December 19, 2012. [link](http://www.nytimes.com/2012/12/20/nyregion/mta-raises-cost-of-single-rides-and-monthly-passes.html)
 - Source: "M.T.A. Weighs Who Will Pay When It Raises Transit Fares," *The New York Times*, October 12, 2012. [link](http://www.nytimes.com/2012/10/13/nyregion/raising-fare-for-subway-and-buses-is-a-question-of-how-not-when-or-why.html)
 - Source: [mta](https://web.archive.org/web/20130224131911/http://www.mta.info/nyct/fare/NewFares.htm)
+- Source: "Increase in Base Subway Fare and 30-Day Pass Is Approved," *The New York Times*, December 19, 2012. [link](http://www.nytimes.com/2012/12/20/nyregion/mta-raises-cost-of-single-rides-and-monthly-passes.html)
 - Tags: [fare-increases](../tags/fare-increases.md) [lhota](../tags/lhota.md) [mta](../tags/mta.md)
 
 ### Fare increases from 30 cents to 35 cents
@@ -185,10 +185,10 @@
   - 2-cent transfer charge for Brooklyn surface lines eliminated
   - On 12 cent fare with transfer to rapid transit, surface lines only collecting share of 5 cents
     - *seems like an internal NYCTA policy*
-- Source: "Report for the three and one-half years ending June 30, 1949.," *The City of New York Board of Transportation*, 82, 1949. [link](https://hdl.handle.net/2027/mdp.39015023094926)
 - Source: Paul Crowell, "City Gains $37,520,822 in 6 Months Under New Fares, but Fewer Ride," *The New York Times*, February 17, 1949. [link](https://nyti.ms/2ynT99o)
 - Source: "THE FIVE-CENT FARE," *The New York Times*, January 13, 1942. [link](https://nyti.ms/2yzoHZG)
 - Source: "TRANSIT REVENUES UP 56.77% IN JULY," *The New York Times*, August 14, 1948. [link](https://nyti.ms/2fG6XIz)
+- Source: "Report for the three and one-half years ending June 30, 1949.," *The City of New York Board of Transportation*, 82, 1949. [link](https://hdl.handle.net/2027/mdp.39015023094926)
 - Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md) [reports](../tags/reports.md)
 
 ### Fare increases from $2.50 to $2.75
@@ -208,8 +208,8 @@
   - "The regularly scheduled increases are part of a rescue plan approved by the State Legislature in 2009."
   - This plan reduced expected revenues by over $900mil
     - To be balanced by 3 years of "net zero" labor cost increases
-- Source: "M.T.A. Is Raising Fares and Tolls; One Subway or Bus Ride Will Cost $2.75," *The New York Times*, January 22, 2015. [link](https://www.nytimes.com/2015/01/23/nyregion/mta-raises-fares-subways-and-buses.html)
 - Source: Matt Flegenheimer, "M.T.A. Sees Smaller Fare Increases in ’15 and ’17," *The New York Times*, November 13, 2013. [link](http://www.nytimes.com/2013/11/14/nyregion/mta-sees-smaller-rise-for-its-fares-in-15-and-17.html)
+- Source: "M.T.A. Is Raising Fares and Tolls; One Subway or Bus Ride Will Cost $2.75," *The New York Times*, January 22, 2015. [link](https://www.nytimes.com/2015/01/23/nyregion/mta-raises-fares-subways-and-buses.html)
 - Tags: [fare-increases](../tags/fare-increases.md) [foran](../tags/foran.md) [mta](../tags/mta.md) [prendergast](../tags/prendergast.md)
 
 ### Fare increases from 90 cents to $1
@@ -247,10 +247,10 @@
     - $19mil in additonal benefits payments
   - Productivity gains from new agreement with TWU estimated $15mil savings due to "addition of 20 minutes of productive work time"
     - *assuming this means less overtime pay*
-- Source: "Old and New Commuter Fares in New York Area," *The New York Times*, June 30, 1980. [link](https://query.nytimes.com/gst/abstract.html?res=9D02E1D71230E532A25753C3A9609C94619FD6CF&legacy=true)
 - Source: "Transit Officials Brace for Rush on Tokens," *The New York Times*, June 30, 1980. [link](https://nyti.ms/2yfpKOo)
 - Source: "Ravitch Predicts 75 Transit Fare If Legislature Doesn't Act By July," *The New York Times*, April 21, 1980. [link](https://nyti.ms/2yw59FH)
 - Source: David A. Andelman, "$170 Million in New Taxes Called the Key to 50 Fare," *The New York Times*, April 26, 1980. [link](https://nyti.ms/2yw68WD)
+- Source: "Old and New Commuter Fares in New York Area," *The New York Times*, June 30, 1980. [link](https://query.nytimes.com/gst/abstract.html?res=9D02E1D71230E532A25753C3A9609C94619FD6CF&legacy=true)
 - Tags: [carey](../tags/carey.md) [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md) [ravitch](../tags/ravitch.md) [strike-1980](../tags/strike-1980.md)
 
 ### Fare increases from 35 cents to 50 cents
@@ -308,7 +308,7 @@
       - Levy argued this transfer would be similar to 1960s and 70s, when MTA several deferred maintenance on its infrastructure
 - Subway and bus farebox recovery was 61% in 1991, commuter railroads was less than 50%
 - Operating deficit was caused by a sharp downturn in the local economy
-- Source: "Token price rises 10 cents to $1.25 in New York City," *The New York Times*, January 1, 1992. [link](http://www.nytimes.com/1992/01/01/nyregion/token-price-rises-10-cents-to-1.25-in-new-york-city.html)
 - Source: Sam Howe Verhovek, "G.O.P. Senator Opposes Using Rail Funds to Limit Subway Fare," *The New York Times*, December 5, 1991. [link](https://nyti.ms/2jXwI8m)
+- Source: "Token price rises 10 cents to $1.25 in New York City," *The New York Times*, January 1, 1992. [link](http://www.nytimes.com/1992/01/01/nyregion/token-price-rises-10-cents-to-1.25-in-new-york-city.html)
 - Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md) [stangl](../tags/stangl.md)
 

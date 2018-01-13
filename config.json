@@ -6,5 +6,8 @@
     "fiscal-crisis",
     "expansion",
     "mta-leadership"
-  ]
+  ],
+  "sources": {
+    "nyt": "The New York Times"
+  }
 }

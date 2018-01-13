@@ -129,7 +129,7 @@
 - Transit agency payroll tripled in a decade
 - Deferred maintenance backlog estimated to be $75mil
 - General Hugh J. Casey was authority chairman
-- Source: "THE 15-CENT FARE," *The New York Times*, July 14, 1953. [link](https://nyti.ms/2yorMfe)
+- Source: [nyc](https://nyti.ms/2yorMfe)
 - Tags: [fare-increases](../tags/fare-increases.md) [mta](../tags/mta.md)
 
 ### Fare increases from $2.25 to $2.50

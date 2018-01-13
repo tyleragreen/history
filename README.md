@@ -249,7 +249,7 @@ This document accompanies my urban history studies. Focus will be placed on all 
 - Transit agency payroll tripled in a decade
 - Deferred maintenance backlog estimated to be $75mil
 - General Hugh J. Casey was authority chairman
-- Source: "THE 15-CENT FARE," *The New York Times*, July 14, 1953. [link](https://nyti.ms/2yorMfe)
+- Source: [nyc](https://nyti.ms/2yorMfe)
 - Tags: [fare-increases](tags/fare-increases.md) [mta](tags/mta.md)
 
 ### 63rd St Tunnel Connection Opens
@@ -763,7 +763,7 @@ This document accompanies my urban history studies. Focus will be placed on all 
 ### Eugene Keilin appointed MAC chairman by Cuomo
 - Date: October 4, 1993
 - Succeeded Felix Rohatyn
-- Source: "Cuomo Picks Investment Banker for Municipal Post," *The New York Times*, October 4, 1993. [link](http://www.nytimes.com/1993/10/05/nyregion/cuomo-picks-investment-banker-for-municipal-assistance-post.html)
+- Source: [nyc](http://www.nytimes.com/1993/10/05/nyregion/cuomo-picks-investment-banker-for-municipal-assistance-post.html)
 - Tags: [nyc](tags/nyc.md) [nycfc](tags/nycfc.md) [rohatyn](tags/rohatyn.md)
 
 ### New York City Loan Guarantee Act
@@ -792,7 +792,7 @@ This document accompanies my urban history studies. Focus will be placed on all 
 
 ### Daniel Patrick Moynihan
 - Let "accelerated depreciation" expire
-- Source: "Sentate's Real Estate Tax Blow," *The New York Times*, March 19, 1984. [link](http://www.nytimes.com/1984/03/19/business/senate-s-real-estate-tax-blow.html)
+- Source: [nyc](http://www.nytimes.com/1984/03/19/business/senate-s-real-estate-tax-blow.html)
 - Tags: [moynihan](tags/moynihan.md) [nyc](tags/nyc.md) [people](tags/people.md) [tax-policy](tags/tax-policy.md) [todo](tags/todo.md)
 
 ### Mitchell Moss

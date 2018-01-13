@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "notetime": "^1.1.5"
+    "notetime": "^1.1.7"
   },
   "devDependencies": {},
   "scripts": {

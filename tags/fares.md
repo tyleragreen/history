@@ -1,4 +1,8 @@
 # fares
+### Supreme Court upholds Transit Commission decision to deny IRT 7 cent fare
+- Source: "Decision is Climax of Long Litigation," *The New York Times*, April 9, 1929. [link](https://nyti.ms/2EGORwN)
+- Tags: [fares](../tags/fares.md) [irt](../tags/irt.md)
+
 ### School Children Fare Debate
 - *Was this the beginning of the end for 100% farebox recovery?*
 - Source: "City to Add 9 Million Aid To Help Keep 15c Fare," *The New York Times*, July 10, 1963. [link](https://nyti.ms/2jW4Mlg)

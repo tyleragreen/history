@@ -1,4 +1,4 @@
-# dual-contracts
+# bmt
 ### Dual Contracts signed
 - Date: March 19, 1913
 - People

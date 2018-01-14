@@ -1,4 +1,8 @@
-# dual-contracts
+# irt
+### Supreme Court upholds Transit Commission decision to deny IRT 7 cent fare
+- Source: "Decision is Climax of Long Litigation," *The New York Times*, April 9, 1929. [link](https://nyti.ms/2EGORwN)
+- Tags: [fares](../tags/fares.md) [irt](../tags/irt.md)
+
 ### Dual Contracts signed
 - Date: March 19, 1913
 - People

@@ -1,4 +1,4 @@
-# dual-contracts
+# mcaneny
 ### Dual Contracts signed
 - Date: March 19, 1913
 - People

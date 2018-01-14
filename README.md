@@ -1,5 +1,11 @@
 # Urban History
 This document accompanies my urban history studies. Focus will be placed on all financial aspects of public policy, particularly those of New York City and the [Metropolitan Transportation Authority](http://www.mta.info).
+### IND employees entered civil service
+- Date: 1935
+- Board of Transportation had completed construction of the IND subway in 1932
+- Source: [kheel](http://rmc.library.cornell.edu/EAD/htmldocs/KCL05251.html)
+- Tags: [ind](tags/ind.md) [labor](tags/labor.md)
+
 ### Worker Killed on Seventh Avenue Line
 - Date: April 24, 2007
 - Source: [mta](http://www.nytimes.com/packages/pdf/nyregion/city_room/20070802_boggsreport.pdf)

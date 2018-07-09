@@ -8,6 +8,7 @@
     "mta-leadership"
   ],
   "sources": {
-    "nyt": "The New York Times"
+    "nyt": "The New York Times",
+    "newyorker": "The New Yorker"
   }
 }

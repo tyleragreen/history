@@ -94,3 +94,4 @@
   - [walder](tags/walder.md)
 - [Sources](sources/README.md)
   - [nyt](sources/nyt.md)
+  - [newyorker](sources/newyorker.md)

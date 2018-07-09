@@ -1,6 +1,7 @@
 # newyorker
 ### New Yorker on Andy Byford's first 6 months
 - Source: William Finnegan, "Can Andy Byford Save the Subways?," *The New Yorker*, July 9, 2018. [link](https://www.newyorker.com/magazine/2018/07/09/can-andy-byford-save-the-subways)
+- Tags: [byford](../tags/byford.md)
 
 ### New Yorker on Bob Kiley
 - MTA offices were at 347 Madison Avenue, near Grand Central

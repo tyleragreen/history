@@ -2,6 +2,7 @@
 This document accompanies my urban history studies. Focus will be placed on all financial aspects of public policy, particularly those of New York City and the [Metropolitan Transportation Authority](http://www.mta.info).
 ### New Yorker on Andy Byford's first 6 months
 - Source: William Finnegan, "Can Andy Byford Save the Subways?," *The New Yorker*, July 9, 2018. [link](https://www.newyorker.com/magazine/2018/07/09/can-andy-byford-save-the-subways)
+- Tags: [byford](tags/byford.md)
 
 ### Supreme Court upholds Transit Commission decision to deny IRT 7 cent fare
 - Source: "Decision is Climax of Long Litigation," *The New York Times*, April 9, 1929. [link](https://nyti.ms/2EGORwN)

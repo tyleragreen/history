@@ -26,6 +26,7 @@
   - [de-blasio](tags/de-blasio.md)
   - [doctoroff](tags/doctoroff.md)
   - [dual-contracts](tags/dual-contracts.md)
+  - [education](tags/education.md)
   - [elevated](tags/elevated.md)
   - [expansion](tags/expansion.md)
   - [fare-increases](tags/fare-increases.md)

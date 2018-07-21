@@ -19,6 +19,7 @@
   - [de-blasio](./de-blasio.md)
   - [doctoroff](./doctoroff.md)
   - [dual-contracts](./dual-contracts.md)
+  - [education](./education.md)
   - [elevated](./elevated.md)
   - [expansion](./expansion.md)
   - [fare-increases](./fare-increases.md)

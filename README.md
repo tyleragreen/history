@@ -276,7 +276,7 @@ This document accompanies my urban history studies. Focus will be placed on all 
 - Source: Richard L. Madden, "ALBANY DEFEATS MEASURE TO SAVE 15-CENT CITY FARE," *The New York Times*, June 2, 1966. [link](https://nyti.ms/2JHQg8v)
 - Source: Robert Alden, "TRANSIT FARE RISE OF 5 OR 10 CENTS CONSIDERED SURE," *The New York Times*, June 1, 1966. [link](https://nyti.ms/2JHALxt)
 - Source: "REACTIONS MIXED TO 20-CENT FARE," *The New York Times*, July 6, 1966. [link](https://nyti.ms/2ynACd6)
-- Tags: [fare-increases](tags/fare-increases.md) [mta](tags/mta.md)
+- Tags: [fare-increases](tags/fare-increases.md) [mta](tags/mta.md) [transit-strike-1966](tags/transit-strike-1966.md)
 
 ### Fare increases from 10 cents to 15 cents
 - Date: July 25, 1953
@@ -459,7 +459,7 @@ This document accompanies my urban history studies. Focus will be placed on all 
 - Source: "Ravitch Predicts 75 Transit Fare If Legislature Doesn't Act By July," *The New York Times*, April 21, 1980. [link](https://nyti.ms/2yw59FH)
 - Source: David A. Andelman, "$170 Million in New Taxes Called the Key to 50 Fare," *The New York Times*, April 26, 1980. [link](https://nyti.ms/2yw68WD)
 - Source: "Old and New Commuter Fares in New York Area," *The New York Times*, June 30, 1980. [link](https://query.nytimes.com/gst/abstract.html?res=9D02E1D71230E532A25753C3A9609C94619FD6CF&legacy=true)
-- Tags: [carey](tags/carey.md) [fare-increases](tags/fare-increases.md) [mta](tags/mta.md) [ravitch](tags/ravitch.md) [strike-1980](tags/strike-1980.md)
+- Tags: [carey](tags/carey.md) [fare-increases](tags/fare-increases.md) [mta](tags/mta.md) [ravitch](tags/ravitch.md) [transit-strike-1980](tags/transit-strike-1980.md)
 
 ### Fare increases from 35 cents to 50 cents
 - Interesting era for transit funding, with city in fiscal trouble and federal dollars for transit beginning: "In this city, so close to insolvency, little more can be expected in direct subsidy out of existing tax funds. But there is need for quick action on a new regional tax to underwrite mass transit, of the kind now under study by a state legislative committee. There is also need for more substantial financial support from Washington, now that the initial breakthrough has been made on Federal subsidy for both operating and capital costs."

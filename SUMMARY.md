@@ -56,6 +56,7 @@
   - [moynihan](tags/moynihan.md)
   - [mta](tags/mta.md)
   - [mta-bus](tags/mta-bus.md)
+  - [mta-formation](tags/mta-formation.md)
   - [mta-leadership](tags/mta-leadership.md)
   - [northeast-corridor](tags/northeast-corridor.md)
   - [nyc](tags/nyc.md)

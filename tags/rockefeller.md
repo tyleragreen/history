@@ -1,4 +1,11 @@
 # rockefeller
+### Rockfeller proposes what would become MTA
+- MCTA had been formed in 1965 to buy and operate Long Island Rail Road
+- Ronan was MCTA chair
+- Rockefeller's plan would be designed to avoid legal questions about rights of Triborough bondholders
+- Source: "Rockefller Seeks Regional Agency to Direct Transit," *The New York Times*, June 3, 1966. [link](https://nyti.ms/2O7DAej)
+- Tags: [mta-formation](../tags/mta-formation.md) [rockefeller](../tags/rockefeller.md) [ronan](../tags/ronan.md)
+
 ### Rockefeller proposes state take over Harlem and Hudson lines
 - Rockefeller also announced modernization plans, pending legislative approval of the bond authority
   - *not sure what bond authority is here*

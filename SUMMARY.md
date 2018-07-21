@@ -48,6 +48,7 @@
   - [legal](tags/legal.md)
   - [lhota](tags/lhota.md)
   - [lieber](tags/lieber.md)
+  - [lindsay](tags/lindsay.md)
   - [mac](tags/mac.md)
   - [mcaneny](tags/mcaneny.md)
   - [metro-north](tags/metro-north.md)

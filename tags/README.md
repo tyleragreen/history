@@ -41,6 +41,7 @@
   - [legal](./legal.md)
   - [lhota](./lhota.md)
   - [lieber](./lieber.md)
+  - [lindsay](./lindsay.md)
   - [mac](./mac.md)
   - [mcaneny](./mcaneny.md)
   - [metro-north](./metro-north.md)

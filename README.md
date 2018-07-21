@@ -1,5 +1,10 @@
 # Urban History
 This document accompanies my urban history studies. Focus will be placed on all financial aspects of public policy, particularly those of New York City and the [Metropolitan Transportation Authority](http://www.mta.info).
+### Lindsay's transportation plan
+- Would merge Transit Authority and Triborough
+- Source: Richard Witken, "Lindsay and 'the Moses Problem'," *The New York Times*, March 20, 1966. [link](https://nyti.ms/2O7DAej)
+- Tags: [lindsay](tags/lindsay.md)
+
 ### Commuter Tax and City Income tax approved in state legislature
 - Commuter tax and city income tax enacted as part of $253 city tax package
 - Source: Richard L. Madden, "Councile Votes Income Tax After Albany's Approval; Medicaid's Scope Reduced," *The New York Times*, July 2, 1966. [link](https://nyti.ms/2O7DAej)

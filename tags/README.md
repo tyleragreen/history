@@ -32,6 +32,7 @@
   - [housing](./housing.md)
   - [hudson-tunnels](./hudson-tunnels.md)
   - [ind](./ind.md)
+  - [indian-railways](./indian-railways.md)
   - [institutions](./institutions.md)
   - [irt](./irt.md)
   - [javits](./javits.md)

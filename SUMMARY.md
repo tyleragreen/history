@@ -39,6 +39,7 @@
   - [housing](tags/housing.md)
   - [hudson-tunnels](tags/hudson-tunnels.md)
   - [ind](tags/ind.md)
+  - [indian-railways](tags/indian-railways.md)
   - [institutions](tags/institutions.md)
   - [irt](tags/irt.md)
   - [javits](tags/javits.md)

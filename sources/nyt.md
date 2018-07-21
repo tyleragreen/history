@@ -1,4 +1,9 @@
 # nyt
+### Commuter Tax and City Income tax approved in state legislature
+- Commuter tax and city income tax enacted as part of $253 city tax package
+- Source: Richard L. Madden, "Councile Votes Income Tax After Albany's Approval; Medicaid's Scope Reduced," *The New York Times*, July 2, 1966. [link](https://nyti.ms/2O7DAej)
+- Tags: [taxes](../tags/taxes.md)
+
 ### Supreme Court upholds Transit Commission decision to deny IRT 7 cent fare
 - Source: "Decision is Climax of Long Litigation," *The New York Times*, April 9, 1929. [link](https://nyti.ms/2EGORwN)
 - Tags: [fares](../tags/fares.md) [irt](../tags/irt.md)

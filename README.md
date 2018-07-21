@@ -1,5 +1,10 @@
 # Urban History
 This document accompanies my urban history studies. Focus will be placed on all financial aspects of public policy, particularly those of New York City and the [Metropolitan Transportation Authority](http://www.mta.info).
+### Commuter Tax and City Income tax approved in state legislature
+- Commuter tax and city income tax enacted as part of $253 city tax package
+- Source: Richard L. Madden, "Councile Votes Income Tax After Albany's Approval; Medicaid's Scope Reduced," *The New York Times*, July 2, 1966. [link](https://nyti.ms/2O7DAej)
+- Tags: [taxes](tags/taxes.md)
+
 ### New Yorker on Andy Byford's first 6 months
 - Source: William Finnegan, "Can Andy Byford Save the Subways?," *The New Yorker*, July 9, 2018. [link](https://www.newyorker.com/magazine/2018/07/09/can-andy-byford-save-the-subways)
 - Tags: [byford](tags/byford.md)

@@ -1,4 +1,9 @@
 # taxes
+### Commuter Tax and City Income tax approved in state legislature
+- Commuter tax and city income tax enacted as part of $253 city tax package
+- Source: Richard L. Madden, "Councile Votes Income Tax After Albany's Approval; Medicaid's Scope Reduced," *The New York Times*, July 2, 1966. [link](https://nyti.ms/2O7DAej)
+- Tags: [taxes](../tags/taxes.md)
+
 ### de Blasio pushes for "Millionaire's Tax"
 - Date: August 7, 2017
 - Would increase city income tax rate for those making over $500k from 3.9% to 4.4%

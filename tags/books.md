@@ -8,7 +8,7 @@
 - 1967 July 19 - At the mayor's insistence, the first air-conditioned subway train is put into service on the F line. It would take twenty-five years to convert the entire fleet.
 - 1967 December 7 - Special Theatre Zoning District adopted, with incentives that produce three new theatres, the first in 40 years, and a 54-story One Astor Place, hoping to spur the rebirth of Times Square.
 - 1968 April 25 - JVL and Governor Rockefeller announce memorandum of understanding to allow Battery Park City to be built on landfill.
-- 1968 July 1 - NYC introduces nation's first 911 policy emergency number
+- 1968 July 1 - NYC introduces nation's first 911 police emergency number
 - 1969 April 24 - Lincoln Square Zoning District enacted so that future development complements new Lincoln Center.
 - 1969 April 27 - State legislature approves Lindsay plan to create an independent Health and Hospitals Corporation to manage city' hospital system.
 - 1969 April 30 - State legislature passes the School Decentralization Act, which divides the city school system into thirty-one (later thirty-two) districts with elected community boards.

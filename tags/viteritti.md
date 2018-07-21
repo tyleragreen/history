@@ -1,10 +1,5 @@
-; title Lindsay Timeline from Viteritti book
-; 1-source-title Summer in the City: John Lindsay, New York, and the American Dream
-; 1-source-date February 25, 2014
-; 1-source-author Joseph P. Viteritti
-; 1-source-pages 241-265
-; tags viteritti books lindsay
-
+# viteritti
+### Lindsay Timeline from Viteritti book
 - 1966 June 25 - U.S. Government closes Brooklyn Navy Yard; nine thousand jobs lost.
 - 1966 July 1 - NY State Legislature and Governor Rockefeller, after much political dispute, approve JVL's proposed city income tax and a historic commuter tax.
 - 1966 July 5 - To finance the settlement of a transit strike, subway and bus fares increase from 15 cents to 20 cents.
@@ -31,3 +26,6 @@
 - 1973 January 3 - George Steinbrenner leads group that buys the Yankees from CBS for $10 million.
 - 1973 September 24 - JVL renames Welfare Island as Roosevelt Island in honor of FDR.
 - 1973 October 5 - City approves purchase of 197-acre Howland Hook Containership Terminal as part of effort to revive port.
+- Source: Joseph P. Viteritti, "Summer in the City: John Lindsay, New York, and the American Dream", February 25, 2014, pp241-265.
+- Tags: [books](../tags/books.md) [lindsay](../tags/lindsay.md) [viteritti](../tags/viteritti.md)
+

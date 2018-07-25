@@ -1,4 +1,8 @@
 # nyt
+### First air-conditioned subway cars
+- Trial on the F train
+- Source: [nyt](https://nyti.ms/2NJxqjw)
+
 ### School bonds bill passes in Albany
 - Tax-exempt bonds allowed for apartment or office construction above schools
 - Part of Board of Education's 10 year, $1.5bil construction program

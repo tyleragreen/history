@@ -1,5 +1,9 @@
 # Urban History
 This document accompanies my urban history studies. Focus will be placed on all financial aspects of public policy, particularly those of New York City and the [Metropolitan Transportation Authority](http://www.mta.info).
+### First air-conditioned subway cars
+- Trial on the F train
+- Source: [nyt](https://nyti.ms/2NJxqjw)
+
 ### Lindsay Timeline from Viteritti book
 - 1966 June 25 - U.S. Government closes Brooklyn Navy Yard; nine thousand jobs lost.
 - 1966 July 1 - NY State Legislature and Governor Rockefeller, after much political dispute, approve JVL's proposed city income tax and a historic commuter tax.

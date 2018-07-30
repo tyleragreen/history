@@ -1,11 +1,5 @@
-; title First air-conditioned subway cars
-; 1-source-id nyc
-; 1-source-url https://nyti.ms/2NJxqjw
-; 1-source-title Hostility Melts in Cool 'F' Train
-; 1-source-date July 20, 1967
-; 1-source-author Murray Schumach
-; tags air-conditioning lindsay
-
+# air-conditioning
+### First air-conditioned subway cars
 - Trial run of 4 cars (in a 10-car train) on the F train
   - From 179th in Jamaica to Lafayette Street in Manhattan
   - _Did the F stop at Broadway Lafayette?_
@@ -16,3 +10,6 @@
 - Walter Schlager was general manager of NYCTA
   - Said air-conditioned subway train required about 1/3 more power than conventional train
   - Would require new substations to provide additional power
+- Source: [nyc](https://nyti.ms/2NJxqjw)
+- Tags: [air-conditioning](../tags/air-conditioning.md) [lindsay](../tags/lindsay.md)
+

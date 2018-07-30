@@ -4,8 +4,18 @@ This document accompanies my urban history studies. Focus will be placed on all 
 - Source: [nyt](https://nyti.ms/2NFUj7A)
 
 ### First air-conditioned subway cars
-- Trial on the F train
-- Source: [nyt](https://nyti.ms/2NJxqjw)
+- Trial run of 4 cars (in a 10-car train) on the F train
+  - From 179th in Jamaica to Lafayette Street in Manhattan
+  - _Did the F stop at Broadway Lafayette?_
+- System had total of 4k cars
+- Lindsay hoped cars would decrease hostility index
+- Lindsay wanted to order 200 more cars for 1969 if trial was a success
+- Cost expected to be $165k, compared to $125k for non-air conditioned car
+- Walter Schlager was general manager of NYCTA
+  - Said air-conditioned subway train required about 1/3 more power than conventional train
+  - Would require new substations to provide additional power
+- Source: [nyc](https://nyti.ms/2NJxqjw)
+- Tags: [air-conditioning](tags/air-conditioning.md) [lindsay](tags/lindsay.md)
 
 ### Lindsay Timeline from Viteritti book
 - 1966 June 25 - U.S. Government closes Brooklyn Navy Yard; nine thousand jobs lost.

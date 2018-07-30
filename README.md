@@ -14,7 +14,7 @@ This document accompanies my urban history studies. Focus will be placed on all 
 - Walter Schlager was general manager of NYCTA
   - Said air-conditioned subway train required about 1/3 more power than conventional train
   - Would require new substations to provide additional power
-- Source: [nyc](https://nyti.ms/2NJxqjw)
+- Source: Murray Schumach, "Hostility Melts in Cool 'F' Train," *The New York Times*, July 20, 1967. [link](https://nyti.ms/2NJxqjw)
 - Tags: [air-conditioning](tags/air-conditioning.md) [lindsay](tags/lindsay.md)
 
 ### Lindsay Timeline from Viteritti book

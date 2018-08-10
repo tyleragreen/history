@@ -8,6 +8,7 @@
 - [Sources](sources/README.md)
   - [nyt](sources/nyt.md)
   - [newyorker](sources/newyorker.md)
+  - [ft](sources/ft.md)
 - [Tags](tags/README.md)
   - [air-conditioning](tags/air-conditioning.md)
   - [articles](tags/articles.md)

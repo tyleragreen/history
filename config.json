@@ -9,6 +9,7 @@
   ],
   "sources": {
     "nyt": "The New York Times",
-    "newyorker": "The New Yorker"
+    "newyorker": "The New Yorker",
+    "ft": "Financial Times"
   }
 }

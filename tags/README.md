@@ -16,6 +16,7 @@
   - [city-assistance](./city-assistance.md)
   - [congestion-pricing](./congestion-pricing.md)
   - [conway](./conway.md)
+  - [credit-rating](./credit-rating.md)
   - [cuomo-andrew](./cuomo-andrew.md)
   - [cuomo-mario](./cuomo-mario.md)
   - [de-blasio](./de-blasio.md)

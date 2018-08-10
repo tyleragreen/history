@@ -1,4 +1,4 @@
-# ft
+# credit-rating
 ### MTA credit rating downgraded to A
 - Outstanding debt 2.5 times size of projected revenue for 2018
 - S&P indicated a sustainable source of funding needed to prevent more downgrages

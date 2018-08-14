@@ -1,4 +1,11 @@
 # todo
+### Rapid Transit Act of 1894
+https://timesmachine.nytimes.com/timesmachine/1894/11/06/106878996.html?pageNumber=4
+https://timesmachine.nytimes.com/timesmachine/1894/11/08/106839825.html?pageNumber=4
+https://timesmachine.nytimes.com/timesmachine/1894/04/29/106829861.html?pageNumber=4
+https://timesmachine.nytimes.com/timesmachine/1894/11/08/106839863.html?pageNumber=8
+- Tags: [legislation](../tags/legislation.md) [todo](../tags/todo.md)
+
 ### Janno Lieber becomes MTA Chief Development Offficer
 - Was at Silverstein Properties
 - Source: Emma Fitzsimmons, "World Trade Center Developer to Oversee M.T.A. Expansion Projects," *The New York Times*, April 19, 2017. [link](https://www.nytimes.com/2017/04/19/nyregion/janno-lieber-mta-world-trade-center-silverstein.html)

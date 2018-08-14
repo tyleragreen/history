@@ -1,5 +1,12 @@
 # Urban History
 This document accompanies my urban history studies. Focus will be placed on all financial aspects of public policy, particularly those of New York City and the [Metropolitan Transportation Authority](http://www.mta.info).
+### Rapid Transit Act of 1894
+https://timesmachine.nytimes.com/timesmachine/1894/11/06/106878996.html?pageNumber=4
+https://timesmachine.nytimes.com/timesmachine/1894/11/08/106839825.html?pageNumber=4
+https://timesmachine.nytimes.com/timesmachine/1894/04/29/106829861.html?pageNumber=4
+https://timesmachine.nytimes.com/timesmachine/1894/11/08/106839863.html?pageNumber=8
+- Tags: [legislation](tags/legislation.md) [todo](tags/todo.md)
+
 ### MTA credit rating downgraded to A
 - Outstanding debt 2.5 times size of projected revenue for 2018
 - S&P indicated a sustainable source of funding needed to prevent more downgrages

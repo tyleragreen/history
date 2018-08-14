@@ -56,6 +56,7 @@
   - [koch](tags/koch.md)
   - [labor](tags/labor.md)
   - [legal](tags/legal.md)
+  - [legislation](tags/legislation.md)
   - [lhota](tags/lhota.md)
   - [lieber](tags/lieber.md)
   - [lindsay](tags/lindsay.md)

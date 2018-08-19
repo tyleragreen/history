@@ -27,6 +27,14 @@
 - Source: "Subway Contracts Solemnly Signed," *The New York Times*, March 20, 1913. [link](https://nyti.ms/2EFEd9A)
 - Tags: [bmt](../tags/bmt.md) [dual-contracts](../tags/dual-contracts.md) [expansion](../tags/expansion.md) [irt](../tags/irt.md) [mcaneny](../tags/mcaneny.md)
 
+**June 3, 1917** - Seventh Avenue Subway spur to 34th St opens
+- Pennsylvania Terminal was expected to be a local station
+- "When complete the road will convey a passenger without change from Van Cortland Park to New Lots, on Long Island."
+- New track said to be smoother than old track and had a raised footpath built alongside the track, in case of emergency
+- IRT officials opened 8-block spur to handle daily traffic to Pennsylvania Station
+- Source: "Open Subway Spur to 34th Street," *The New York Times*, June 4, 1917. [link](https://nyti.ms/2N2OkKo)
+- Tags: [expansion](../tags/expansion.md) [irt](../tags/irt.md)
+
 ## 1960s
 **1964** - 63rd St Tunnel Location Debated
 - CBC thought tunnel on 61st St would lead to better East Side IRT and future line connections

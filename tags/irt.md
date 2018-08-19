@@ -1,4 +1,13 @@
 # irt
+### Seventh Avenue Subway spur to 34th St opens
+- Date: June 3, 1917
+- Pennsylvania Terminal was expected to be a local station
+- "When complete the road will convey a passenger without change from Van Cortland Park to New Lots, on Long Island."
+- New track said to be smoother than old track and had a raised footpath built alongside the track, in case of emergency
+- IRT officials opened 8-block spur to handle daily traffic to Pennsylvania Station
+- Source: "Open Subway Spur to 34th Street," *The New York Times*, June 4, 1917. [link](https://nyti.ms/2N2OkKo)
+- Tags: [expansion](../tags/expansion.md) [irt](../tags/irt.md)
+
 ### Mayor McClellan takes first subway ride
 - Date: January 1, 1094
 - People

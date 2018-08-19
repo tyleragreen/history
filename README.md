@@ -1,5 +1,14 @@
 # Urban History
 This document accompanies my urban history studies. Focus will be placed on all financial aspects of public policy, particularly those of New York City and the [Metropolitan Transportation Authority](http://www.mta.info).
+### Seventh Avenue Subway spur to 34th St opens
+- Date: June 3, 1917
+- Pennsylvania Terminal was expected to be a local station
+- "When complete the road will convey a passenger without change from Van Cortland Park to New Lots, on Long Island."
+- New track said to be smoother than old track and had a raised footpath built alongside the track, in case of emergency
+- IRT officials opened 8-block spur to handle daily traffic to Pennsylvania Station
+- Source: "Open Subway Spur to 34th Street," *The New York Times*, June 4, 1917. [link](https://nyti.ms/2N2OkKo)
+- Tags: [expansion](tags/expansion.md) [irt](tags/irt.md)
+
 ### Transfer opens between Broadway-Lafayette and Uptown trains at Bleecker
 - Construction approved in 2005
 - Downtown transfer between IRT and IND was built in 1957

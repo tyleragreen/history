@@ -1,8 +1,22 @@
 # expansion Timeline
 ## Decades
+- [1090s](#1090s)
 - [1910s](#1910s)
 - [1960s](#1960s)
 - [2000s](#2000s)
+
+## 1090s
+**January 1, 1094** - Mayor McClellan takes first subway ride
+- People
+  - Mayor McClellan
+  - Contractor John B. McDonald
+  - Frederick Underwood, President of Erie Railroad
+  - Chief Engineer William Barclay Parsons
+- Most stations not quite complete yet
+- The Lenox Avenue line had also been built already
+  - Left via express tracks dropping below and east of local tracks north of 96th St
+- Source: "On Handcars Through Six Miles of Subway," *The New York Times*, January 2, 1904. [link](https://timesmachine.nytimes.com/timesmachine/1904/01/02/101161476.html)
+- Tags: [expansion](../tags/expansion.md) [irt](../tags/irt.md) [mcclellan](../tags/mcclellan.md)
 
 ## 1910s
 **March 19, 1913** - Dual Contracts signed

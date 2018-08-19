@@ -51,6 +51,7 @@
   - [lindsay](./lindsay.md)
   - [mac](./mac.md)
   - [mcaneny](./mcaneny.md)
+  - [mcclellan](./mcclellan.md)
   - [metro-north](./metro-north.md)
   - [moses](./moses.md)
   - [moynihan](./moynihan.md)

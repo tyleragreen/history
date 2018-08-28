@@ -1,4 +1,11 @@
 # federal-housing-policy
+### Housing Act of 1937
+- Date: 1937
+- Also called Wagner-Steagall Act
+- Created the United States Housing Authority within Department of the Interior
+- Lent money for low-cost construction to states and localities
+- Tags: [federal-housing-policy](../tags/federal-housing-policy.md)
+
 ### Home Owners' Loan Corporation
 - Date: 1933
 - Refinancing for nonfarm home mortgages in default

@@ -5,6 +5,7 @@
   - [fiscal-crisis](timelines/fiscal-crisis.md)
   - [expansion](timelines/expansion.md)
   - [mta-leadership](timelines/mta-leadership.md)
+  - [federal-housing-policy](timelines/federal-housing-policy.md)
 - [Sources](sources/README.md)
   - [nyt](sources/nyt.md)
   - [newyorker](sources/newyorker.md)

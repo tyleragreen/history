@@ -39,6 +39,7 @@
   - [education](tags/education.md)
   - [elevated](tags/elevated.md)
   - [expansion](tags/expansion.md)
+  - [fair-deal](tags/fair-deal.md)
   - [false](tags/false.md)
   - [fare-increases](tags/fare-increases.md)
   - [fare-payment](tags/fare-payment.md)

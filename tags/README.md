@@ -27,6 +27,7 @@
   - [education](./education.md)
   - [elevated](./elevated.md)
   - [expansion](./expansion.md)
+  - [fair-deal](./fair-deal.md)
   - [false](./false.md)
   - [fare-increases](./fare-increases.md)
   - [fare-payment](./fare-payment.md)

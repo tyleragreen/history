@@ -1,6 +1,7 @@
 # federal-housing-policy Timeline
 ## Decades
 - [1930s](#1930s)
+- [1940s](#1940s)
 
 ## 1930s
 **1933** - Home Owners' Loan Corporation
@@ -15,5 +16,16 @@
 - Also called Wagner-Steagall Act
 - Created the United States Housing Authority within Department of the Interior
 - Lent money for low-cost construction to states and localities
-- Tags: [federal-housing-policy](../tags/federal-housing-policy.md)
+- Tags: [federal-housing-policy](../tags/federal-housing-policy.md) [new-deal](../tags/new-deal.md)
+
+## 1940s
+**1949** - Housing Act of 1949
+- Part of Harry Truman's Fair Deal
+- Five main elements
+  - Federal financing for slum clearance
+  - Increased authorization for FHA mortgage insurance
+  - Federal funding for public housing units
+  - Funding for research on building techniques
+  - Financing for farm housing
+- Tags: [fair-deal](../tags/fair-deal.md) [federal-housing-policy](../tags/federal-housing-policy.md)
 

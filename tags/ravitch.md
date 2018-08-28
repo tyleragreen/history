@@ -1,4 +1,21 @@
 # ravitch
+### French-American company awarded car contract, MTA floats first bonds
+- New cars ordered: R68s
+  - New cars would have flat stainless steel exteriors to be easy to clean graffiti off of
+  - Order was $210mil, or $933k per sar
+    - Previous orders from Canadian and Japanese companies were $800k per car, but for smaller cars (IRT)
+  - Final assembly performed at Brooklyn Army Terminal
+  - Westinghouse-Amrail is a joint venture of Westinghouse of Pittsburgh and Francorail
+- NYCTA completed sale of first revenue-backed bonds
+  - To be used for capital program, including the subway cars ordered
+  - Sold $250mil of bonds at annual rate of 9.7%
+  - Prevoius car orders from Bombardier and Kawasaki included financing from Canadian and Japanese governments because MTA did not believe they could raise money through bond market at favorable rates
+  - Bonds were rated BBB+ from S&P
+  - Ravitch was hoping for 14%, elated to get 9.7%
+  - "The $250 million issue is the first of $1.6 billion in revenue bonds the M.T.A. plans to float. Over the 30-year life of the bonds, the debt service is expected to add less than 20 cents to the fare, Mr. Ravitch said. However, he added, if ridership or government subsidies increase, the impact on the fare could be lower."
+- Source: Ari Goldman, "FRENCH-U.S. CONCERN GRANTED M.T.A. PACT FOR 225 SUBWAY CARS," *The New York Times*, October 15, 1982. [link](https://nyti.ms/2ocwtWz)
+- Tags: [bonds](../tags/bonds.md) [mta](../tags/mta.md) [ravitch](../tags/ravitch.md)
+
 ### Ravitch named MTA chairman
 - Source: Leslie Maitland, "Carey Asks Richard Ravitch to Be Head of the M.T.A.," *The New York Times*, October 12, 1979. [link](https://nyti.ms/2yCXV2S)
 - Tags: [chairmen](../tags/chairmen.md) [mta](../tags/mta.md) [ravitch](../tags/ravitch.md)

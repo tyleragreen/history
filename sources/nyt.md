@@ -14,6 +14,7 @@
   - Ravitch was hoping for 14%, elated to get 9.7%
   - "The $250 million issue is the first of $1.6 billion in revenue bonds the M.T.A. plans to float. Over the 30-year life of the bonds, the debt service is expected to add less than 20 cents to the fare, Mr. Ravitch said. However, he added, if ridership or government subsidies increase, the impact on the fare could be lower."
 - Source: Ari Goldman, "FRENCH-U.S. CONCERN GRANTED M.T.A. PACT FOR 225 SUBWAY CARS," *The New York Times*, October 15, 1982. [link](https://nyti.ms/2ocwtWz)
+- Tags: [bonds](../tags/bonds.md) [mta](../tags/mta.md) [ravitch](../tags/ravitch.md)
 
 ### Subway areas closed due to crime
 - NYCTA planned to close the areas within 7 days without public hearings or MTA approval

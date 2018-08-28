@@ -15,6 +15,7 @@ This document accompanies my urban history studies. Focus will be placed on all 
   - Ravitch was hoping for 14%, elated to get 9.7%
   - "The $250 million issue is the first of $1.6 billion in revenue bonds the M.T.A. plans to float. Over the 30-year life of the bonds, the debt service is expected to add less than 20 cents to the fare, Mr. Ravitch said. However, he added, if ridership or government subsidies increase, the impact on the fare could be lower."
 - Source: Ari Goldman, "FRENCH-U.S. CONCERN GRANTED M.T.A. PACT FOR 225 SUBWAY CARS," *The New York Times*, October 15, 1982. [link](https://nyti.ms/2ocwtWz)
+- Tags: [bonds](tags/bonds.md) [mta](tags/mta.md) [ravitch](tags/ravitch.md)
 
 ### CBCNY report on maintaining useful life of subway cars
 - 2008 budget cuts extended car rehab cycles from every 6 and 12 year periods to every 7 and 14 years

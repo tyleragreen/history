@@ -45,6 +45,7 @@
   - [fdr](tags/fdr.md)
   - [federal](tags/federal.md)
   - [federal-assistance](tags/federal-assistance.md)
+  - [federal-housing-policy](tags/federal-housing-policy.md)
   - [fiscal-crisis](tags/fiscal-crisis.md)
   - [foran](tags/foran.md)
   - [gunn](tags/gunn.md)

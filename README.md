@@ -7,7 +7,7 @@ This document accompanies my urban history studies. Focus will be placed on all 
 - Borrower offered loan over longer period with lower interest rate
 - HOLC purchased mortgage loans from lenders and refinanced for the borrowers
   - Was favorable for lenders because entire remaining purchase price was bought, _plus taxes_
-- Tags: [fdr](tags/fdr.md) [housing](tags/housing.md) [new-deal](tags/new-deal.md)
+- Tags: [fdr](tags/fdr.md) [federal-housing-policy](tags/federal-housing-policy.md) [new-deal](tags/new-deal.md)
 
 ### French-American company awarded car contract, MTA floats first bonds
 - New cars ordered: R68s

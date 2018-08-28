@@ -34,6 +34,7 @@
   - [fdr](./fdr.md)
   - [federal](./federal.md)
   - [federal-assistance](./federal-assistance.md)
+  - [federal-housing-policy](./federal-housing-policy.md)
   - [fiscal-crisis](./fiscal-crisis.md)
   - [foran](./foran.md)
   - [gunn](./gunn.md)

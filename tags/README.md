@@ -39,6 +39,7 @@
   - [fiscal-crisis](./fiscal-crisis.md)
   - [foran](./foran.md)
   - [gunn](./gunn.md)
+  - [hoover](./hoover.md)
   - [housing](./housing.md)
   - [hudson-tunnels](./hudson-tunnels.md)
   - [ind](./ind.md)

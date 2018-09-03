@@ -1,5 +1,14 @@
 # Urban History
 This document accompanies my urban history studies. Focus will be placed on all financial aspects of public policy, particularly those of New York City and the [Metropolitan Transportation Authority](http://www.mta.info).
+### Housing Act of 1954
+- Date: 1954
+- Series of amendments to Housing Act of 1934
+- Based on the Illinois Urban Community Conservation Act of 1953
+  - Radical because for the first time blight _prevention_, not just _removal_ was defined as a "public purpose" and cause for invoking eminent domain
+- Drafted by University of Chicago and Chicago Metropolitan Housing and Planning Council (MHPC) leaders to provide federal funding for their local urban renewal projects
+- Source: Beryl Satter, "Family Properties: Race, Real Estate, and the Exploitation of Black Urban America", 2009, pp50-51.
+- Tags: [federal-housing-policy](tags/federal-housing-policy.md)
+
 ### Federal Home Loan Bank Act
 - Date: July 22, 1932
 - Intended to lower the cost of home ownership

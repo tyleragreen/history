@@ -2,6 +2,7 @@
 ## Decades
 - [1930s](#1930s)
 - [1940s](#1940s)
+- [1950s](#1950s)
 
 ## 1930s
 **July 22, 1932** - Federal Home Loan Bank Act
@@ -43,4 +44,13 @@
     - Provided money to build public housing for 15% of those displaced by urban renewal
 - Source: Beryl Satter, "Family Properties: Race, Real Estate, and the Exploitation of Black Urban America", 2009, pp47-49.
 - Tags: [fair-deal](../tags/fair-deal.md) [federal-housing-policy](../tags/federal-housing-policy.md)
+
+## 1950s
+**1954** - Housing Act of 1954
+- Series of amendments to Housing Act of 1934
+- Based on the Illinois Urban Community Conservation Act of 1953
+  - Radical because for the first time blight _prevention_, not just _removal_ was defined as a "public purpose" and cause for invoking eminent domain
+- Drafted by University of Chicago and Chicago Metropolitan Housing and Planning Council (MHPC) leaders to provide federal funding for their local urban renewal projects
+- Source: Beryl Satter, "Family Properties: Race, Real Estate, and the Exploitation of Black Urban America", 2009, pp50-51.
+- Tags: [federal-housing-policy](../tags/federal-housing-policy.md)
 

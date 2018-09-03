@@ -23,7 +23,7 @@
     - Could acquire land in blighted areas, demolish structures, and sell at a discount to private investors who would bulid profitable structures
   - Illinois Relocation Act was passed at the same time
     - Provided money to build public housing for 15% of those displaced by urban renewal
-- Source: Beryl Satter, "Family Properties: Race, Real Estate, and the Exploitation of Black Urban America", 2009, pp47-49 .
+- Source: Beryl Satter, "Family Properties: Race, Real Estate, and the Exploitation of Black Urban America", 2009, pp47-49.
 - Tags: [fair-deal](../tags/fair-deal.md) [federal-housing-policy](../tags/federal-housing-policy.md)
 
 ### Housing Act of 1937

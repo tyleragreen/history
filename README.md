@@ -9,6 +9,7 @@ This document accompanies my urban history studies. Focus will be placed on all 
   - Assisted with air rights over Hudson and Atlantic yards
   - Tried to link planning to retail development and require property owners near subways to pay for improvements
 - Source: Sam Roberts, "William Wheeler, New York Mass Transit Visionary, Dies at 69," *The New York Times*, October 31, 2018. [link](https://www.nytimes.com/2018/10/31/obituaries/william-wheeler-dead.html)
+- Tags: [mta](tags/mta.md) [people](tags/people.md) [wheeler](tags/wheeler.md)
 
 ### Housing Act of 1954
 - Date: 1954

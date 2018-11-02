@@ -116,3 +116,4 @@
   - [twu](tags/twu.md)
   - [viteritti](tags/viteritti.md)
   - [walder](tags/walder.md)
+  - [wheeler](tags/wheeler.md)

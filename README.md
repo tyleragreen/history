@@ -1,5 +1,14 @@
 # Urban History
 This document accompanies my urban history studies. Focus will be placed on all financial aspects of public policy, particularly those of New York City and the [Metropolitan Transportation Authority](http://www.mta.info).
+### NYT TODO
+- Ronan Leaving M.T.A. With a Lot of Believers https://www.nytimes.com/1974/04/27/archives/ronan-leaving-mta-with-a-lot-of-believers-ronan-leavintg-mta-with.html
+- Longstanding Concerns Over Public Authorities https://books.google.com/books?id=30POjUBce6YC&pg=PA284&lpg=PA284&dq=Temporary+State+Commission+on+Coordination+of+State+Authorities&source=bl&ots=jg0tJzEFnO&sig=9GEAkr2P6_2QY3J3Yshzwo4CKjA&hl=en&sa=X&ved=0ahUKEwjj6fj91PXXAhUlmeAKHYJUCxkQ6AEILDAC#v=onepage&q=Temporary%20State%20Commission%20on%20Coordination%20of%20State%20Authorities&f=false
+- Staff report on public authorities under New York State, March 21, 1956 https://books.google.com.uy/books?id=KFo1AAAAIAAJ&hl=es-419
+- Amid Subway Crisis, Cuomo Taps an Old Hand to Head M.T.A. https://www.nytimes.com/2017/06/22/nyregion/mta-subway-cuomo.html
+- Obama Unveils Stricter Rules Against Segregation in Housing https://www.nytimes.com/2015/07/09/us/hud-issuing-new-rules-to-fight-segregation.html
+- Trump Administration Postpones an Obama Fair-Housing Rule https://www.nytimes.com/2018/01/04/upshot/trump-delays-hud-fair-housing-obama-rule.html
+- Tags: [todo](tags/todo.md)
+
 ### William Wheeler passes away
 - Date: October 27, 2018
 - Involved in A LOT

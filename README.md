@@ -1,5 +1,9 @@
 # Urban History
 This document accompanies my urban history studies. Focus will be placed on all financial aspects of public policy, particularly those of New York City and the [Metropolitan Transportation Authority](http://www.mta.info).
+### Richard Ravitch NYT Op-Ed on Governor's Interference
+- Source: Richard Ravitch, "New York's Subways Need an Independent M.T.A.," *The New York Times*, March 29, 2019. [link](https://www.nytimes.com/2019/03/29/opinion/new-yorks-subways-mta.html)
+- Tags: [mta](tags/mta.md) [ravitch](tags/ravitch.md)
+
 ### NYT TODO
 - Ronan Leaving M.T.A. With a Lot of Believers https://www.nytimes.com/1974/04/27/archives/ronan-leaving-mta-with-a-lot-of-believers-ronan-leavintg-mta-with.html
 - Longstanding Concerns Over Public Authorities https://books.google.com/books?id=30POjUBce6YC&pg=PA284&lpg=PA284&dq=Temporary+State+Commission+on+Coordination+of+State+Authorities&source=bl&ots=jg0tJzEFnO&sig=9GEAkr2P6_2QY3J3Yshzwo4CKjA&hl=en&sa=X&ved=0ahUKEwjj6fj91PXXAhUlmeAKHYJUCxkQ6AEILDAC#v=onepage&q=Temporary%20State%20Commission%20on%20Coordination%20of%20State%20Authorities&f=false

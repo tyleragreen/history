@@ -1,4 +1,8 @@
 # ravitch
+### Richard Ravitch NYT Op-Ed on Governor's Interference
+- Source: Richard Ravitch, "New York's Subways Need an Independent M.T.A.," *The New York Times*, March 29, 2019. [link](https://www.nytimes.com/2019/03/29/opinion/new-yorks-subways-mta.html)
+- Tags: [mta](../tags/mta.md) [ravitch](../tags/ravitch.md)
+
 ### French-American company awarded car contract, MTA floats first bonds
 - New cars ordered: R68s
   - New cars would have flat stainless steel exteriors to be easy to clean graffiti off of

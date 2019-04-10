@@ -1,4 +1,8 @@
 # mta
+### Mario Cuomo attempts to make MTA chairman serve at the pleasure of the governor
+- Source: [nyt ](https://www.nytimes.com/1983/09/04/weekinreview/cuomo-thinking-better-of-trying-to-control-mta.html)
+- Tags: [mta](../tags/mta.md)
+
 ### Richard Ravitch NYT Op-Ed on Governor's Interference
 - Discourages city take-over because it resembles system that failed pre-MTA and risks losing regional taxes currently provided from state Legislature
 - Source: Richard Ravitch, "New York's Subways Need an Independent M.T.A.," *The New York Times*, March 29, 2019. [link](https://www.nytimes.com/2019/03/29/opinion/new-yorks-subways-mta.html)

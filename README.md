@@ -1,6 +1,7 @@
 # Urban History
 This document accompanies my urban history studies. Focus will be placed on all financial aspects of public policy, particularly those of New York City and the [Metropolitan Transportation Authority](http://www.mta.info).
 ### Richard Ravitch NYT Op-Ed on Governor's Interference
+- Discourages city take-over because it resembles system that failed pre-MTA and risks losing regional taxes currently provided from state Legislature
 - Source: Richard Ravitch, "New York's Subways Need an Independent M.T.A.," *The New York Times*, March 29, 2019. [link](https://www.nytimes.com/2019/03/29/opinion/new-yorks-subways-mta.html)
 - Tags: [mta](tags/mta.md) [ravitch](tags/ravitch.md)
 

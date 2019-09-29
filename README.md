@@ -5,6 +5,7 @@ This document accompanies my urban history studies. Focus will be placed on all 
 - "Business is booming so much that Metro-North has considered building an extension into Pennsylvania Station and rehabilitating an old east-west line, which would run from Beacon in Dutchess County to the Brewster station in Putnam."
 - "'We've always viewed the train as our connection to the metropolitan area,' she said. 'I feel like it keeps us connected to life and activity, so we're not just forgotten out here.'"
 - Source: Claudia Rowe, "6 Miles for $6 Million," *The New York Times*, July 9, 2000. [link](https://nyti.ms/2oeds9d)
+- Tags: [conway](tags/conway.md) [metro-north](tags/metro-north.md)
 
 ### State public authority board members given legal obligation to authorities, not elected officials
 - Source: [nyt ](https://www.nytimes.com/2009/12/12/nyregion/12authorities.html)
